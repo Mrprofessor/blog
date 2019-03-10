@@ -1,0 +1,1326 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/professor/dev/blog/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/professor/dev/blog/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "99f71b037fd62db1a7db89740307b4ed",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a421874d3345fa66b8b11837531856f7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "056e36c939a3d4eb8819776c84220458",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "48bd26d390a96098bfeeef92573b3e3c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "49d87714bd989cb388302a354040368f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "bed2864a2c22fd5a6c4cc11ce5fece23",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9e9b14d1ddf5b7771036df1ab36e3f7b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "b65901a1-eed4-5507-b2f8-7b23f4962f1c": {
+      "resolve": "/Users/professor/dev/blog/node_modules/gatsby-source-filesystem",
+      "id": "b65901a1-eed4-5507-b2f8-7b23f4962f1c",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.23",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/professor/dev/blog/src/pages",
+        "name": "pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.23",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "142f00f0f89e18454e3b6a7b8cfb2109",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2": {
+      "resolve": "/Users/professor/dev/blog/node_modules/gatsby-transformer-remark",
+      "id": "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2",
+      "name": "gatsby-transformer-remark",
+      "version": "2.3.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.3.1",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-to-string",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "fd0df377b0f6ca4266b17decc5d83370",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a0eba58a-7fe6-5d0c-8c59-539cb2b33d60": {
+      "resolve": "/Users/professor/dev/blog/node_modules/gatsby-plugin-sass",
+      "id": "a0eba58a-7fe6-5d0c-8c59-539cb2b33d60",
+      "name": "gatsby-plugin-sass",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^7.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.9.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "2f7c88f137d0a23a1a8c9d55fdb7ebbf",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/professor/dev/blog",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "78cb03e182f98a793f419d94da581b00",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/dev/blog",
+      "packageJson": {
+        "name": "gatsby-starter-hello-world",
+        "description": "A simplified bare-bones starter for Gatsby",
+        "version": "0.1.0",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.1.27"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^2.0.10"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.23"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.3.1"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.11.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.4"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.4"
+          },
+          {
+            "name": "typeface-roboto",
+            "version": "0.0.54"
+          },
+          {
+            "name": "typeface-roboto-mono",
+            "version": "0.0.54"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-eslint",
+            "version": "^10.0.1"
+          },
+          {
+            "name": "eslint-config-prettier",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "eslint-plugin-prettier",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.16.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "6effb33ce67d5bedbe0ef2025798f5e5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ea736e02-3a95-5d4b-b81f-3d450700b462": {
+      "resolve": "/Users/professor/dev/blog/node_modules/gatsby-plugin-page-creator",
+      "id": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.9",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/professor/dev/blog/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "99658620e7959cc87474b26bf7c3f882",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "typecasted",
+        "author": "Rudra Narayan",
+        "description": "Personal journal by Rudra Narayan.",
+        "siteUrl": "https://mrprofessor.io"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-03-10T12:33:37.667Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ee895b34b75ceaacebe361a4348d9217",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "2817c826-74cb-5314-850b-ce979793ac2b": {
+      "id": "2817c826-74cb-5314-850b-ce979793ac2b",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "ef3640407605961694765df88e695f65",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2019-03-09T22:10:50.105Z",
+      "accessTime": "2019-03-10T12:33:47.041Z",
+      "changeTime": "2019-03-09T22:10:50.105Z",
+      "birthTime": "2019-03-09T18:33:59.117Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 16777222,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17888211,
+      "blocks": 0,
+      "atimeMs": 1552221227041.4912,
+      "mtimeMs": 1552169450105.0522,
+      "ctimeMs": 1552169450105.0522,
+      "birthtimeMs": 1552156439117.0015,
+      "atime": "2019-03-10T12:33:47.041Z",
+      "mtime": "2019-03-09T22:10:50.105Z",
+      "ctime": "2019-03-09T22:10:50.105Z",
+      "birthtime": "2019-03-09T18:33:59.117Z"
+    },
+    "5050d14f-a429-5da7-b14c-940df0e61a42": {
+      "id": "5050d14f-a429-5da7-b14c-940df0e61a42",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "41afef10499e885d201798ae6d3cf219",
+        "type": "Directory",
+        "description": "Directory \"src/pages/blog\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/blog",
+      "relativePath": "blog",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2019-03-09T18:50:22.689Z",
+      "accessTime": "2019-03-10T12:33:47.046Z",
+      "changeTime": "2019-03-09T18:50:22.689Z",
+      "birthTime": "2019-03-09T18:47:58.359Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages",
+      "base": "blog",
+      "ext": "",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17888899,
+      "blocks": 0,
+      "atimeMs": 1552221227045.5903,
+      "mtimeMs": 1552157422688.8206,
+      "ctimeMs": 1552157422688.8206,
+      "birthtimeMs": 1552157278358.944,
+      "atime": "2019-03-10T12:33:47.046Z",
+      "mtime": "2019-03-09T18:50:22.689Z",
+      "ctime": "2019-03-09T18:50:22.689Z",
+      "birthtime": "2019-03-09T18:47:58.359Z"
+    },
+    "d182c062-3a1c-573d-900c-75961daa9f6b": {
+      "id": "d182c062-3a1c-573d-900c-75961daa9f6b",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "afaf12bcca231a44f805dce315e8d130",
+        "type": "Directory",
+        "description": "Directory \"src/pages/blog/pilot\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/pilot",
+      "relativePath": "blog/pilot",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-03-10T09:40:11.338Z",
+      "accessTime": "2019-03-10T12:33:47.048Z",
+      "changeTime": "2019-03-10T09:40:11.338Z",
+      "birthTime": "2019-03-09T18:50:22.689Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages/blog",
+      "base": "pilot",
+      "ext": "",
+      "name": "pilot",
+      "relativeDirectory": "blog",
+      "dev": 16777222,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17888943,
+      "blocks": 0,
+      "atimeMs": 1552221227048.1763,
+      "mtimeMs": 1552210811338.479,
+      "ctimeMs": 1552210811338.479,
+      "birthtimeMs": 1552157422688.7788,
+      "atime": "2019-03-10T12:33:47.048Z",
+      "mtime": "2019-03-10T09:40:11.338Z",
+      "ctime": "2019-03-10T09:40:11.338Z",
+      "birthtime": "2019-03-09T18:50:22.689Z"
+    },
+    "262ef872-f843-56d3-80ce-f15b3bff53ab": {
+      "id": "262ef872-f843-56d3-80ce-f15b3bff53ab",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "65e930455f6cf85867d886909dc3052a",
+        "type": "Directory",
+        "description": "Directory \"src/pages/blog/summary\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/summary",
+      "relativePath": "blog/summary",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-03-09T21:21:31.146Z",
+      "accessTime": "2019-03-10T12:33:47.048Z",
+      "changeTime": "2019-03-09T21:21:31.146Z",
+      "birthTime": "2019-03-09T18:49:11.138Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages/blog",
+      "base": "summary",
+      "ext": "",
+      "name": "summary",
+      "relativeDirectory": "blog",
+      "dev": 16777222,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17888939,
+      "blocks": 0,
+      "atimeMs": 1552221227048.211,
+      "mtimeMs": 1552166491145.672,
+      "ctimeMs": 1552166491145.672,
+      "birthtimeMs": 1552157351137.6375,
+      "atime": "2019-03-10T12:33:47.048Z",
+      "mtime": "2019-03-09T21:21:31.146Z",
+      "ctime": "2019-03-09T21:21:31.146Z",
+      "birthtime": "2019-03-09T18:49:11.138Z"
+    },
+    "478e4807-5878-592b-9490-b6aa34700b38": {
+      "id": "478e4807-5878-592b-9490-b6aa34700b38",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4bfe90009908e30d904cbe6d1c3cfa47",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 113,
+      "prettySize": "113 B",
+      "modifiedTime": "2019-03-09T21:07:30.331Z",
+      "accessTime": "2019-03-10T12:26:27.566Z",
+      "changeTime": "2019-03-09T21:07:30.331Z",
+      "birthTime": "2019-03-09T21:07:30.330Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17936396,
+      "blocks": 8,
+      "atimeMs": 1552220787566.3538,
+      "mtimeMs": 1552165650330.5356,
+      "ctimeMs": 1552165650330.6353,
+      "birthtimeMs": 1552165650330.4556,
+      "atime": "2019-03-10T12:26:27.566Z",
+      "mtime": "2019-03-09T21:07:30.331Z",
+      "ctime": "2019-03-09T21:07:30.331Z",
+      "birthtime": "2019-03-09T21:07:30.330Z"
+    },
+    "5a741cad-f195-537c-97b2-172acba2d460": {
+      "id": "5a741cad-f195-537c-97b2-172acba2d460",
+      "children": [
+        "f539b4f2-4e53-5f81-82a1-5d82781148e5"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "736c4c2ebe1679b6372e1c0290219cb8",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/pilot/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/pilot/index.md",
+      "relativePath": "blog/pilot/index.md",
+      "extension": "md",
+      "size": 6595,
+      "prettySize": "6.59 kB",
+      "modifiedTime": "2019-03-10T13:49:55.077Z",
+      "accessTime": "2019-03-10T13:49:55.077Z",
+      "changeTime": "2019-03-10T13:49:55.077Z",
+      "birthTime": "2019-03-10T13:49:55.077Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages/blog/pilot",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "blog/pilot",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17953731,
+      "blocks": 16,
+      "atimeMs": 1552225795076.8333,
+      "mtimeMs": 1552225795076.9766,
+      "ctimeMs": 1552225795077.1611,
+      "birthtimeMs": 1552225795076.8333,
+      "atime": "2019-03-10T13:49:55.077Z",
+      "mtime": "2019-03-10T13:49:55.077Z",
+      "ctime": "2019-03-10T13:49:55.077Z",
+      "birthtime": "2019-03-10T13:49:55.077Z"
+    },
+    "ea1da826-2fe3-5826-89b1-d07d15e4763c": {
+      "id": "ea1da826-2fe3-5826-89b1-d07d15e4763c",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "84d0936a8694dc5536e1b60d902856be",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/blog.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/blog.js",
+      "relativePath": "blog.js",
+      "extension": "js",
+      "size": 808,
+      "prettySize": "808 B",
+      "modifiedTime": "2019-03-09T22:10:50.105Z",
+      "accessTime": "2019-03-10T12:26:27.566Z",
+      "changeTime": "2019-03-09T22:10:50.105Z",
+      "birthTime": "2019-03-09T22:10:50.104Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages",
+      "base": "blog.js",
+      "ext": ".js",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17939552,
+      "blocks": 8,
+      "atimeMs": 1552220787566.3398,
+      "mtimeMs": 1552169450104.583,
+      "ctimeMs": 1552169450104.7637,
+      "birthtimeMs": 1552169450104.4446,
+      "atime": "2019-03-10T12:26:27.566Z",
+      "mtime": "2019-03-09T22:10:50.105Z",
+      "ctime": "2019-03-09T22:10:50.105Z",
+      "birthtime": "2019-03-09T22:10:50.104Z"
+    },
+    "834e4047-c7be-58d3-a5d2-b63b7acf4a9e": {
+      "id": "834e4047-c7be-58d3-a5d2-b63b7acf4a9e",
+      "children": [
+        "fca8e4ab-e626-5740-9fe3-2e7729120e59"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d2eab091200a2ec953e6b1a05b435fae",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/summary/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/summary/index.md",
+      "relativePath": "blog/summary/index.md",
+      "extension": "md",
+      "size": 1654,
+      "prettySize": "1.65 kB",
+      "modifiedTime": "2019-03-10T14:03:34.819Z",
+      "accessTime": "2019-03-10T14:03:34.819Z",
+      "changeTime": "2019-03-10T14:03:34.819Z",
+      "birthTime": "2019-03-10T14:03:34.819Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages/blog/summary",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "blog/summary",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17954709,
+      "blocks": 8,
+      "atimeMs": 1552226614819.0862,
+      "mtimeMs": 1552226614819.3137,
+      "ctimeMs": 1552226614819.4956,
+      "birthtimeMs": 1552226614819.0862,
+      "atime": "2019-03-10T14:03:34.819Z",
+      "mtime": "2019-03-10T14:03:34.819Z",
+      "ctime": "2019-03-10T14:03:34.819Z",
+      "birthtime": "2019-03-10T14:03:34.819Z"
+    },
+    "SitePage /blog/summary": {
+      "jsonName": "blog-summary-2cf",
+      "internalComponentName": "ComponentBlogSummary",
+      "path": "/blog/summary",
+      "component": "/Users/professor/dev/blog/src/templates/BlogTemplate.js",
+      "componentChunkName": "component---src-templates-blog-template-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/professor/dev/blog/src/templates/BlogTemplate.js",
+      "id": "SitePage /blog/summary",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8313739ddf5739cbae4941be8881e76b",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/pilot": {
+      "jsonName": "blog-pilot-6bf",
+      "internalComponentName": "ComponentBlogPilot",
+      "path": "/blog/pilot",
+      "component": "/Users/professor/dev/blog/src/templates/BlogTemplate.js",
+      "componentChunkName": "component---src-templates-blog-template-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/professor/dev/blog/src/templates/BlogTemplate.js",
+      "id": "SitePage /blog/pilot",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d57755c33bd504627c6d6c93d67bbf36",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "jsonName": "blog-f7a",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "/Users/professor/dev/blog/src/pages/blog.js",
+      "componentChunkName": "component---src-pages-blog-js",
+      "context": {},
+      "pluginCreator___NODE": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+      "pluginCreatorId": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+      "componentPath": "/Users/professor/dev/blog/src/pages/blog.js",
+      "id": "SitePage /blog/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aa1d84ec3090f48ec0440653295ccf8c",
+        "description": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/professor/dev/blog/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+      "pluginCreatorId": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+      "componentPath": "/Users/professor/dev/blog/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a7ce6ca5063d85e37a270d37b0c774b7",
+        "description": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f539b4f2-4e53-5f81-82a1-5d82781148e5": {
+      "id": "f539b4f2-4e53-5f81-82a1-5d82781148e5",
+      "children": [],
+      "parent": "5a741cad-f195-537c-97b2-172acba2d460",
+      "internal": {
+        "content": "\nSpill litter box, scratch at owner, destroy all furniture, especially couch stare at ceiling light. I vomit in the bed in the middle of the night cough. Scratch my tummy actually i hate you now fight me. Attack feet rub whiskers on bare skin act innocent. I hate cucumber pls dont throw it at me chase ball of string. Kitty poochy pushes butt to face pet me pet me pet me pet me, bite, scratch, why are you petting me so show belly and licks your face yet meow loudly just to annoy owners so leave hair on owner's clothes. Chase laser eat grass, throw it back up, catch mouse and gave it as a present when owners are asleep, cry for no apparent reason so but let me in let me out let me in let me out let me in let me out who broke this door anyway . Attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently. \n\nHowl uncontrollably for no reason lie in the sink all day. Kitty loves pigs cat dog hate mouse eat string barf pillow no baths hate everything for if it fits, i sits, and have secret plans but lay on arms while you're using the keyboard but groom forever, stretch tongue and leave it slightly out, blep yet nya nya nyan. Fat baby cat best buddy little guy paw at beetle and eat it before it gets away yet meow meow or stare at guinea pigs so favor packaging over toy or meoooow eat owner's food. Missing until dinner time meow and walk away check cat door for ambush 10 times before coming in hiss at vacuum cleaner refuse to drink water except out of someone's glass. Find a way to fit in tiny box chase after silly colored fish toys around the house lick the plastic bag. Eat all the power cords i like frogs and 0 gravity. Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry refuse to come home when humans are going to bed; stay out all night then yowl like i am dying at 4am and destroy couch, yet more napping, more napping all the napping is exhausting for you have cat to be kitten me right meow. Sniff all the things refuse to leave cardboard box for mark territory destroy the blinds but cat fur is the new black . Small kitty warm kitty little balls of fur make plans to dominate world and then take a nap. I can haz flop over, but weigh eight pounds but take up a full-size bed i hate cucumber pls dont throw it at me so pee in the shoe ask for petting or get video posted to internet for chasing red dot. Scoot butt on the rug annoy owner until he gives you food say meow repeatedly until belly rubs, feels good munch on tasty moths yet sit on the laptop sit by the fire and chew the plant for burrow under covers. Lie on your belly and purr when you are asleep proudly present butt to human check cat door for ambush 10 times before coming in, eat the fat cats food sit on the laptop. The cat was chasing the mouse fooled again thinking the dog likes me wack the mini furry mouse licks paws yet mew meow and walk away yet my left donut is missing, as is my right. I can haz sleep on keyboard, so be a nyan cat, feel great about it, be annoying 24/7 poop rainbows in litter box all day sleep on my human's head. Purr like an angel. Why use post when this sofa is here snuggles up to shoulders or knees and purrs you to sleep meowing non stop for food climb a tree, wait for a fireman jump to fireman then scratch his face attack dog, run away and pretend to be victim dont wait for the storm to pass, dance in the rain i shredded your linens for you. Purr while eating lick butt, for fall over dead (not really but gets sypathy) stand in front of the computer screen, yet chirp at birds. Trip on catnip stare out cat door then go back inside. The door is opening! how exciting oh, it's you, meh stare at wall turn and meow stare at wall some more meow again continue staring mesmerizing birds but prance along on top of the garden fence, annoy the neighbor's dog and make it bark kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. \n\nI like cats because they are fat and fluffy be superior purr like an angel loved it, hated it, loved it, hated it. Cough furball cat sit like bread so eat all the power cords scratch leg; meow for can opener to feed me and poop in litter box, scratch the walls. Jump off balcony, onto stranger's head thug cat purrr purr littel cat, little cat purr purr for scoot butt on the rug hide from vacuum cleaner. Rub butt on table massacre a bird in the living room and then look like the cutest and most innocent animal on the planet for claws in your leg yet shake treat bag kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute?. Sleep on my human's head furrier and even more furrier hairball lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back try to jump onto window and fall while scratching at wall and jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed yet meow loudly just to annoy owners. Inspect anything brought into the house let me in let me out let me in let me out let me in let me out who broke this door anyway yet pet me pet me don't pet me somehow manage to catch a bird but have no idea what to do next, so play with it until it dies of shock meow to be let in, and immediately regret falling into bathtub. Leave fur on owners clothes litter kitter kitty litty little kitten big roar roar feed me meowing chowing and wowing. Mrow meow for food, then when human fills food dish, take a few bites of food and continue meowing pet me pet me don't pet me. My cat stared at me he was sipping his tea, too. Flop over howl uncontrollably for no reason. kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff, but jump around on couch, meow constantly until given food, tuxedo cats always looking dapper and tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad sniff other cat's butt and hang jaw half open thereafter and attack feet. Claw drapes. Give me some of your food give me some of your food give me some of your food meh, i don't want it mrow leave fur on owners clothes and purr when being pet let me in let me out let me in let me out let me in let me out who broke this door anyway . \n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "c1f97cc4094f4bd8f94e922d264fec20",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Pilot",
+        "date": "2019-01-21",
+        "path": "/blog/pilot",
+        "publish": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nSpill litter box, scratch at owner, destroy all furniture, especially couch stare at ceiling light. I vomit in the bed in the middle of the night cough. Scratch my tummy actually i hate you now fight me. Attack feet rub whiskers on bare skin act innocent. I hate cucumber pls dont throw it at me chase ball of string. Kitty poochy pushes butt to face pet me pet me pet me pet me, bite, scratch, why are you petting me so show belly and licks your face yet meow loudly just to annoy owners so leave hair on owner's clothes. Chase laser eat grass, throw it back up, catch mouse and gave it as a present when owners are asleep, cry for no apparent reason so but let me in let me out let me in let me out let me in let me out who broke this door anyway . Attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently. \n\nHowl uncontrollably for no reason lie in the sink all day. Kitty loves pigs cat dog hate mouse eat string barf pillow no baths hate everything for if it fits, i sits, and have secret plans but lay on arms while you're using the keyboard but groom forever, stretch tongue and leave it slightly out, blep yet nya nya nyan. Fat baby cat best buddy little guy paw at beetle and eat it before it gets away yet meow meow or stare at guinea pigs so favor packaging over toy or meoooow eat owner's food. Missing until dinner time meow and walk away check cat door for ambush 10 times before coming in hiss at vacuum cleaner refuse to drink water except out of someone's glass. Find a way to fit in tiny box chase after silly colored fish toys around the house lick the plastic bag. Eat all the power cords i like frogs and 0 gravity. Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry refuse to come home when humans are going to bed; stay out all night then yowl like i am dying at 4am and destroy couch, yet more napping, more napping all the napping is exhausting for you have cat to be kitten me right meow. Sniff all the things refuse to leave cardboard box for mark territory destroy the blinds but cat fur is the new black . Small kitty warm kitty little balls of fur make plans to dominate world and then take a nap. I can haz flop over, but weigh eight pounds but take up a full-size bed i hate cucumber pls dont throw it at me so pee in the shoe ask for petting or get video posted to internet for chasing red dot. Scoot butt on the rug annoy owner until he gives you food say meow repeatedly until belly rubs, feels good munch on tasty moths yet sit on the laptop sit by the fire and chew the plant for burrow under covers. Lie on your belly and purr when you are asleep proudly present butt to human check cat door for ambush 10 times before coming in, eat the fat cats food sit on the laptop. The cat was chasing the mouse fooled again thinking the dog likes me wack the mini furry mouse licks paws yet mew meow and walk away yet my left donut is missing, as is my right. I can haz sleep on keyboard, so be a nyan cat, feel great about it, be annoying 24/7 poop rainbows in litter box all day sleep on my human's head. Purr like an angel. Why use post when this sofa is here snuggles up to shoulders or knees and purrs you to sleep meowing non stop for food climb a tree, wait for a fireman jump to fireman then scratch his face attack dog, run away and pretend to be victim dont wait for the storm to pass, dance in the rain i shredded your linens for you. Purr while eating lick butt, for fall over dead (not really but gets sypathy) stand in front of the computer screen, yet chirp at birds. Trip on catnip stare out cat door then go back inside. The door is opening! how exciting oh, it's you, meh stare at wall turn and meow stare at wall some more meow again continue staring mesmerizing birds but prance along on top of the garden fence, annoy the neighbor's dog and make it bark kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. \n\nI like cats because they are fat and fluffy be superior purr like an angel loved it, hated it, loved it, hated it. Cough furball cat sit like bread so eat all the power cords scratch leg; meow for can opener to feed me and poop in litter box, scratch the walls. Jump off balcony, onto stranger's head thug cat purrr purr littel cat, little cat purr purr for scoot butt on the rug hide from vacuum cleaner. Rub butt on table massacre a bird in the living room and then look like the cutest and most innocent animal on the planet for claws in your leg yet shake treat bag kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute?. Sleep on my human's head furrier and even more furrier hairball lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back try to jump onto window and fall while scratching at wall and jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed yet meow loudly just to annoy owners. Inspect anything brought into the house let me in let me out let me in let me out let me in let me out who broke this door anyway yet pet me pet me don't pet me somehow manage to catch a bird but have no idea what to do next, so play with it until it dies of shock meow to be let in, and immediately regret falling into bathtub. Leave fur on owners clothes litter kitter kitty litty little kitten big roar roar feed me meowing chowing and wowing. Mrow meow for food, then when human fills food dish, take a few bites of food and continue meowing pet me pet me don't pet me. My cat stared at me he was sipping his tea, too. Flop over howl uncontrollably for no reason. kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff, but jump around on couch, meow constantly until given food, tuxedo cats always looking dapper and tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad sniff other cat's butt and hang jaw half open thereafter and attack feet. Claw drapes. Give me some of your food give me some of your food give me some of your food meh, i don't want it mrow leave fur on owners clothes and purr when being pet let me in let me out let me in let me out let me in let me out who broke this door anyway . \n\n",
+      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/pilot/index.md"
+    },
+    "fca8e4ab-e626-5740-9fe3-2e7729120e59": {
+      "id": "fca8e4ab-e626-5740-9fe3-2e7729120e59",
+      "children": [],
+      "parent": "834e4047-c7be-58d3-a5d2-b63b7acf4a9e",
+      "internal": {
+        "content": "\nWe don't serve their kind here! What? Your droids. They'll have to wait outside. We don't want them here. Listen, why don't you wait out by the speeder. We don't want any trouble. I heartily agree with you sir. Negola dewaghi wooldugger?!? He doesn't like you. I'm sorry. I don't like you either You just watch yourself. We're wanted men. I have the death sentence in twelve systems. I'll be careful than. You'll be dead. This little one isn't worth the effort. Come let me buy you something.\n\n``` \nhello \n```\n\n`hi`\n\nThe approach will not be easy. You are required to maneuver straight down this trench and skim the surface to this point. The target area is only two meters wide. It's a small thermal exhaust port, right below the main port. The shaft leads directly to the reactor system. A precise hit will start a chain reaction which should destroy the station. Only a precise hit will set up a chain reaction. The shaft is ray-shielded, so you'll have to use proton torpedoes. That's impossible, even for a computer. It's not impossible. I used to bull's-eye womp rats in my T-sixteen back home. They're not much bigger than two meters. Man your ships! And may the Force be with you!\n\nLuke? Luke? Luke? Have you seen Luke this morning? He said he had some things to do before he started today, so he left early. Uh? Did he take those two new droids with him? I think so. Well, he'd better have those units in the south range repaired be midday or there'll be hell to pay! Wait, there's something dead ahead on the scanner. It looks like our droid! hit the accelerator.\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "98a007280db4ebe5532899631586b929",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "summary",
+        "date": "2019-01-24",
+        "path": "/blog/summary",
+        "publish": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nWe don't serve their kind here! What? Your droids. They'll have to wait outside. We don't want them here. Listen, why don't you wait out by the speeder. We don't want any trouble. I heartily agree with you sir. Negola dewaghi wooldugger?!? He doesn't like you. I'm sorry. I don't like you either You just watch yourself. We're wanted men. I have the death sentence in twelve systems. I'll be careful than. You'll be dead. This little one isn't worth the effort. Come let me buy you something.\n\n``` \nhello \n```\n\n`hi`\n\nThe approach will not be easy. You are required to maneuver straight down this trench and skim the surface to this point. The target area is only two meters wide. It's a small thermal exhaust port, right below the main port. The shaft leads directly to the reactor system. A precise hit will start a chain reaction which should destroy the station. Only a precise hit will set up a chain reaction. The shaft is ray-shielded, so you'll have to use proton torpedoes. That's impossible, even for a computer. It's not impossible. I used to bull's-eye womp rats in my T-sixteen back home. They're not much bigger than two meters. Man your ships! And may the Force be with you!\n\nLuke? Luke? Luke? Have you seen Luke this morning? He said he had some things to do before he started today, so he left early. Uh? Did he take those two new droids with him? I think so. Well, he'd better have those units in the south range repaired be midday or there'll be hell to pay! Wait, there's something dead ahead on the scanner. It looks like our droid! hit the accelerator.\n\n",
+      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/summary/index.md"
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "df9c4a59d1266e6e1188784182980311"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "fca8e4ab-e626-5740-9fe3-2e7729120e59": [
+        "/blog/summary"
+      ],
+      "f539b4f2-4e53-5f81-82a1-5d82781148e5": [
+        "/blog/pilot"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        null,
+        "/blog/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "blog-pilot-9a5": "650/path---blog-pilot-9-a-5-ead-NZuapzHg3X9TaN1iIixfv1W23E",
+    "blog-f7a": "269/path---blog-f-7-a-05d-l2PmWnP1KShpm87dVmHoKCkzA",
+    "blog-summary-2cf": "869/path---blog-summary-2-cf-632-jQBhsvffhAepTFWj2uoaE777I",
+    "blog-pilot-6bf": "658/path---blog-pilot-6-bf-4c6-kugWWPPDu4llGdWHVQIS5WQ2SJA"
+  },
+  "components": {
+    "/Users/professor/dev/blog/src/templates/BlogTemplate.js": {
+      "query": "query usersProfessorDevBlogSrcTemplatesBlogTemplateJs1579142440(\n  $path: String!\n) {\n  markdownRemark(frontmatter: {path: {eq: $path}}) {\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      path\n      title\n    }\n  }\n}\n",
+      "componentPath": "/Users/professor/dev/blog/src/templates/BlogTemplate.js"
+    },
+    "/Users/professor/dev/blog/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/professor/dev/blog/.cache/dev-404-page.js"
+    },
+    "/Users/professor/dev/blog/src/pages/blog.js": {
+      "query": "query usersProfessorDevBlogSrcPagesBlogJs4227892632 {\n  allMarkdownRemark(filter: {frontmatter: {publish: {eq: true}}}, sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          path\n          publish\n        }\n        id\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/professor/dev/blog/src/pages/blog.js"
+    },
+    "/Users/professor/dev/blog/src/pages/index.js": {
+      "query": "",
+      "componentPath": "/Users/professor/dev/blog/src/pages/index.js"
+    }
+  },
+  "staticQueryComponents": {}
+}
