@@ -1,6 +1,8 @@
 $global-font-size: 16px;
 $title-font-size: 2.5rem;
+$nav-font-size: 1.25rem;
 $primary-color: #424242;
+$background-color: #fefefe;
 
 html {
   font-size: $global-font-size;
@@ -14,12 +16,33 @@ h1, h2 {
 body {
   font-family: Roboto, Helvetica, Arial, sans-serif;
   color: $primary-color;
+  background: $background-color;
 }
 
-.layout{
+nav {
+  font-size: $nav-font-size;
+  text-align: center;
+  ul {
+    display: block;
+    padding: 0;
+    margin: 0.5rem;
+    li {
+      display: inline;
+      list-style-type: none;
+      a {
+        display: inline-block;
+        padding: 0.5rem 1rem;
+        color: #444;
+      }
+    }
+  }
+}
+
+.layout {
   .title {
     color: $primary-color;
     font-size: $title-font-size;
+    text-align: center;
   }
   max-width: 42rem;
   margin-left: auto;

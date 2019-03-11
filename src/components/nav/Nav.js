@@ -3,17 +3,19 @@ import { Link } from "gatsby";
 
 const Nav = () => {
   return (
-    <ul>
-      <li>
-        <Link to="/blog/">/blog</Link>
-      </li>
-      <li>
-        <Link to="/projects/">/projects</Link>
-      </li>
-      <li>
-        <Link to="/about/">/about</Link>
-      </li>
-    </ul>
+    <nav>
+      <ul>
+        <li>
+          <Link to="/blog/">/blog</Link>
+        </li>
+        <li>
+          <Link to="/projects/">/projects</Link>
+        </li>
+        <li>
+          <Link to="/about/">/about</Link>
+        </li>
+      </ul>
+    </nav>
   );
 };
 

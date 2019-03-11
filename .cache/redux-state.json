@@ -785,12 +785,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-10T12:33:37.667Z",
+      "buildTime": "2019-03-10T16:51:30.074Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "ee895b34b75ceaacebe361a4348d9217",
+        "contentDigest": "8392b82acc4a760aee700ff42dcf3253",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -800,7 +800,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ef3640407605961694765df88e695f65",
+        "contentDigest": "f20dd2ab5f1291eed9a720f3c162dd17",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -809,11 +809,11 @@
       "absolutePath": "/Users/professor/dev/blog/src/pages",
       "relativePath": "",
       "extension": "",
-      "size": 160,
-      "prettySize": "160 B",
-      "modifiedTime": "2019-03-09T22:10:50.105Z",
-      "accessTime": "2019-03-10T12:33:47.041Z",
-      "changeTime": "2019-03-09T22:10:50.105Z",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2019-03-10T16:34:41.870Z",
+      "accessTime": "2019-03-10T16:51:40.336Z",
+      "changeTime": "2019-03-10T16:34:41.870Z",
       "birthTime": "2019-03-09T18:33:59.117Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src",
@@ -823,20 +823,20 @@
       "relativeDirectory": "..",
       "dev": 16777222,
       "mode": 16877,
-      "nlink": 5,
+      "nlink": 7,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 17888211,
       "blocks": 0,
-      "atimeMs": 1552221227041.4912,
-      "mtimeMs": 1552169450105.0522,
-      "ctimeMs": 1552169450105.0522,
+      "atimeMs": 1552236700336.2896,
+      "mtimeMs": 1552235681869.8503,
+      "ctimeMs": 1552235681869.8503,
       "birthtimeMs": 1552156439117.0015,
-      "atime": "2019-03-10T12:33:47.041Z",
-      "mtime": "2019-03-09T22:10:50.105Z",
-      "ctime": "2019-03-09T22:10:50.105Z",
+      "atime": "2019-03-10T16:51:40.336Z",
+      "mtime": "2019-03-10T16:34:41.870Z",
+      "ctime": "2019-03-10T16:34:41.870Z",
       "birthtime": "2019-03-09T18:33:59.117Z"
     },
     "5050d14f-a429-5da7-b14c-940df0e61a42": {
@@ -844,7 +844,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "41afef10499e885d201798ae6d3cf219",
+        "contentDigest": "f9e0723cd8326d6aa141ce5951708560",
         "type": "Directory",
         "description": "Directory \"src/pages/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -856,7 +856,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-03-09T18:50:22.689Z",
-      "accessTime": "2019-03-10T12:33:47.046Z",
+      "accessTime": "2019-03-10T16:51:40.339Z",
       "changeTime": "2019-03-09T18:50:22.689Z",
       "birthTime": "2019-03-09T18:47:58.359Z",
       "root": "/",
@@ -874,11 +874,11 @@
       "blksize": 4096,
       "ino": 17888899,
       "blocks": 0,
-      "atimeMs": 1552221227045.5903,
+      "atimeMs": 1552236700338.6338,
       "mtimeMs": 1552157422688.8206,
       "ctimeMs": 1552157422688.8206,
       "birthtimeMs": 1552157278358.944,
-      "atime": "2019-03-10T12:33:47.046Z",
+      "atime": "2019-03-10T16:51:40.339Z",
       "mtime": "2019-03-09T18:50:22.689Z",
       "ctime": "2019-03-09T18:50:22.689Z",
       "birthtime": "2019-03-09T18:47:58.359Z"
@@ -888,7 +888,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "afaf12bcca231a44f805dce315e8d130",
+        "contentDigest": "74fa40dcb8ff2d2a81faed59a512b0b5",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/pilot\"",
         "owner": "gatsby-source-filesystem"
@@ -899,9 +899,9 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2019-03-10T09:40:11.338Z",
-      "accessTime": "2019-03-10T12:33:47.048Z",
-      "changeTime": "2019-03-10T09:40:11.338Z",
+      "modifiedTime": "2019-03-10T13:49:58.532Z",
+      "accessTime": "2019-03-10T16:51:40.340Z",
+      "changeTime": "2019-03-10T13:49:58.532Z",
       "birthTime": "2019-03-09T18:50:22.689Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages/blog",
@@ -918,13 +918,13 @@
       "blksize": 4096,
       "ino": 17888943,
       "blocks": 0,
-      "atimeMs": 1552221227048.1763,
-      "mtimeMs": 1552210811338.479,
-      "ctimeMs": 1552210811338.479,
+      "atimeMs": 1552236700339.7585,
+      "mtimeMs": 1552225798532.3125,
+      "ctimeMs": 1552225798532.3125,
       "birthtimeMs": 1552157422688.7788,
-      "atime": "2019-03-10T12:33:47.048Z",
-      "mtime": "2019-03-10T09:40:11.338Z",
-      "ctime": "2019-03-10T09:40:11.338Z",
+      "atime": "2019-03-10T16:51:40.340Z",
+      "mtime": "2019-03-10T13:49:58.532Z",
+      "ctime": "2019-03-10T13:49:58.532Z",
       "birthtime": "2019-03-09T18:50:22.689Z"
     },
     "262ef872-f843-56d3-80ce-f15b3bff53ab": {
@@ -932,7 +932,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "65e930455f6cf85867d886909dc3052a",
+        "contentDigest": "9201b52d445cf9f09e0cfa1928652920",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/summary\"",
         "owner": "gatsby-source-filesystem"
@@ -943,9 +943,9 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2019-03-09T21:21:31.146Z",
-      "accessTime": "2019-03-10T12:33:47.048Z",
-      "changeTime": "2019-03-09T21:21:31.146Z",
+      "modifiedTime": "2019-03-10T14:03:34.820Z",
+      "accessTime": "2019-03-10T16:51:40.340Z",
+      "changeTime": "2019-03-10T14:03:34.820Z",
       "birthTime": "2019-03-09T18:49:11.138Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages/blog",
@@ -962,13 +962,13 @@
       "blksize": 4096,
       "ino": 17888939,
       "blocks": 0,
-      "atimeMs": 1552221227048.211,
-      "mtimeMs": 1552166491145.672,
-      "ctimeMs": 1552166491145.672,
+      "atimeMs": 1552236700339.7144,
+      "mtimeMs": 1552226614819.7463,
+      "ctimeMs": 1552226614819.7463,
       "birthtimeMs": 1552157351137.6375,
-      "atime": "2019-03-10T12:33:47.048Z",
-      "mtime": "2019-03-09T21:21:31.146Z",
-      "ctime": "2019-03-09T21:21:31.146Z",
+      "atime": "2019-03-10T16:51:40.340Z",
+      "mtime": "2019-03-10T14:03:34.820Z",
+      "ctime": "2019-03-10T14:03:34.820Z",
       "birthtime": "2019-03-09T18:49:11.138Z"
     },
     "478e4807-5878-592b-9490-b6aa34700b38": {
@@ -1068,7 +1068,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "84d0936a8694dc5536e1b60d902856be",
+        "contentDigest": "40e3e49dc001ff6a3769f6919470e764",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/blog.js\"",
@@ -1078,12 +1078,12 @@
       "absolutePath": "/Users/professor/dev/blog/src/pages/blog.js",
       "relativePath": "blog.js",
       "extension": "js",
-      "size": 808,
-      "prettySize": "808 B",
-      "modifiedTime": "2019-03-09T22:10:50.105Z",
-      "accessTime": "2019-03-10T12:26:27.566Z",
-      "changeTime": "2019-03-09T22:10:50.105Z",
-      "birthTime": "2019-03-09T22:10:50.104Z",
+      "size": 775,
+      "prettySize": "775 B",
+      "modifiedTime": "2019-03-10T17:34:18.808Z",
+      "accessTime": "2019-03-10T17:34:18.808Z",
+      "changeTime": "2019-03-10T17:34:18.808Z",
+      "birthTime": "2019-03-10T17:34:18.808Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages",
       "base": "blog.js",
@@ -1097,16 +1097,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 17939552,
+      "ino": 17962410,
       "blocks": 8,
-      "atimeMs": 1552220787566.3398,
-      "mtimeMs": 1552169450104.583,
-      "ctimeMs": 1552169450104.7637,
-      "birthtimeMs": 1552169450104.4446,
-      "atime": "2019-03-10T12:26:27.566Z",
-      "mtime": "2019-03-09T22:10:50.105Z",
-      "ctime": "2019-03-09T22:10:50.105Z",
-      "birthtime": "2019-03-09T22:10:50.104Z"
+      "atimeMs": 1552239258807.6855,
+      "mtimeMs": 1552239258807.806,
+      "ctimeMs": 1552239258807.983,
+      "birthtimeMs": 1552239258807.6855,
+      "atime": "2019-03-10T17:34:18.808Z",
+      "mtime": "2019-03-10T17:34:18.808Z",
+      "ctime": "2019-03-10T17:34:18.808Z",
+      "birthtime": "2019-03-10T17:34:18.808Z"
     },
     "834e4047-c7be-58d3-a5d2-b63b7acf4a9e": {
       "id": "834e4047-c7be-58d3-a5d2-b63b7acf4a9e",
@@ -1155,6 +1155,136 @@
       "ctime": "2019-03-10T14:03:34.819Z",
       "birthtime": "2019-03-10T14:03:34.819Z"
     },
+    "f539b4f2-4e53-5f81-82a1-5d82781148e5": {
+      "id": "f539b4f2-4e53-5f81-82a1-5d82781148e5",
+      "children": [],
+      "parent": "5a741cad-f195-537c-97b2-172acba2d460",
+      "internal": {
+        "content": "\nSpill litter box, scratch at owner, destroy all furniture, especially couch stare at ceiling light. I vomit in the bed in the middle of the night cough. Scratch my tummy actually i hate you now fight me. Attack feet rub whiskers on bare skin act innocent. I hate cucumber pls dont throw it at me chase ball of string. Kitty poochy pushes butt to face pet me pet me pet me pet me, bite, scratch, why are you petting me so show belly and licks your face yet meow loudly just to annoy owners so leave hair on owner's clothes. Chase laser eat grass, throw it back up, catch mouse and gave it as a present when owners are asleep, cry for no apparent reason so but let me in let me out let me in let me out let me in let me out who broke this door anyway . Attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently. \n\nHowl uncontrollably for no reason lie in the sink all day. Kitty loves pigs cat dog hate mouse eat string barf pillow no baths hate everything for if it fits, i sits, and have secret plans but lay on arms while you're using the keyboard but groom forever, stretch tongue and leave it slightly out, blep yet nya nya nyan. Fat baby cat best buddy little guy paw at beetle and eat it before it gets away yet meow meow or stare at guinea pigs so favor packaging over toy or meoooow eat owner's food. Missing until dinner time meow and walk away check cat door for ambush 10 times before coming in hiss at vacuum cleaner refuse to drink water except out of someone's glass. Find a way to fit in tiny box chase after silly colored fish toys around the house lick the plastic bag. Eat all the power cords i like frogs and 0 gravity. Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry refuse to come home when humans are going to bed; stay out all night then yowl like i am dying at 4am and destroy couch, yet more napping, more napping all the napping is exhausting for you have cat to be kitten me right meow. Sniff all the things refuse to leave cardboard box for mark territory destroy the blinds but cat fur is the new black . Small kitty warm kitty little balls of fur make plans to dominate world and then take a nap. I can haz flop over, but weigh eight pounds but take up a full-size bed i hate cucumber pls dont throw it at me so pee in the shoe ask for petting or get video posted to internet for chasing red dot. Scoot butt on the rug annoy owner until he gives you food say meow repeatedly until belly rubs, feels good munch on tasty moths yet sit on the laptop sit by the fire and chew the plant for burrow under covers. Lie on your belly and purr when you are asleep proudly present butt to human check cat door for ambush 10 times before coming in, eat the fat cats food sit on the laptop. The cat was chasing the mouse fooled again thinking the dog likes me wack the mini furry mouse licks paws yet mew meow and walk away yet my left donut is missing, as is my right. I can haz sleep on keyboard, so be a nyan cat, feel great about it, be annoying 24/7 poop rainbows in litter box all day sleep on my human's head. Purr like an angel. Why use post when this sofa is here snuggles up to shoulders or knees and purrs you to sleep meowing non stop for food climb a tree, wait for a fireman jump to fireman then scratch his face attack dog, run away and pretend to be victim dont wait for the storm to pass, dance in the rain i shredded your linens for you. Purr while eating lick butt, for fall over dead (not really but gets sypathy) stand in front of the computer screen, yet chirp at birds. Trip on catnip stare out cat door then go back inside. The door is opening! how exciting oh, it's you, meh stare at wall turn and meow stare at wall some more meow again continue staring mesmerizing birds but prance along on top of the garden fence, annoy the neighbor's dog and make it bark kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. \n\nI like cats because they are fat and fluffy be superior purr like an angel loved it, hated it, loved it, hated it. Cough furball cat sit like bread so eat all the power cords scratch leg; meow for can opener to feed me and poop in litter box, scratch the walls. Jump off balcony, onto stranger's head thug cat purrr purr littel cat, little cat purr purr for scoot butt on the rug hide from vacuum cleaner. Rub butt on table massacre a bird in the living room and then look like the cutest and most innocent animal on the planet for claws in your leg yet shake treat bag kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute?. Sleep on my human's head furrier and even more furrier hairball lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back try to jump onto window and fall while scratching at wall and jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed yet meow loudly just to annoy owners. Inspect anything brought into the house let me in let me out let me in let me out let me in let me out who broke this door anyway yet pet me pet me don't pet me somehow manage to catch a bird but have no idea what to do next, so play with it until it dies of shock meow to be let in, and immediately regret falling into bathtub. Leave fur on owners clothes litter kitter kitty litty little kitten big roar roar feed me meowing chowing and wowing. Mrow meow for food, then when human fills food dish, take a few bites of food and continue meowing pet me pet me don't pet me. My cat stared at me he was sipping his tea, too. Flop over howl uncontrollably for no reason. kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff, but jump around on couch, meow constantly until given food, tuxedo cats always looking dapper and tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad sniff other cat's butt and hang jaw half open thereafter and attack feet. Claw drapes. Give me some of your food give me some of your food give me some of your food meh, i don't want it mrow leave fur on owners clothes and purr when being pet let me in let me out let me in let me out let me in let me out who broke this door anyway . \n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "c1f97cc4094f4bd8f94e922d264fec20",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Pilot",
+        "date": "2019-01-21",
+        "path": "/blog/pilot",
+        "publish": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nSpill litter box, scratch at owner, destroy all furniture, especially couch stare at ceiling light. I vomit in the bed in the middle of the night cough. Scratch my tummy actually i hate you now fight me. Attack feet rub whiskers on bare skin act innocent. I hate cucumber pls dont throw it at me chase ball of string. Kitty poochy pushes butt to face pet me pet me pet me pet me, bite, scratch, why are you petting me so show belly and licks your face yet meow loudly just to annoy owners so leave hair on owner's clothes. Chase laser eat grass, throw it back up, catch mouse and gave it as a present when owners are asleep, cry for no apparent reason so but let me in let me out let me in let me out let me in let me out who broke this door anyway . Attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently. \n\nHowl uncontrollably for no reason lie in the sink all day. Kitty loves pigs cat dog hate mouse eat string barf pillow no baths hate everything for if it fits, i sits, and have secret plans but lay on arms while you're using the keyboard but groom forever, stretch tongue and leave it slightly out, blep yet nya nya nyan. Fat baby cat best buddy little guy paw at beetle and eat it before it gets away yet meow meow or stare at guinea pigs so favor packaging over toy or meoooow eat owner's food. Missing until dinner time meow and walk away check cat door for ambush 10 times before coming in hiss at vacuum cleaner refuse to drink water except out of someone's glass. Find a way to fit in tiny box chase after silly colored fish toys around the house lick the plastic bag. Eat all the power cords i like frogs and 0 gravity. Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry refuse to come home when humans are going to bed; stay out all night then yowl like i am dying at 4am and destroy couch, yet more napping, more napping all the napping is exhausting for you have cat to be kitten me right meow. Sniff all the things refuse to leave cardboard box for mark territory destroy the blinds but cat fur is the new black . Small kitty warm kitty little balls of fur make plans to dominate world and then take a nap. I can haz flop over, but weigh eight pounds but take up a full-size bed i hate cucumber pls dont throw it at me so pee in the shoe ask for petting or get video posted to internet for chasing red dot. Scoot butt on the rug annoy owner until he gives you food say meow repeatedly until belly rubs, feels good munch on tasty moths yet sit on the laptop sit by the fire and chew the plant for burrow under covers. Lie on your belly and purr when you are asleep proudly present butt to human check cat door for ambush 10 times before coming in, eat the fat cats food sit on the laptop. The cat was chasing the mouse fooled again thinking the dog likes me wack the mini furry mouse licks paws yet mew meow and walk away yet my left donut is missing, as is my right. I can haz sleep on keyboard, so be a nyan cat, feel great about it, be annoying 24/7 poop rainbows in litter box all day sleep on my human's head. Purr like an angel. Why use post when this sofa is here snuggles up to shoulders or knees and purrs you to sleep meowing non stop for food climb a tree, wait for a fireman jump to fireman then scratch his face attack dog, run away and pretend to be victim dont wait for the storm to pass, dance in the rain i shredded your linens for you. Purr while eating lick butt, for fall over dead (not really but gets sypathy) stand in front of the computer screen, yet chirp at birds. Trip on catnip stare out cat door then go back inside. The door is opening! how exciting oh, it's you, meh stare at wall turn and meow stare at wall some more meow again continue staring mesmerizing birds but prance along on top of the garden fence, annoy the neighbor's dog and make it bark kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. \n\nI like cats because they are fat and fluffy be superior purr like an angel loved it, hated it, loved it, hated it. Cough furball cat sit like bread so eat all the power cords scratch leg; meow for can opener to feed me and poop in litter box, scratch the walls. Jump off balcony, onto stranger's head thug cat purrr purr littel cat, little cat purr purr for scoot butt on the rug hide from vacuum cleaner. Rub butt on table massacre a bird in the living room and then look like the cutest and most innocent animal on the planet for claws in your leg yet shake treat bag kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute?. Sleep on my human's head furrier and even more furrier hairball lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back try to jump onto window and fall while scratching at wall and jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed yet meow loudly just to annoy owners. Inspect anything brought into the house let me in let me out let me in let me out let me in let me out who broke this door anyway yet pet me pet me don't pet me somehow manage to catch a bird but have no idea what to do next, so play with it until it dies of shock meow to be let in, and immediately regret falling into bathtub. Leave fur on owners clothes litter kitter kitty litty little kitten big roar roar feed me meowing chowing and wowing. Mrow meow for food, then when human fills food dish, take a few bites of food and continue meowing pet me pet me don't pet me. My cat stared at me he was sipping his tea, too. Flop over howl uncontrollably for no reason. kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff, but jump around on couch, meow constantly until given food, tuxedo cats always looking dapper and tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad sniff other cat's butt and hang jaw half open thereafter and attack feet. Claw drapes. Give me some of your food give me some of your food give me some of your food meh, i don't want it mrow leave fur on owners clothes and purr when being pet let me in let me out let me in let me out let me in let me out who broke this door anyway . \n\n",
+      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/pilot/index.md"
+    },
+    "fca8e4ab-e626-5740-9fe3-2e7729120e59": {
+      "id": "fca8e4ab-e626-5740-9fe3-2e7729120e59",
+      "children": [],
+      "parent": "834e4047-c7be-58d3-a5d2-b63b7acf4a9e",
+      "internal": {
+        "content": "\nWe don't serve their kind here! What? Your droids. They'll have to wait outside. We don't want them here. Listen, why don't you wait out by the speeder. We don't want any trouble. I heartily agree with you sir. Negola dewaghi wooldugger?!? He doesn't like you. I'm sorry. I don't like you either You just watch yourself. We're wanted men. I have the death sentence in twelve systems. I'll be careful than. You'll be dead. This little one isn't worth the effort. Come let me buy you something.\n\n``` \nhello \n```\n\n`hi`\n\nThe approach will not be easy. You are required to maneuver straight down this trench and skim the surface to this point. The target area is only two meters wide. It's a small thermal exhaust port, right below the main port. The shaft leads directly to the reactor system. A precise hit will start a chain reaction which should destroy the station. Only a precise hit will set up a chain reaction. The shaft is ray-shielded, so you'll have to use proton torpedoes. That's impossible, even for a computer. It's not impossible. I used to bull's-eye womp rats in my T-sixteen back home. They're not much bigger than two meters. Man your ships! And may the Force be with you!\n\nLuke? Luke? Luke? Have you seen Luke this morning? He said he had some things to do before he started today, so he left early. Uh? Did he take those two new droids with him? I think so. Well, he'd better have those units in the south range repaired be midday or there'll be hell to pay! Wait, there's something dead ahead on the scanner. It looks like our droid! hit the accelerator.\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "98a007280db4ebe5532899631586b929",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "summary",
+        "date": "2019-01-24",
+        "path": "/blog/summary",
+        "publish": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nWe don't serve their kind here! What? Your droids. They'll have to wait outside. We don't want them here. Listen, why don't you wait out by the speeder. We don't want any trouble. I heartily agree with you sir. Negola dewaghi wooldugger?!? He doesn't like you. I'm sorry. I don't like you either You just watch yourself. We're wanted men. I have the death sentence in twelve systems. I'll be careful than. You'll be dead. This little one isn't worth the effort. Come let me buy you something.\n\n``` \nhello \n```\n\n`hi`\n\nThe approach will not be easy. You are required to maneuver straight down this trench and skim the surface to this point. The target area is only two meters wide. It's a small thermal exhaust port, right below the main port. The shaft leads directly to the reactor system. A precise hit will start a chain reaction which should destroy the station. Only a precise hit will set up a chain reaction. The shaft is ray-shielded, so you'll have to use proton torpedoes. That's impossible, even for a computer. It's not impossible. I used to bull's-eye womp rats in my T-sixteen back home. They're not much bigger than two meters. Man your ships! And may the Force be with you!\n\nLuke? Luke? Luke? Have you seen Luke this morning? He said he had some things to do before he started today, so he left early. Uh? Did he take those two new droids with him? I think so. Well, he'd better have those units in the south range repaired be midday or there'll be hell to pay! Wait, there's something dead ahead on the scanner. It looks like our droid! hit the accelerator.\n\n",
+      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/summary/index.md"
+    },
+    "b71ed330-2b4e-505d-b8b1-831274b2b56b": {
+      "id": "b71ed330-2b4e-505d-b8b1-831274b2b56b",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "ab682aa11c7ab5d95b10dff0d9ec7c4e",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/projects.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/projects.js",
+      "relativePath": "projects.js",
+      "extension": "js",
+      "size": 272,
+      "prettySize": "272 B",
+      "modifiedTime": "2019-03-10T16:28:29.290Z",
+      "accessTime": "2019-03-10T16:34:33.777Z",
+      "changeTime": "2019-03-10T16:34:36.995Z",
+      "birthTime": "2019-03-10T16:28:29.290Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages",
+      "base": "projects.js",
+      "ext": ".js",
+      "name": "projects",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17956899,
+      "blocks": 8,
+      "atimeMs": 1552235673777.2407,
+      "mtimeMs": 1552235309290.3591,
+      "ctimeMs": 1552235676994.7102,
+      "birthtimeMs": 1552235309290.212,
+      "atime": "2019-03-10T16:34:33.777Z",
+      "mtime": "2019-03-10T16:28:29.290Z",
+      "ctime": "2019-03-10T16:34:36.995Z",
+      "birthtime": "2019-03-10T16:28:29.290Z"
+    },
+    "a952cab7-6b32-5026-a2c3-fe03351361c2": {
+      "id": "a952cab7-6b32-5026-a2c3-fe03351361c2",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4063380f59dfed52724e55ea75e86702",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/about.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/about.js",
+      "relativePath": "about.js",
+      "extension": "js",
+      "size": 2542,
+      "prettySize": "2.54 kB",
+      "modifiedTime": "2019-03-10T16:34:05.001Z",
+      "accessTime": "2019-03-10T16:34:05.923Z",
+      "changeTime": "2019-03-10T16:34:29.966Z",
+      "birthTime": "2019-03-10T16:34:05.001Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages",
+      "base": "about.js",
+      "ext": ".js",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17957418,
+      "blocks": 8,
+      "atimeMs": 1552235645923.4436,
+      "mtimeMs": 1552235645001.4731,
+      "ctimeMs": 1552235669965.7676,
+      "birthtimeMs": 1552235645001.3438,
+      "atime": "2019-03-10T16:34:05.923Z",
+      "mtime": "2019-03-10T16:34:05.001Z",
+      "ctime": "2019-03-10T16:34:29.966Z",
+      "birthtime": "2019-03-10T16:34:05.001Z"
+    },
     "SitePage /blog/summary": {
       "jsonName": "blog-summary-2cf",
       "internalComponentName": "ComponentBlogSummary",
@@ -1192,6 +1322,26 @@
         "type": "SitePage",
         "contentDigest": "d57755c33bd504627c6d6c93d67bbf36",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/professor/dev/blog/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+      "pluginCreatorId": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+      "componentPath": "/Users/professor/dev/blog/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9e7ad74af0fe452139ccaf9c45c2ba76",
+        "description": "ea736e02-3a95-5d4b-b81f-3d450700b462",
         "owner": "internal-data-bridge"
       }
     },
@@ -1235,45 +1385,25 @@
         "owner": "internal-data-bridge"
       }
     },
-    "f539b4f2-4e53-5f81-82a1-5d82781148e5": {
-      "id": "f539b4f2-4e53-5f81-82a1-5d82781148e5",
+    "SitePage /projects/": {
+      "jsonName": "projects-9e9",
+      "internalComponentName": "ComponentProjects",
+      "path": "/projects/",
+      "component": "/Users/professor/dev/blog/src/pages/projects.js",
+      "componentChunkName": "component---src-pages-projects-js",
+      "context": {},
+      "pluginCreator___NODE": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+      "pluginCreatorId": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+      "componentPath": "/Users/professor/dev/blog/src/pages/projects.js",
+      "id": "SitePage /projects/",
+      "parent": null,
       "children": [],
-      "parent": "5a741cad-f195-537c-97b2-172acba2d460",
       "internal": {
-        "content": "\nSpill litter box, scratch at owner, destroy all furniture, especially couch stare at ceiling light. I vomit in the bed in the middle of the night cough. Scratch my tummy actually i hate you now fight me. Attack feet rub whiskers on bare skin act innocent. I hate cucumber pls dont throw it at me chase ball of string. Kitty poochy pushes butt to face pet me pet me pet me pet me, bite, scratch, why are you petting me so show belly and licks your face yet meow loudly just to annoy owners so leave hair on owner's clothes. Chase laser eat grass, throw it back up, catch mouse and gave it as a present when owners are asleep, cry for no apparent reason so but let me in let me out let me in let me out let me in let me out who broke this door anyway . Attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently. \n\nHowl uncontrollably for no reason lie in the sink all day. Kitty loves pigs cat dog hate mouse eat string barf pillow no baths hate everything for if it fits, i sits, and have secret plans but lay on arms while you're using the keyboard but groom forever, stretch tongue and leave it slightly out, blep yet nya nya nyan. Fat baby cat best buddy little guy paw at beetle and eat it before it gets away yet meow meow or stare at guinea pigs so favor packaging over toy or meoooow eat owner's food. Missing until dinner time meow and walk away check cat door for ambush 10 times before coming in hiss at vacuum cleaner refuse to drink water except out of someone's glass. Find a way to fit in tiny box chase after silly colored fish toys around the house lick the plastic bag. Eat all the power cords i like frogs and 0 gravity. Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry refuse to come home when humans are going to bed; stay out all night then yowl like i am dying at 4am and destroy couch, yet more napping, more napping all the napping is exhausting for you have cat to be kitten me right meow. Sniff all the things refuse to leave cardboard box for mark territory destroy the blinds but cat fur is the new black . Small kitty warm kitty little balls of fur make plans to dominate world and then take a nap. I can haz flop over, but weigh eight pounds but take up a full-size bed i hate cucumber pls dont throw it at me so pee in the shoe ask for petting or get video posted to internet for chasing red dot. Scoot butt on the rug annoy owner until he gives you food say meow repeatedly until belly rubs, feels good munch on tasty moths yet sit on the laptop sit by the fire and chew the plant for burrow under covers. Lie on your belly and purr when you are asleep proudly present butt to human check cat door for ambush 10 times before coming in, eat the fat cats food sit on the laptop. The cat was chasing the mouse fooled again thinking the dog likes me wack the mini furry mouse licks paws yet mew meow and walk away yet my left donut is missing, as is my right. I can haz sleep on keyboard, so be a nyan cat, feel great about it, be annoying 24/7 poop rainbows in litter box all day sleep on my human's head. Purr like an angel. Why use post when this sofa is here snuggles up to shoulders or knees and purrs you to sleep meowing non stop for food climb a tree, wait for a fireman jump to fireman then scratch his face attack dog, run away and pretend to be victim dont wait for the storm to pass, dance in the rain i shredded your linens for you. Purr while eating lick butt, for fall over dead (not really but gets sypathy) stand in front of the computer screen, yet chirp at birds. Trip on catnip stare out cat door then go back inside. The door is opening! how exciting oh, it's you, meh stare at wall turn and meow stare at wall some more meow again continue staring mesmerizing birds but prance along on top of the garden fence, annoy the neighbor's dog and make it bark kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. \n\nI like cats because they are fat and fluffy be superior purr like an angel loved it, hated it, loved it, hated it. Cough furball cat sit like bread so eat all the power cords scratch leg; meow for can opener to feed me and poop in litter box, scratch the walls. Jump off balcony, onto stranger's head thug cat purrr purr littel cat, little cat purr purr for scoot butt on the rug hide from vacuum cleaner. Rub butt on table massacre a bird in the living room and then look like the cutest and most innocent animal on the planet for claws in your leg yet shake treat bag kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute?. Sleep on my human's head furrier and even more furrier hairball lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back try to jump onto window and fall while scratching at wall and jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed yet meow loudly just to annoy owners. Inspect anything brought into the house let me in let me out let me in let me out let me in let me out who broke this door anyway yet pet me pet me don't pet me somehow manage to catch a bird but have no idea what to do next, so play with it until it dies of shock meow to be let in, and immediately regret falling into bathtub. Leave fur on owners clothes litter kitter kitty litty little kitten big roar roar feed me meowing chowing and wowing. Mrow meow for food, then when human fills food dish, take a few bites of food and continue meowing pet me pet me don't pet me. My cat stared at me he was sipping his tea, too. Flop over howl uncontrollably for no reason. kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff, but jump around on couch, meow constantly until given food, tuxedo cats always looking dapper and tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad sniff other cat's butt and hang jaw half open thereafter and attack feet. Claw drapes. Give me some of your food give me some of your food give me some of your food meh, i don't want it mrow leave fur on owners clothes and purr when being pet let me in let me out let me in let me out let me in let me out who broke this door anyway . \n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "c1f97cc4094f4bd8f94e922d264fec20",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Pilot",
-        "date": "2019-01-21",
-        "path": "/blog/pilot",
-        "publish": true
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nSpill litter box, scratch at owner, destroy all furniture, especially couch stare at ceiling light. I vomit in the bed in the middle of the night cough. Scratch my tummy actually i hate you now fight me. Attack feet rub whiskers on bare skin act innocent. I hate cucumber pls dont throw it at me chase ball of string. Kitty poochy pushes butt to face pet me pet me pet me pet me, bite, scratch, why are you petting me so show belly and licks your face yet meow loudly just to annoy owners so leave hair on owner's clothes. Chase laser eat grass, throw it back up, catch mouse and gave it as a present when owners are asleep, cry for no apparent reason so but let me in let me out let me in let me out let me in let me out who broke this door anyway . Attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently. \n\nHowl uncontrollably for no reason lie in the sink all day. Kitty loves pigs cat dog hate mouse eat string barf pillow no baths hate everything for if it fits, i sits, and have secret plans but lay on arms while you're using the keyboard but groom forever, stretch tongue and leave it slightly out, blep yet nya nya nyan. Fat baby cat best buddy little guy paw at beetle and eat it before it gets away yet meow meow or stare at guinea pigs so favor packaging over toy or meoooow eat owner's food. Missing until dinner time meow and walk away check cat door for ambush 10 times before coming in hiss at vacuum cleaner refuse to drink water except out of someone's glass. Find a way to fit in tiny box chase after silly colored fish toys around the house lick the plastic bag. Eat all the power cords i like frogs and 0 gravity. Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry refuse to come home when humans are going to bed; stay out all night then yowl like i am dying at 4am and destroy couch, yet more napping, more napping all the napping is exhausting for you have cat to be kitten me right meow. Sniff all the things refuse to leave cardboard box for mark territory destroy the blinds but cat fur is the new black . Small kitty warm kitty little balls of fur make plans to dominate world and then take a nap. I can haz flop over, but weigh eight pounds but take up a full-size bed i hate cucumber pls dont throw it at me so pee in the shoe ask for petting or get video posted to internet for chasing red dot. Scoot butt on the rug annoy owner until he gives you food say meow repeatedly until belly rubs, feels good munch on tasty moths yet sit on the laptop sit by the fire and chew the plant for burrow under covers. Lie on your belly and purr when you are asleep proudly present butt to human check cat door for ambush 10 times before coming in, eat the fat cats food sit on the laptop. The cat was chasing the mouse fooled again thinking the dog likes me wack the mini furry mouse licks paws yet mew meow and walk away yet my left donut is missing, as is my right. I can haz sleep on keyboard, so be a nyan cat, feel great about it, be annoying 24/7 poop rainbows in litter box all day sleep on my human's head. Purr like an angel. Why use post when this sofa is here snuggles up to shoulders or knees and purrs you to sleep meowing non stop for food climb a tree, wait for a fireman jump to fireman then scratch his face attack dog, run away and pretend to be victim dont wait for the storm to pass, dance in the rain i shredded your linens for you. Purr while eating lick butt, for fall over dead (not really but gets sypathy) stand in front of the computer screen, yet chirp at birds. Trip on catnip stare out cat door then go back inside. The door is opening! how exciting oh, it's you, meh stare at wall turn and meow stare at wall some more meow again continue staring mesmerizing birds but prance along on top of the garden fence, annoy the neighbor's dog and make it bark kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. \n\nI like cats because they are fat and fluffy be superior purr like an angel loved it, hated it, loved it, hated it. Cough furball cat sit like bread so eat all the power cords scratch leg; meow for can opener to feed me and poop in litter box, scratch the walls. Jump off balcony, onto stranger's head thug cat purrr purr littel cat, little cat purr purr for scoot butt on the rug hide from vacuum cleaner. Rub butt on table massacre a bird in the living room and then look like the cutest and most innocent animal on the planet for claws in your leg yet shake treat bag kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute?. Sleep on my human's head furrier and even more furrier hairball lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back try to jump onto window and fall while scratching at wall and jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed yet meow loudly just to annoy owners. Inspect anything brought into the house let me in let me out let me in let me out let me in let me out who broke this door anyway yet pet me pet me don't pet me somehow manage to catch a bird but have no idea what to do next, so play with it until it dies of shock meow to be let in, and immediately regret falling into bathtub. Leave fur on owners clothes litter kitter kitty litty little kitten big roar roar feed me meowing chowing and wowing. Mrow meow for food, then when human fills food dish, take a few bites of food and continue meowing pet me pet me don't pet me. My cat stared at me he was sipping his tea, too. Flop over howl uncontrollably for no reason. kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff, but jump around on couch, meow constantly until given food, tuxedo cats always looking dapper and tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad sniff other cat's butt and hang jaw half open thereafter and attack feet. Claw drapes. Give me some of your food give me some of your food give me some of your food meh, i don't want it mrow leave fur on owners clothes and purr when being pet let me in let me out let me in let me out let me in let me out who broke this door anyway . \n\n",
-      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/pilot/index.md"
-    },
-    "fca8e4ab-e626-5740-9fe3-2e7729120e59": {
-      "id": "fca8e4ab-e626-5740-9fe3-2e7729120e59",
-      "children": [],
-      "parent": "834e4047-c7be-58d3-a5d2-b63b7acf4a9e",
-      "internal": {
-        "content": "\nWe don't serve their kind here! What? Your droids. They'll have to wait outside. We don't want them here. Listen, why don't you wait out by the speeder. We don't want any trouble. I heartily agree with you sir. Negola dewaghi wooldugger?!? He doesn't like you. I'm sorry. I don't like you either You just watch yourself. We're wanted men. I have the death sentence in twelve systems. I'll be careful than. You'll be dead. This little one isn't worth the effort. Come let me buy you something.\n\n``` \nhello \n```\n\n`hi`\n\nThe approach will not be easy. You are required to maneuver straight down this trench and skim the surface to this point. The target area is only two meters wide. It's a small thermal exhaust port, right below the main port. The shaft leads directly to the reactor system. A precise hit will start a chain reaction which should destroy the station. Only a precise hit will set up a chain reaction. The shaft is ray-shielded, so you'll have to use proton torpedoes. That's impossible, even for a computer. It's not impossible. I used to bull's-eye womp rats in my T-sixteen back home. They're not much bigger than two meters. Man your ships! And may the Force be with you!\n\nLuke? Luke? Luke? Have you seen Luke this morning? He said he had some things to do before he started today, so he left early. Uh? Did he take those two new droids with him? I think so. Well, he'd better have those units in the south range repaired be midday or there'll be hell to pay! Wait, there's something dead ahead on the scanner. It looks like our droid! hit the accelerator.\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "98a007280db4ebe5532899631586b929",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "summary",
-        "date": "2019-01-24",
-        "path": "/blog/summary",
-        "publish": true
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nWe don't serve their kind here! What? Your droids. They'll have to wait outside. We don't want them here. Listen, why don't you wait out by the speeder. We don't want any trouble. I heartily agree with you sir. Negola dewaghi wooldugger?!? He doesn't like you. I'm sorry. I don't like you either You just watch yourself. We're wanted men. I have the death sentence in twelve systems. I'll be careful than. You'll be dead. This little one isn't worth the effort. Come let me buy you something.\n\n``` \nhello \n```\n\n`hi`\n\nThe approach will not be easy. You are required to maneuver straight down this trench and skim the surface to this point. The target area is only two meters wide. It's a small thermal exhaust port, right below the main port. The shaft leads directly to the reactor system. A precise hit will start a chain reaction which should destroy the station. Only a precise hit will set up a chain reaction. The shaft is ray-shielded, so you'll have to use proton torpedoes. That's impossible, even for a computer. It's not impossible. I used to bull's-eye womp rats in my T-sixteen back home. They're not much bigger than two meters. Man your ships! And may the Force be with you!\n\nLuke? Luke? Luke? Have you seen Luke this morning? He said he had some things to do before he started today, so he left early. Uh? Did he take those two new droids with him? I think so. Well, he'd better have those units in the south range repaired be midday or there'll be hell to pay! Wait, there's something dead ahead on the scanner. It looks like our droid! hit the accelerator.\n\n",
-      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/summary/index.md"
+        "type": "SitePage",
+        "contentDigest": "ee8fb3759772a9d72e9d7922856f1fc4",
+        "description": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -1287,10 +1417,15 @@
       ],
       "f539b4f2-4e53-5f81-82a1-5d82781148e5": [
         "/blog/pilot"
+      ],
+      "Site": [
+        "/",
+        "sq--src-components-layout-layout-js"
       ]
     },
     "connections": {
       "MarkdownRemark": [
+        null,
         null,
         "/blog/"
       ]
@@ -1302,16 +1437,17 @@
     "blog-pilot-9a5": "650/path---blog-pilot-9-a-5-ead-NZuapzHg3X9TaN1iIixfv1W23E",
     "blog-f7a": "269/path---blog-f-7-a-05d-l2PmWnP1KShpm87dVmHoKCkzA",
     "blog-summary-2cf": "869/path---blog-summary-2-cf-632-jQBhsvffhAepTFWj2uoaE777I",
-    "blog-pilot-6bf": "658/path---blog-pilot-6-bf-4c6-kugWWPPDu4llGdWHVQIS5WQ2SJA"
+    "blog-pilot-6bf": "658/path---blog-pilot-6-bf-4c6-kugWWPPDu4llGdWHVQIS5WQ2SJA",
+    "projects-9e9": "545/path---projects-9-e-9-957-NZuapzHg3X9TaN1iIixfv1W23E",
+    "projects-6a7": "972/path---projects-6-a-7-b75-NZuapzHg3X9TaN1iIixfv1W23E",
+    "about-85a": "210/path---about-85-a-af2-NZuapzHg3X9TaN1iIixfv1W23E",
+    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-components-layout-layout-js": 3978990474
   },
   "components": {
     "/Users/professor/dev/blog/src/templates/BlogTemplate.js": {
       "query": "query usersProfessorDevBlogSrcTemplatesBlogTemplateJs1579142440(\n  $path: String!\n) {\n  markdownRemark(frontmatter: {path: {eq: $path}}) {\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      path\n      title\n    }\n  }\n}\n",
       "componentPath": "/Users/professor/dev/blog/src/templates/BlogTemplate.js"
-    },
-    "/Users/professor/dev/blog/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Users/professor/dev/blog/.cache/dev-404-page.js"
     },
     "/Users/professor/dev/blog/src/pages/blog.js": {
       "query": "query usersProfessorDevBlogSrcPagesBlogJs4227892632 {\n  allMarkdownRemark(filter: {frontmatter: {publish: {eq: true}}}, sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          path\n          publish\n        }\n        id\n      }\n    }\n  }\n}\n",
@@ -1320,7 +1456,28 @@
     "/Users/professor/dev/blog/src/pages/index.js": {
       "query": "",
       "componentPath": "/Users/professor/dev/blog/src/pages/index.js"
+    },
+    "/Users/professor/dev/blog/src/pages/projects.js": {
+      "query": "",
+      "componentPath": "/Users/professor/dev/blog/src/pages/projects.js"
+    },
+    "/Users/professor/dev/blog/src/pages/about.js": {
+      "query": "",
+      "componentPath": "/Users/professor/dev/blog/src/pages/about.js"
+    },
+    "/Users/professor/dev/blog/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/professor/dev/blog/.cache/dev-404-page.js"
     }
   },
-  "staticQueryComponents": {}
+  "staticQueryComponents": {
+    "sq--src-components-layout-layout-js": {
+      "name": "usersProfessorDevBlogSrcComponentsLayoutLayoutJs3978990474",
+      "componentPath": "/Users/professor/dev/blog/src/components/layout/Layout.js",
+      "id": "sq--src-components-layout-layout-js",
+      "jsonName": "sq--src-components-layout-layout-js",
+      "query": "query usersProfessorDevBlogSrcComponentsLayoutLayoutJs3978990474 {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
+      "hash": 3978990474
+    }
+  }
 }

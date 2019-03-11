@@ -28,7 +28,6 @@ const Blog = ({ data }) => {
   return (
     <Layout>
       <div>
-        <p>Listing all blogs</p>
         {data.allMarkdownRemark.edges && (
           <BlogList list={data.allMarkdownRemark.edges} />
         )}

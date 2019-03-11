@@ -1,14 +1,38 @@
 import React from "react";
 import Nav from "../nav/Nav";
+import { StaticQuery, graphql } from "gatsby";
 
-const Layout = ({ children }) => {
-  return (
-    <div className="layout">
-      <h2 className="title">Rudra Narayan</h2>
-      <Nav />
-      {children}
-    </div>
-  );
-};
+export const siteQuery = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+        description
+      }
+    }
+  }
+`;
+
+const Layout = props => (
+  <StaticQuery
+    query={graphql`
+      query {
+        site {
+          siteMetadata {
+            title
+            description
+          }
+        }
+      }
+    `}
+    render={data => (
+      <div className="layout">
+        <h2 className="title">{data.site.siteMetadata.title}</h2>
+        <Nav />
+        {props.children}
+      </div>
+    )}
+  />
+);
 
 export default Layout;
