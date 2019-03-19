@@ -17,9 +17,11 @@
     "gatsby-plugin-sass": "^2.0.10",
     "gatsby-source-filesystem": "^2.0.23",
     "gatsby-transformer-remark": "^2.3.1",
+    "moment": "^2.24.0",
     "node-sass": "^4.11.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "typeface-open-sans": "0.0.54",
     "typeface-roboto": "0.0.54",
     "typeface-roboto-mono": "0.0.54"
   },

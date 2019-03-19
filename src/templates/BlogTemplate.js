@@ -9,7 +9,7 @@ const BlogTemplate = ({ data }) => {
   return (
     <Layout>
       <div className="content">
-        <h1 className="title">{frontmatter.title}</h1>
+        <h2 className="title">{frontmatter.title}</h2>
         <sub>{frontmatter.date}</sub>
         <div
           className="blog-post-content"

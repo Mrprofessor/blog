@@ -1,22 +1,35 @@
 $global-font-size: 16px;
-$title-font-size: 2.5rem;
-$nav-font-size: 1.25rem;
+$title-font-size: 1.875rem;
+$content-title-font-size: 1.5rem;
+$nav-font-size: 1rem;
 $primary-color: #424242;
 $background-color: #fefefe;
+
+@mixin flexify {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@mixin flex-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 html {
   font-size: $global-font-size;
 }
- 
-h1, h2 {
-  margin: 0;
-  padding: 0;
-}
 
 body {
-  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  //font-family: Roboto, Helvetica, Arial, sans-serif;
   color: $primary-color;
   background: $background-color;
+}
+
+a {
+  text-decoration: none;
 }
 
 nav {
@@ -39,10 +52,19 @@ nav {
 }
 
 .layout {
+  .title-wrapper {
+    @include flexify;
+  }
   .title {
     color: $primary-color;
+    text-align: left;
+    display: block;
     font-size: $title-font-size;
-    text-align: center;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
   }
   max-width: 42rem;
   margin-left: auto;
@@ -53,6 +75,26 @@ nav {
 .content {
   .title {
     color: $primary-color;
-    font-size: $title-font-size;
+    font-size: $content-title-font-size;
+  }
+}
+
+.blog-list {
+  .list-item {
+    @include flexify;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .layout {
+    .title-wrapper {
+      @include flex-column;
+    }
+    .title {
+      margin-block-start: 0.41em;
+      margin-block-end: 0.41em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+    }
   }
 }

@@ -776,21 +776,19 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "typecasted",
+        "title": "rudra narayan",
         "author": "Rudra Narayan",
         "description": "Personal journal by Rudra Narayan.",
         "siteUrl": "https://mrprofessor.io"
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2019-03-10T16:51:30.074Z",
+      "buildTime": "2019-03-18T22:21:11.477Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "8392b82acc4a760aee700ff42dcf3253",
+        "contentDigest": "9098e736342170526a497bb5b0b39320",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -800,7 +798,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f20dd2ab5f1291eed9a720f3c162dd17",
+        "contentDigest": "e0b9b3182d1b018cafed74e635582719",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -809,11 +807,11 @@
       "absolutePath": "/Users/professor/dev/blog/src/pages",
       "relativePath": "",
       "extension": "",
-      "size": 224,
-      "prettySize": "224 B",
-      "modifiedTime": "2019-03-10T16:34:41.870Z",
-      "accessTime": "2019-03-10T16:51:40.336Z",
-      "changeTime": "2019-03-10T16:34:41.870Z",
+      "size": 256,
+      "prettySize": "256 B",
+      "modifiedTime": "2019-03-14T10:31:39.618Z",
+      "accessTime": "2019-03-18T22:21:23.635Z",
+      "changeTime": "2019-03-14T10:31:39.618Z",
       "birthTime": "2019-03-09T18:33:59.117Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src",
@@ -823,20 +821,20 @@
       "relativeDirectory": "..",
       "dev": 16777222,
       "mode": 16877,
-      "nlink": 7,
+      "nlink": 8,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 17888211,
       "blocks": 0,
-      "atimeMs": 1552236700336.2896,
-      "mtimeMs": 1552235681869.8503,
-      "ctimeMs": 1552235681869.8503,
+      "atimeMs": 1552947683635.3853,
+      "mtimeMs": 1552559499618.1519,
+      "ctimeMs": 1552559499618.1519,
       "birthtimeMs": 1552156439117.0015,
-      "atime": "2019-03-10T16:51:40.336Z",
-      "mtime": "2019-03-10T16:34:41.870Z",
-      "ctime": "2019-03-10T16:34:41.870Z",
+      "atime": "2019-03-18T22:21:23.635Z",
+      "mtime": "2019-03-14T10:31:39.618Z",
+      "ctime": "2019-03-14T10:31:39.618Z",
       "birthtime": "2019-03-09T18:33:59.117Z"
     },
     "5050d14f-a429-5da7-b14c-940df0e61a42": {
@@ -844,7 +842,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f9e0723cd8326d6aa141ce5951708560",
+        "contentDigest": "154c3793afa6ce36b9cd319569953922",
         "type": "Directory",
         "description": "Directory \"src/pages/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -856,7 +854,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-03-09T18:50:22.689Z",
-      "accessTime": "2019-03-10T16:51:40.339Z",
+      "accessTime": "2019-03-18T22:21:23.638Z",
       "changeTime": "2019-03-09T18:50:22.689Z",
       "birthTime": "2019-03-09T18:47:58.359Z",
       "root": "/",
@@ -874,11 +872,11 @@
       "blksize": 4096,
       "ino": 17888899,
       "blocks": 0,
-      "atimeMs": 1552236700338.6338,
+      "atimeMs": 1552947683638.0557,
       "mtimeMs": 1552157422688.8206,
       "ctimeMs": 1552157422688.8206,
       "birthtimeMs": 1552157278358.944,
-      "atime": "2019-03-10T16:51:40.339Z",
+      "atime": "2019-03-18T22:21:23.638Z",
       "mtime": "2019-03-09T18:50:22.689Z",
       "ctime": "2019-03-09T18:50:22.689Z",
       "birthtime": "2019-03-09T18:47:58.359Z"
@@ -888,7 +886,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "74fa40dcb8ff2d2a81faed59a512b0b5",
+        "contentDigest": "cac1288b14155aa8925112c8ffa0455b",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/pilot\"",
         "owner": "gatsby-source-filesystem"
@@ -900,7 +898,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-03-10T13:49:58.532Z",
-      "accessTime": "2019-03-10T16:51:40.340Z",
+      "accessTime": "2019-03-18T22:21:23.639Z",
       "changeTime": "2019-03-10T13:49:58.532Z",
       "birthTime": "2019-03-09T18:50:22.689Z",
       "root": "/",
@@ -918,11 +916,11 @@
       "blksize": 4096,
       "ino": 17888943,
       "blocks": 0,
-      "atimeMs": 1552236700339.7585,
+      "atimeMs": 1552947683639.1824,
       "mtimeMs": 1552225798532.3125,
       "ctimeMs": 1552225798532.3125,
       "birthtimeMs": 1552157422688.7788,
-      "atime": "2019-03-10T16:51:40.340Z",
+      "atime": "2019-03-18T22:21:23.639Z",
       "mtime": "2019-03-10T13:49:58.532Z",
       "ctime": "2019-03-10T13:49:58.532Z",
       "birthtime": "2019-03-09T18:50:22.689Z"
@@ -932,7 +930,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "9201b52d445cf9f09e0cfa1928652920",
+        "contentDigest": "8982752cbbcdb0dc52ded772a5112f5b",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/summary\"",
         "owner": "gatsby-source-filesystem"
@@ -944,7 +942,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-03-10T14:03:34.820Z",
-      "accessTime": "2019-03-10T16:51:40.340Z",
+      "accessTime": "2019-03-18T22:21:23.639Z",
       "changeTime": "2019-03-10T14:03:34.820Z",
       "birthTime": "2019-03-09T18:49:11.138Z",
       "root": "/",
@@ -962,11 +960,11 @@
       "blksize": 4096,
       "ino": 17888939,
       "blocks": 0,
-      "atimeMs": 1552236700339.7144,
+      "atimeMs": 1552947683639.2512,
       "mtimeMs": 1552226614819.7463,
       "ctimeMs": 1552226614819.7463,
       "birthtimeMs": 1552157351137.6375,
-      "atime": "2019-03-10T16:51:40.340Z",
+      "atime": "2019-03-18T22:21:23.639Z",
       "mtime": "2019-03-10T14:03:34.820Z",
       "ctime": "2019-03-10T14:03:34.820Z",
       "birthtime": "2019-03-09T18:49:11.138Z"
@@ -976,7 +974,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "4bfe90009908e30d904cbe6d1c3cfa47",
+        "contentDigest": "0d3ddc169f439288979efdc74e741a80",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/index.js\"",
@@ -986,12 +984,12 @@
       "absolutePath": "/Users/professor/dev/blog/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
-      "size": 113,
-      "prettySize": "113 B",
-      "modifiedTime": "2019-03-09T21:07:30.331Z",
-      "accessTime": "2019-03-10T12:26:27.566Z",
-      "changeTime": "2019-03-09T21:07:30.331Z",
-      "birthTime": "2019-03-09T21:07:30.330Z",
+      "size": 749,
+      "prettySize": "749 B",
+      "modifiedTime": "2019-03-18T23:45:36.508Z",
+      "accessTime": "2019-03-18T23:45:36.508Z",
+      "changeTime": "2019-03-18T23:45:36.509Z",
+      "birthTime": "2019-03-18T23:45:36.508Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages",
       "base": "index.js",
@@ -1005,16 +1003,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 17936396,
+      "ino": 18832316,
       "blocks": 8,
-      "atimeMs": 1552220787566.3538,
-      "mtimeMs": 1552165650330.5356,
-      "ctimeMs": 1552165650330.6353,
-      "birthtimeMs": 1552165650330.4556,
-      "atime": "2019-03-10T12:26:27.566Z",
-      "mtime": "2019-03-09T21:07:30.331Z",
-      "ctime": "2019-03-09T21:07:30.331Z",
-      "birthtime": "2019-03-09T21:07:30.330Z"
+      "atimeMs": 1552952736508.1848,
+      "mtimeMs": 1552952736508.3035,
+      "ctimeMs": 1552952736508.5017,
+      "birthtimeMs": 1552952736508.1848,
+      "atime": "2019-03-18T23:45:36.508Z",
+      "mtime": "2019-03-18T23:45:36.508Z",
+      "ctime": "2019-03-18T23:45:36.509Z",
+      "birthtime": "2019-03-18T23:45:36.508Z"
     },
     "5a741cad-f195-537c-97b2-172acba2d460": {
       "id": "5a741cad-f195-537c-97b2-172acba2d460",
@@ -1285,6 +1283,51 @@
       "ctime": "2019-03-10T16:34:29.966Z",
       "birthtime": "2019-03-10T16:34:05.001Z"
     },
+    "6eab3bd5-1c22-5056-ac8a-e626fbf330de": {
+      "id": "6eab3bd5-1c22-5056-ac8a-e626fbf330de",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "90becc2a9503e760aaabe6db379f95f8",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 260,
+      "prettySize": "260 B",
+      "modifiedTime": "2019-03-14T10:31:39.618Z",
+      "accessTime": "2019-03-14T10:31:39.617Z",
+      "changeTime": "2019-03-14T10:31:39.618Z",
+      "birthTime": "2019-03-14T10:31:39.617Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 18284099,
+      "blocks": 8,
+      "atimeMs": 1552559499617.391,
+      "mtimeMs": 1552559499617.5244,
+      "ctimeMs": 1552559499617.6943,
+      "birthtimeMs": 1552559499617.391,
+      "atime": "2019-03-14T10:31:39.617Z",
+      "mtime": "2019-03-14T10:31:39.618Z",
+      "ctime": "2019-03-14T10:31:39.618Z",
+      "birthtime": "2019-03-14T10:31:39.617Z"
+    },
     "SitePage /blog/summary": {
       "jsonName": "blog-summary-2cf",
       "internalComponentName": "ComponentBlogSummary",
@@ -1322,6 +1365,26 @@
         "type": "SitePage",
         "contentDigest": "d57755c33bd504627c6d6c93d67bbf36",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/professor/dev/blog/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+      "pluginCreatorId": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+      "componentPath": "/Users/professor/dev/blog/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b41a11d11825effceb9ffb4e7a6c9418",
+        "description": "ea736e02-3a95-5d4b-b81f-3d450700b462",
         "owner": "internal-data-bridge"
       }
     },
@@ -1404,6 +1467,26 @@
         "description": "ea736e02-3a95-5d4b-b81f-3d450700b462",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/professor/dev/blog/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/professor/dev/blog/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a71b91bd0e1e07dc9b46c5152baf4ca4",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -1419,20 +1502,20 @@
         "/blog/pilot"
       ],
       "Site": [
-        "/",
         "sq--src-components-layout-layout-js"
       ]
     },
     "connections": {
       "MarkdownRemark": [
         null,
+        "/blog/",
         null,
-        "/blog/"
+        "/"
       ]
     }
   },
   "jsonDataPaths": {
-    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "index": "130/path---index-6a9-l2PmWnP1KShpm87dVmHoKCkzA",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "blog-pilot-9a5": "650/path---blog-pilot-9-a-5-ead-NZuapzHg3X9TaN1iIixfv1W23E",
     "blog-f7a": "269/path---blog-f-7-a-05d-l2PmWnP1KShpm87dVmHoKCkzA",
@@ -1442,7 +1525,9 @@
     "projects-6a7": "972/path---projects-6-a-7-b75-NZuapzHg3X9TaN1iIixfv1W23E",
     "about-85a": "210/path---about-85-a-af2-NZuapzHg3X9TaN1iIixfv1W23E",
     "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
-    "sq--src-components-layout-layout-js": 3978990474
+    "sq--src-components-layout-layout-js": 3978990474,
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
     "/Users/professor/dev/blog/src/templates/BlogTemplate.js": {
@@ -1454,7 +1539,7 @@
       "componentPath": "/Users/professor/dev/blog/src/pages/blog.js"
     },
     "/Users/professor/dev/blog/src/pages/index.js": {
-      "query": "",
+      "query": "query usersProfessorDevBlogSrcPagesIndexJs4227892632 {\n  allMarkdownRemark(filter: {frontmatter: {publish: {eq: true}}}, sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          path\n          publish\n        }\n        id\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/professor/dev/blog/src/pages/index.js"
     },
     "/Users/professor/dev/blog/src/pages/projects.js": {
@@ -1464,6 +1549,10 @@
     "/Users/professor/dev/blog/src/pages/about.js": {
       "query": "",
       "componentPath": "/Users/professor/dev/blog/src/pages/about.js"
+    },
+    "/Users/professor/dev/blog/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/Users/professor/dev/blog/src/pages/404.js"
     },
     "/Users/professor/dev/blog/.cache/dev-404-page.js": {
       "query": "",

@@ -1,17 +1,18 @@
 import React from "react";
 import Nav from "../nav/Nav";
 import { StaticQuery, graphql } from "gatsby";
+import { Link } from "gatsby";
 
-export const siteQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-        description
-      }
-    }
-  }
-`;
+//export const siteQuery = graphql`
+//query {
+//site {
+//siteMetadata {
+//title
+//description
+//}
+//}
+//}
+//`;
 
 const Layout = props => (
   <StaticQuery
@@ -27,8 +28,12 @@ const Layout = props => (
     `}
     render={data => (
       <div className="layout">
-        <h2 className="title">{data.site.siteMetadata.title}</h2>
-        <Nav />
+        <div className="title-wrapper">
+          <Link to="/">
+            <h2 className="title">{data.site.siteMetadata.title}</h2>
+          </Link>
+          <Nav />
+        </div>
         {props.children}
       </div>
     )}

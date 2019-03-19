@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "typecasted",
+    title: "rudra narayan",
     author: "Rudra Narayan",
     description: "Personal journal by Rudra Narayan.",
     siteUrl: "https://mrprofessor.io"
