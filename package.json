@@ -11,7 +11,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build && gh-pages -d public"
   },
   "dependencies": {
     "gatsby": "^2.1.27",
@@ -23,6 +23,8 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "typeface-open-sans": "0.0.54",
+    "typeface-overpass": "0.0.72",
+    "typeface-overpass-mono": "0.0.71",
     "typeface-roboto": "0.0.54",
     "typeface-roboto-mono": "0.0.54"
   },

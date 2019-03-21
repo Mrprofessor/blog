@@ -3,7 +3,7 @@ import moment from "moment";
 import { Link } from "gatsby";
 
 const BlogList = ({ list }) => {
-  const computeDate = date => moment(date).format("Do MMMM, YYYY");
+  const computeDate = date => moment(date).format("Do MMM, YYYY");
 
   return (
     <div className="blog-list">
@@ -13,7 +13,9 @@ const BlogList = ({ list }) => {
             <Link to={blog.node.frontmatter.path}>
               {blog.node.frontmatter.title}
             </Link>
-            <span>{computeDate(blog.node.frontmatter.date)}</span>
+            <span className="date-label">
+              {computeDate(blog.node.frontmatter.date)}
+            </span>
           </article>
         );
       })}

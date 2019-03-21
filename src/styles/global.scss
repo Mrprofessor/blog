@@ -22,7 +22,9 @@ html {
 }
 
 body {
-  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  //font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "Overpass Mono",monospace;
+  //font-family: Overpass,"Overpass Mono",monospace;
   //font-family: Roboto, Helvetica, Arial, sans-serif;
   color: $primary-color;
   background: $background-color;
@@ -38,15 +40,19 @@ nav {
   ul {
     display: block;
     padding: 0;
-    margin: 0.5rem;
+    //margin: 0.5rem;
     li {
       display: inline;
       list-style-type: none;
       a {
         display: inline-block;
-        padding: 0.5rem 1rem;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
         color: #444;
       }
+    }
+    li:not(:last-child) {
+      padding: 0 1rem;
     }
   }
 }
@@ -69,6 +75,7 @@ nav {
   max-width: 42rem;
   margin-left: auto;
   margin-right: auto;
+  //padding: 2.625rem 1.3125rem;
   padding: 2.625rem 1.3125rem;
 }
 
@@ -82,6 +89,7 @@ nav {
 .blog-list {
   .list-item {
     @include flexify;
+    margin-bottom: 0.5rem; 
   }
 }
 
@@ -91,10 +99,24 @@ nav {
       @include flex-column;
     }
     .title {
-      margin-block-start: 0.41em;
-      margin-block-end: 0.41em;
-      margin-inline-start: 0px;
-      margin-inline-end: 0px;
+      margin: 0;
+    }
+  }
+
+  .title-wrapper {
+    margin-bottom: 0.5rem;
+  }
+
+  .blog-list {
+    .list-item {
+      justify-content: unset;
+      flex-direction: column-reverse;
+      align-items: baseline;
+
+      border: 1px solid $primary-color;      
+    }
+    .date-label {
+      margin-right: 1rem;
     }
   }
 }

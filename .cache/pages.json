@@ -26,13 +26,18 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-template-js",
-        "jsonName": "blog-pilot-6bf",
-        "path": "/blog/pilot"
+        "jsonName": "blog-configuring-npm-behind-a-proxy-0c2",
+        "path": "/blog/configuring-npm-behind-a-proxy"
     },
     {
         "componentChunkName": "component---src-templates-blog-template-js",
-        "jsonName": "blog-summary-2cf",
-        "path": "/blog/summary"
+        "jsonName": "blog-css-and-js-are-not-bytecode-506",
+        "path": "/blog/css-and-js-are-not-bytecode"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "jsonName": "blog-maintaining-multiple-github-accounts-98c",
+        "path": "/blog/maintaining-multiple-github-accounts"
     },
     {
         "componentChunkName": "component---src-pages-projects-js",

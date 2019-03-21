@@ -3,7 +3,7 @@ module.exports = {
     title: "rudra narayan",
     author: "Rudra Narayan",
     description: "Personal journal by Rudra Narayan.",
-    siteUrl: "https://mrprofessor.io"
+    siteUrl: "https://rudra.dev"
   },
   plugins: [
     {
@@ -17,6 +17,5 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sass`
     }
-  ],
-  pathPrefix: "/blog"
+  ]
 };
