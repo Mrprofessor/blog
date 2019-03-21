@@ -17,5 +17,6 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sass`
     }
-  ]
+  ],
+  pathPrefix: "/blog"
 };

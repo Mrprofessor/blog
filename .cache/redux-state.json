@@ -1,22 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/professor/dev/blog/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/professor/dev/blog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "99f71b037fd62db1a7db89740307b4ed",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -588,7 +579,7 @@
       "resolve": "/Users/professor/dev/blog",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "78cb03e182f98a793f419d94da581b00",
+      "version": "da953835280ff09c887960f3ebcb38b1",
       "pluginOptions": {
         "plugins": []
       },
@@ -621,6 +612,10 @@
             "version": "^2.3.1"
           },
           {
+            "name": "moment",
+            "version": "^2.24.0"
+          },
+          {
             "name": "node-sass",
             "version": "^4.11.0"
           },
@@ -631,6 +626,10 @@
           {
             "name": "react-dom",
             "version": "^16.8.4"
+          },
+          {
+            "name": "typeface-open-sans",
+            "version": "0.0.54"
           },
           {
             "name": "typeface-roboto",
@@ -655,6 +654,10 @@
             "version": "^3.0.1"
           },
           {
+            "name": "gh-pages",
+            "version": "^2.0.1"
+          },
+          {
             "name": "prettier",
             "version": "^1.16.4"
           }
@@ -666,7 +669,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "6effb33ce67d5bedbe0ef2025798f5e5",
+        "contentDigest": "1c88e1a836555328506b87d152c6ea6e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -781,14 +784,14 @@
         "description": "Personal journal by Rudra Narayan.",
         "siteUrl": "https://mrprofessor.io"
       },
-      "port": "8000",
-      "host": "localhost",
-      "buildTime": "2019-03-18T22:21:11.477Z",
+      "pathPrefix": "/blog",
+      "polyfill": true,
+      "buildTime": "2019-03-21T16:55:42.474Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "9098e736342170526a497bb5b0b39320",
+        "contentDigest": "45f9e63d543b803b240033cd486ca8f0",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -798,7 +801,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "e0b9b3182d1b018cafed74e635582719",
+        "contentDigest": "c00ba988f445b7567a6f194b09e1f3f2",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -809,9 +812,9 @@
       "extension": "",
       "size": 256,
       "prettySize": "256 B",
-      "modifiedTime": "2019-03-14T10:31:39.618Z",
-      "accessTime": "2019-03-18T22:21:23.635Z",
-      "changeTime": "2019-03-14T10:31:39.618Z",
+      "modifiedTime": "2019-03-18T23:51:37.902Z",
+      "accessTime": "2019-03-21T16:55:51.963Z",
+      "changeTime": "2019-03-18T23:51:37.902Z",
       "birthTime": "2019-03-09T18:33:59.117Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src",
@@ -828,13 +831,13 @@
       "blksize": 4096,
       "ino": 17888211,
       "blocks": 0,
-      "atimeMs": 1552947683635.3853,
-      "mtimeMs": 1552559499618.1519,
-      "ctimeMs": 1552559499618.1519,
+      "atimeMs": 1553187351963.4792,
+      "mtimeMs": 1552953097901.7793,
+      "ctimeMs": 1552953097901.7793,
       "birthtimeMs": 1552156439117.0015,
-      "atime": "2019-03-18T22:21:23.635Z",
-      "mtime": "2019-03-14T10:31:39.618Z",
-      "ctime": "2019-03-14T10:31:39.618Z",
+      "atime": "2019-03-21T16:55:51.963Z",
+      "mtime": "2019-03-18T23:51:37.902Z",
+      "ctime": "2019-03-18T23:51:37.902Z",
       "birthtime": "2019-03-09T18:33:59.117Z"
     },
     "5050d14f-a429-5da7-b14c-940df0e61a42": {
@@ -842,7 +845,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "154c3793afa6ce36b9cd319569953922",
+        "contentDigest": "792a84f1b81491af693a70d1248d228d",
         "type": "Directory",
         "description": "Directory \"src/pages/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -854,7 +857,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-03-09T18:50:22.689Z",
-      "accessTime": "2019-03-18T22:21:23.638Z",
+      "accessTime": "2019-03-21T16:55:51.967Z",
       "changeTime": "2019-03-09T18:50:22.689Z",
       "birthTime": "2019-03-09T18:47:58.359Z",
       "root": "/",
@@ -872,11 +875,11 @@
       "blksize": 4096,
       "ino": 17888899,
       "blocks": 0,
-      "atimeMs": 1552947683638.0557,
+      "atimeMs": 1553187351967.4817,
       "mtimeMs": 1552157422688.8206,
       "ctimeMs": 1552157422688.8206,
       "birthtimeMs": 1552157278358.944,
-      "atime": "2019-03-18T22:21:23.638Z",
+      "atime": "2019-03-21T16:55:51.967Z",
       "mtime": "2019-03-09T18:50:22.689Z",
       "ctime": "2019-03-09T18:50:22.689Z",
       "birthtime": "2019-03-09T18:47:58.359Z"
@@ -886,7 +889,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "cac1288b14155aa8925112c8ffa0455b",
+        "contentDigest": "7d71568e8300e6f5ceed43260b3cd0fd",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/pilot\"",
         "owner": "gatsby-source-filesystem"
@@ -898,7 +901,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-03-10T13:49:58.532Z",
-      "accessTime": "2019-03-18T22:21:23.639Z",
+      "accessTime": "2019-03-21T16:55:51.969Z",
       "changeTime": "2019-03-10T13:49:58.532Z",
       "birthTime": "2019-03-09T18:50:22.689Z",
       "root": "/",
@@ -916,11 +919,11 @@
       "blksize": 4096,
       "ino": 17888943,
       "blocks": 0,
-      "atimeMs": 1552947683639.1824,
+      "atimeMs": 1553187351968.57,
       "mtimeMs": 1552225798532.3125,
       "ctimeMs": 1552225798532.3125,
       "birthtimeMs": 1552157422688.7788,
-      "atime": "2019-03-18T22:21:23.639Z",
+      "atime": "2019-03-21T16:55:51.969Z",
       "mtime": "2019-03-10T13:49:58.532Z",
       "ctime": "2019-03-10T13:49:58.532Z",
       "birthtime": "2019-03-09T18:50:22.689Z"
@@ -930,7 +933,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "8982752cbbcdb0dc52ded772a5112f5b",
+        "contentDigest": "43fa8ae9ed850d3896c7755358735df1",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/summary\"",
         "owner": "gatsby-source-filesystem"
@@ -942,7 +945,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-03-10T14:03:34.820Z",
-      "accessTime": "2019-03-18T22:21:23.639Z",
+      "accessTime": "2019-03-21T16:55:51.969Z",
       "changeTime": "2019-03-10T14:03:34.820Z",
       "birthTime": "2019-03-09T18:49:11.138Z",
       "root": "/",
@@ -960,41 +963,41 @@
       "blksize": 4096,
       "ino": 17888939,
       "blocks": 0,
-      "atimeMs": 1552947683639.2512,
+      "atimeMs": 1553187351968.5508,
       "mtimeMs": 1552226614819.7463,
       "ctimeMs": 1552226614819.7463,
       "birthtimeMs": 1552157351137.6375,
-      "atime": "2019-03-18T22:21:23.639Z",
+      "atime": "2019-03-21T16:55:51.969Z",
       "mtime": "2019-03-10T14:03:34.820Z",
       "ctime": "2019-03-10T14:03:34.820Z",
       "birthtime": "2019-03-09T18:49:11.138Z"
     },
-    "478e4807-5878-592b-9490-b6aa34700b38": {
-      "id": "478e4807-5878-592b-9490-b6aa34700b38",
+    "a952cab7-6b32-5026-a2c3-fe03351361c2": {
+      "id": "a952cab7-6b32-5026-a2c3-fe03351361c2",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "0d3ddc169f439288979efdc74e741a80",
+        "contentDigest": "4063380f59dfed52724e55ea75e86702",
         "type": "File",
         "mediaType": "application/javascript",
-        "description": "File \"src/pages/index.js\"",
+        "description": "File \"src/pages/about.js\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/index.js",
-      "relativePath": "index.js",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/about.js",
+      "relativePath": "about.js",
       "extension": "js",
-      "size": 749,
-      "prettySize": "749 B",
-      "modifiedTime": "2019-03-18T23:45:36.508Z",
-      "accessTime": "2019-03-18T23:45:36.508Z",
-      "changeTime": "2019-03-18T23:45:36.509Z",
-      "birthTime": "2019-03-18T23:45:36.508Z",
+      "size": 2542,
+      "prettySize": "2.54 kB",
+      "modifiedTime": "2019-03-10T16:34:41.869Z",
+      "accessTime": "2019-03-11T08:56:40.257Z",
+      "changeTime": "2019-03-10T16:34:41.870Z",
+      "birthTime": "2019-03-10T16:34:41.869Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages",
-      "base": "index.js",
+      "base": "about.js",
       "ext": ".js",
-      "name": "index",
+      "name": "about",
       "relativeDirectory": "",
       "dev": 16777222,
       "mode": 33188,
@@ -1003,46 +1006,44 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 18832316,
+      "ino": 17957463,
       "blocks": 8,
-      "atimeMs": 1552952736508.1848,
-      "mtimeMs": 1552952736508.3035,
-      "ctimeMs": 1552952736508.5017,
-      "birthtimeMs": 1552952736508.1848,
-      "atime": "2019-03-18T23:45:36.508Z",
-      "mtime": "2019-03-18T23:45:36.508Z",
-      "ctime": "2019-03-18T23:45:36.509Z",
-      "birthtime": "2019-03-18T23:45:36.508Z"
+      "atimeMs": 1552294600256.5837,
+      "mtimeMs": 1552235681869.4917,
+      "ctimeMs": 1552235681869.6646,
+      "birthtimeMs": 1552235681869.3625,
+      "atime": "2019-03-11T08:56:40.257Z",
+      "mtime": "2019-03-10T16:34:41.869Z",
+      "ctime": "2019-03-10T16:34:41.870Z",
+      "birthtime": "2019-03-10T16:34:41.869Z"
     },
-    "5a741cad-f195-537c-97b2-172acba2d460": {
-      "id": "5a741cad-f195-537c-97b2-172acba2d460",
-      "children": [
-        "f539b4f2-4e53-5f81-82a1-5d82781148e5"
-      ],
+    "6eab3bd5-1c22-5056-ac8a-e626fbf330de": {
+      "id": "6eab3bd5-1c22-5056-ac8a-e626fbf330de",
+      "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "736c4c2ebe1679b6372e1c0290219cb8",
+        "contentDigest": "90becc2a9503e760aaabe6db379f95f8",
         "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/blog/pilot/index.md\"",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/404.js\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/pilot/index.md",
-      "relativePath": "blog/pilot/index.md",
-      "extension": "md",
-      "size": 6595,
-      "prettySize": "6.59 kB",
-      "modifiedTime": "2019-03-10T13:49:55.077Z",
-      "accessTime": "2019-03-10T13:49:55.077Z",
-      "changeTime": "2019-03-10T13:49:55.077Z",
-      "birthTime": "2019-03-10T13:49:55.077Z",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 260,
+      "prettySize": "260 B",
+      "modifiedTime": "2019-03-14T10:31:39.618Z",
+      "accessTime": "2019-03-19T09:32:37.062Z",
+      "changeTime": "2019-03-14T10:31:39.618Z",
+      "birthTime": "2019-03-14T10:31:39.617Z",
       "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages/blog/pilot",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "blog/pilot",
+      "dir": "/Users/professor/dev/blog/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
       "dev": 16777222,
       "mode": 33188,
       "nlink": 1,
@@ -1050,16 +1051,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 17953731,
-      "blocks": 16,
-      "atimeMs": 1552225795076.8333,
-      "mtimeMs": 1552225795076.9766,
-      "ctimeMs": 1552225795077.1611,
-      "birthtimeMs": 1552225795076.8333,
-      "atime": "2019-03-10T13:49:55.077Z",
-      "mtime": "2019-03-10T13:49:55.077Z",
-      "ctime": "2019-03-10T13:49:55.077Z",
-      "birthtime": "2019-03-10T13:49:55.077Z"
+      "ino": 18284099,
+      "blocks": 8,
+      "atimeMs": 1552987957061.6719,
+      "mtimeMs": 1552559499617.5244,
+      "ctimeMs": 1552559499617.6943,
+      "birthtimeMs": 1552559499617.391,
+      "atime": "2019-03-19T09:32:37.062Z",
+      "mtime": "2019-03-14T10:31:39.618Z",
+      "ctime": "2019-03-14T10:31:39.618Z",
+      "birthtime": "2019-03-14T10:31:39.617Z"
     },
     "ea1da826-2fe3-5826-89b1-d07d15e4763c": {
       "id": "ea1da826-2fe3-5826-89b1-d07d15e4763c",
@@ -1079,7 +1080,7 @@
       "size": 775,
       "prettySize": "775 B",
       "modifiedTime": "2019-03-10T17:34:18.808Z",
-      "accessTime": "2019-03-10T17:34:18.808Z",
+      "accessTime": "2019-03-11T08:56:40.257Z",
       "changeTime": "2019-03-10T17:34:18.808Z",
       "birthTime": "2019-03-10T17:34:18.808Z",
       "root": "/",
@@ -1097,14 +1098,104 @@
       "blksize": 4096,
       "ino": 17962410,
       "blocks": 8,
-      "atimeMs": 1552239258807.6855,
+      "atimeMs": 1552294600256.7183,
       "mtimeMs": 1552239258807.806,
       "ctimeMs": 1552239258807.983,
       "birthtimeMs": 1552239258807.6855,
-      "atime": "2019-03-10T17:34:18.808Z",
+      "atime": "2019-03-11T08:56:40.257Z",
       "mtime": "2019-03-10T17:34:18.808Z",
       "ctime": "2019-03-10T17:34:18.808Z",
       "birthtime": "2019-03-10T17:34:18.808Z"
+    },
+    "478e4807-5878-592b-9490-b6aa34700b38": {
+      "id": "478e4807-5878-592b-9490-b6aa34700b38",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "0d3ddc169f439288979efdc74e741a80",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 749,
+      "prettySize": "749 B",
+      "modifiedTime": "2019-03-18T23:51:37.901Z",
+      "accessTime": "2019-03-19T09:32:37.062Z",
+      "changeTime": "2019-03-18T23:51:37.902Z",
+      "birthTime": "2019-03-18T23:51:37.901Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 18833053,
+      "blocks": 8,
+      "atimeMs": 1552987957061.812,
+      "mtimeMs": 1552953097901.3848,
+      "ctimeMs": 1552953097901.5547,
+      "birthtimeMs": 1552953097901.2249,
+      "atime": "2019-03-19T09:32:37.062Z",
+      "mtime": "2019-03-18T23:51:37.901Z",
+      "ctime": "2019-03-18T23:51:37.902Z",
+      "birthtime": "2019-03-18T23:51:37.901Z"
+    },
+    "b71ed330-2b4e-505d-b8b1-831274b2b56b": {
+      "id": "b71ed330-2b4e-505d-b8b1-831274b2b56b",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "ab682aa11c7ab5d95b10dff0d9ec7c4e",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/projects.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/projects.js",
+      "relativePath": "projects.js",
+      "extension": "js",
+      "size": 272,
+      "prettySize": "272 B",
+      "modifiedTime": "2019-03-10T16:28:29.290Z",
+      "accessTime": "2019-03-11T08:56:40.257Z",
+      "changeTime": "2019-03-10T16:34:36.995Z",
+      "birthTime": "2019-03-10T16:28:29.290Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages",
+      "base": "projects.js",
+      "ext": ".js",
+      "name": "projects",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17956899,
+      "blocks": 8,
+      "atimeMs": 1552294600256.7705,
+      "mtimeMs": 1552235309290.3591,
+      "ctimeMs": 1552235676994.7102,
+      "birthtimeMs": 1552235309290.212,
+      "atime": "2019-03-11T08:56:40.257Z",
+      "mtime": "2019-03-10T16:28:29.290Z",
+      "ctime": "2019-03-10T16:34:36.995Z",
+      "birthtime": "2019-03-10T16:28:29.290Z"
     },
     "834e4047-c7be-58d3-a5d2-b63b7acf4a9e": {
       "id": "834e4047-c7be-58d3-a5d2-b63b7acf4a9e",
@@ -1126,7 +1217,7 @@
       "size": 1654,
       "prettySize": "1.65 kB",
       "modifiedTime": "2019-03-10T14:03:34.819Z",
-      "accessTime": "2019-03-10T14:03:34.819Z",
+      "accessTime": "2019-03-10T16:18:54.018Z",
       "changeTime": "2019-03-10T14:03:34.819Z",
       "birthTime": "2019-03-10T14:03:34.819Z",
       "root": "/",
@@ -1144,34 +1235,61 @@
       "blksize": 4096,
       "ino": 17954709,
       "blocks": 8,
-      "atimeMs": 1552226614819.0862,
+      "atimeMs": 1552234734017.668,
       "mtimeMs": 1552226614819.3137,
       "ctimeMs": 1552226614819.4956,
       "birthtimeMs": 1552226614819.0862,
-      "atime": "2019-03-10T14:03:34.819Z",
+      "atime": "2019-03-10T16:18:54.018Z",
       "mtime": "2019-03-10T14:03:34.819Z",
       "ctime": "2019-03-10T14:03:34.819Z",
       "birthtime": "2019-03-10T14:03:34.819Z"
     },
-    "f539b4f2-4e53-5f81-82a1-5d82781148e5": {
-      "id": "f539b4f2-4e53-5f81-82a1-5d82781148e5",
-      "children": [],
-      "parent": "5a741cad-f195-537c-97b2-172acba2d460",
+    "5a741cad-f195-537c-97b2-172acba2d460": {
+      "id": "5a741cad-f195-537c-97b2-172acba2d460",
+      "children": [
+        "f539b4f2-4e53-5f81-82a1-5d82781148e5"
+      ],
+      "parent": null,
       "internal": {
-        "content": "\nSpill litter box, scratch at owner, destroy all furniture, especially couch stare at ceiling light. I vomit in the bed in the middle of the night cough. Scratch my tummy actually i hate you now fight me. Attack feet rub whiskers on bare skin act innocent. I hate cucumber pls dont throw it at me chase ball of string. Kitty poochy pushes butt to face pet me pet me pet me pet me, bite, scratch, why are you petting me so show belly and licks your face yet meow loudly just to annoy owners so leave hair on owner's clothes. Chase laser eat grass, throw it back up, catch mouse and gave it as a present when owners are asleep, cry for no apparent reason so but let me in let me out let me in let me out let me in let me out who broke this door anyway . Attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently. \n\nHowl uncontrollably for no reason lie in the sink all day. Kitty loves pigs cat dog hate mouse eat string barf pillow no baths hate everything for if it fits, i sits, and have secret plans but lay on arms while you're using the keyboard but groom forever, stretch tongue and leave it slightly out, blep yet nya nya nyan. Fat baby cat best buddy little guy paw at beetle and eat it before it gets away yet meow meow or stare at guinea pigs so favor packaging over toy or meoooow eat owner's food. Missing until dinner time meow and walk away check cat door for ambush 10 times before coming in hiss at vacuum cleaner refuse to drink water except out of someone's glass. Find a way to fit in tiny box chase after silly colored fish toys around the house lick the plastic bag. Eat all the power cords i like frogs and 0 gravity. Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry refuse to come home when humans are going to bed; stay out all night then yowl like i am dying at 4am and destroy couch, yet more napping, more napping all the napping is exhausting for you have cat to be kitten me right meow. Sniff all the things refuse to leave cardboard box for mark territory destroy the blinds but cat fur is the new black . Small kitty warm kitty little balls of fur make plans to dominate world and then take a nap. I can haz flop over, but weigh eight pounds but take up a full-size bed i hate cucumber pls dont throw it at me so pee in the shoe ask for petting or get video posted to internet for chasing red dot. Scoot butt on the rug annoy owner until he gives you food say meow repeatedly until belly rubs, feels good munch on tasty moths yet sit on the laptop sit by the fire and chew the plant for burrow under covers. Lie on your belly and purr when you are asleep proudly present butt to human check cat door for ambush 10 times before coming in, eat the fat cats food sit on the laptop. The cat was chasing the mouse fooled again thinking the dog likes me wack the mini furry mouse licks paws yet mew meow and walk away yet my left donut is missing, as is my right. I can haz sleep on keyboard, so be a nyan cat, feel great about it, be annoying 24/7 poop rainbows in litter box all day sleep on my human's head. Purr like an angel. Why use post when this sofa is here snuggles up to shoulders or knees and purrs you to sleep meowing non stop for food climb a tree, wait for a fireman jump to fireman then scratch his face attack dog, run away and pretend to be victim dont wait for the storm to pass, dance in the rain i shredded your linens for you. Purr while eating lick butt, for fall over dead (not really but gets sypathy) stand in front of the computer screen, yet chirp at birds. Trip on catnip stare out cat door then go back inside. The door is opening! how exciting oh, it's you, meh stare at wall turn and meow stare at wall some more meow again continue staring mesmerizing birds but prance along on top of the garden fence, annoy the neighbor's dog and make it bark kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. \n\nI like cats because they are fat and fluffy be superior purr like an angel loved it, hated it, loved it, hated it. Cough furball cat sit like bread so eat all the power cords scratch leg; meow for can opener to feed me and poop in litter box, scratch the walls. Jump off balcony, onto stranger's head thug cat purrr purr littel cat, little cat purr purr for scoot butt on the rug hide from vacuum cleaner. Rub butt on table massacre a bird in the living room and then look like the cutest and most innocent animal on the planet for claws in your leg yet shake treat bag kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute?. Sleep on my human's head furrier and even more furrier hairball lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back try to jump onto window and fall while scratching at wall and jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed yet meow loudly just to annoy owners. Inspect anything brought into the house let me in let me out let me in let me out let me in let me out who broke this door anyway yet pet me pet me don't pet me somehow manage to catch a bird but have no idea what to do next, so play with it until it dies of shock meow to be let in, and immediately regret falling into bathtub. Leave fur on owners clothes litter kitter kitty litty little kitten big roar roar feed me meowing chowing and wowing. Mrow meow for food, then when human fills food dish, take a few bites of food and continue meowing pet me pet me don't pet me. My cat stared at me he was sipping his tea, too. Flop over howl uncontrollably for no reason. kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff, but jump around on couch, meow constantly until given food, tuxedo cats always looking dapper and tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad sniff other cat's butt and hang jaw half open thereafter and attack feet. Claw drapes. Give me some of your food give me some of your food give me some of your food meh, i don't want it mrow leave fur on owners clothes and purr when being pet let me in let me out let me in let me out let me in let me out who broke this door anyway . \n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "c1f97cc4094f4bd8f94e922d264fec20",
-        "owner": "gatsby-transformer-remark"
+        "contentDigest": "736c4c2ebe1679b6372e1c0290219cb8",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/pilot/index.md\"",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "Pilot",
-        "date": "2019-01-21",
-        "path": "/blog/pilot",
-        "publish": true
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nSpill litter box, scratch at owner, destroy all furniture, especially couch stare at ceiling light. I vomit in the bed in the middle of the night cough. Scratch my tummy actually i hate you now fight me. Attack feet rub whiskers on bare skin act innocent. I hate cucumber pls dont throw it at me chase ball of string. Kitty poochy pushes butt to face pet me pet me pet me pet me, bite, scratch, why are you petting me so show belly and licks your face yet meow loudly just to annoy owners so leave hair on owner's clothes. Chase laser eat grass, throw it back up, catch mouse and gave it as a present when owners are asleep, cry for no apparent reason so but let me in let me out let me in let me out let me in let me out who broke this door anyway . Attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently. \n\nHowl uncontrollably for no reason lie in the sink all day. Kitty loves pigs cat dog hate mouse eat string barf pillow no baths hate everything for if it fits, i sits, and have secret plans but lay on arms while you're using the keyboard but groom forever, stretch tongue and leave it slightly out, blep yet nya nya nyan. Fat baby cat best buddy little guy paw at beetle and eat it before it gets away yet meow meow or stare at guinea pigs so favor packaging over toy or meoooow eat owner's food. Missing until dinner time meow and walk away check cat door for ambush 10 times before coming in hiss at vacuum cleaner refuse to drink water except out of someone's glass. Find a way to fit in tiny box chase after silly colored fish toys around the house lick the plastic bag. Eat all the power cords i like frogs and 0 gravity. Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry refuse to come home when humans are going to bed; stay out all night then yowl like i am dying at 4am and destroy couch, yet more napping, more napping all the napping is exhausting for you have cat to be kitten me right meow. Sniff all the things refuse to leave cardboard box for mark territory destroy the blinds but cat fur is the new black . Small kitty warm kitty little balls of fur make plans to dominate world and then take a nap. I can haz flop over, but weigh eight pounds but take up a full-size bed i hate cucumber pls dont throw it at me so pee in the shoe ask for petting or get video posted to internet for chasing red dot. Scoot butt on the rug annoy owner until he gives you food say meow repeatedly until belly rubs, feels good munch on tasty moths yet sit on the laptop sit by the fire and chew the plant for burrow under covers. Lie on your belly and purr when you are asleep proudly present butt to human check cat door for ambush 10 times before coming in, eat the fat cats food sit on the laptop. The cat was chasing the mouse fooled again thinking the dog likes me wack the mini furry mouse licks paws yet mew meow and walk away yet my left donut is missing, as is my right. I can haz sleep on keyboard, so be a nyan cat, feel great about it, be annoying 24/7 poop rainbows in litter box all day sleep on my human's head. Purr like an angel. Why use post when this sofa is here snuggles up to shoulders or knees and purrs you to sleep meowing non stop for food climb a tree, wait for a fireman jump to fireman then scratch his face attack dog, run away and pretend to be victim dont wait for the storm to pass, dance in the rain i shredded your linens for you. Purr while eating lick butt, for fall over dead (not really but gets sypathy) stand in front of the computer screen, yet chirp at birds. Trip on catnip stare out cat door then go back inside. The door is opening! how exciting oh, it's you, meh stare at wall turn and meow stare at wall some more meow again continue staring mesmerizing birds but prance along on top of the garden fence, annoy the neighbor's dog and make it bark kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. \n\nI like cats because they are fat and fluffy be superior purr like an angel loved it, hated it, loved it, hated it. Cough furball cat sit like bread so eat all the power cords scratch leg; meow for can opener to feed me and poop in litter box, scratch the walls. Jump off balcony, onto stranger's head thug cat purrr purr littel cat, little cat purr purr for scoot butt on the rug hide from vacuum cleaner. Rub butt on table massacre a bird in the living room and then look like the cutest and most innocent animal on the planet for claws in your leg yet shake treat bag kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute?. Sleep on my human's head furrier and even more furrier hairball lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back try to jump onto window and fall while scratching at wall and jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed yet meow loudly just to annoy owners. Inspect anything brought into the house let me in let me out let me in let me out let me in let me out who broke this door anyway yet pet me pet me don't pet me somehow manage to catch a bird but have no idea what to do next, so play with it until it dies of shock meow to be let in, and immediately regret falling into bathtub. Leave fur on owners clothes litter kitter kitty litty little kitten big roar roar feed me meowing chowing and wowing. Mrow meow for food, then when human fills food dish, take a few bites of food and continue meowing pet me pet me don't pet me. My cat stared at me he was sipping his tea, too. Flop over howl uncontrollably for no reason. kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff, but jump around on couch, meow constantly until given food, tuxedo cats always looking dapper and tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad sniff other cat's butt and hang jaw half open thereafter and attack feet. Claw drapes. Give me some of your food give me some of your food give me some of your food meh, i don't want it mrow leave fur on owners clothes and purr when being pet let me in let me out let me in let me out let me in let me out who broke this door anyway . \n\n",
-      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/pilot/index.md"
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/pilot/index.md",
+      "relativePath": "blog/pilot/index.md",
+      "extension": "md",
+      "size": 6595,
+      "prettySize": "6.59 kB",
+      "modifiedTime": "2019-03-10T13:49:58.532Z",
+      "accessTime": "2019-03-10T16:18:54.018Z",
+      "changeTime": "2019-03-10T13:49:58.532Z",
+      "birthTime": "2019-03-10T13:49:58.532Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages/blog/pilot",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "blog/pilot",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17953742,
+      "blocks": 16,
+      "atimeMs": 1552234734017.6045,
+      "mtimeMs": 1552225798531.8896,
+      "ctimeMs": 1552225798532.069,
+      "birthtimeMs": 1552225798531.7075,
+      "atime": "2019-03-10T16:18:54.018Z",
+      "mtime": "2019-03-10T13:49:58.532Z",
+      "ctime": "2019-03-10T13:49:58.532Z",
+      "birthtime": "2019-03-10T13:49:58.532Z"
     },
     "fca8e4ab-e626-5740-9fe3-2e7729120e59": {
       "id": "fca8e4ab-e626-5740-9fe3-2e7729120e59",
@@ -1193,140 +1311,25 @@
       "rawMarkdownBody": "\nWe don't serve their kind here! What? Your droids. They'll have to wait outside. We don't want them here. Listen, why don't you wait out by the speeder. We don't want any trouble. I heartily agree with you sir. Negola dewaghi wooldugger?!? He doesn't like you. I'm sorry. I don't like you either You just watch yourself. We're wanted men. I have the death sentence in twelve systems. I'll be careful than. You'll be dead. This little one isn't worth the effort. Come let me buy you something.\n\n``` \nhello \n```\n\n`hi`\n\nThe approach will not be easy. You are required to maneuver straight down this trench and skim the surface to this point. The target area is only two meters wide. It's a small thermal exhaust port, right below the main port. The shaft leads directly to the reactor system. A precise hit will start a chain reaction which should destroy the station. Only a precise hit will set up a chain reaction. The shaft is ray-shielded, so you'll have to use proton torpedoes. That's impossible, even for a computer. It's not impossible. I used to bull's-eye womp rats in my T-sixteen back home. They're not much bigger than two meters. Man your ships! And may the Force be with you!\n\nLuke? Luke? Luke? Have you seen Luke this morning? He said he had some things to do before he started today, so he left early. Uh? Did he take those two new droids with him? I think so. Well, he'd better have those units in the south range repaired be midday or there'll be hell to pay! Wait, there's something dead ahead on the scanner. It looks like our droid! hit the accelerator.\n\n",
       "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/summary/index.md"
     },
-    "b71ed330-2b4e-505d-b8b1-831274b2b56b": {
-      "id": "b71ed330-2b4e-505d-b8b1-831274b2b56b",
+    "f539b4f2-4e53-5f81-82a1-5d82781148e5": {
+      "id": "f539b4f2-4e53-5f81-82a1-5d82781148e5",
       "children": [],
-      "parent": null,
+      "parent": "5a741cad-f195-537c-97b2-172acba2d460",
       "internal": {
-        "contentDigest": "ab682aa11c7ab5d95b10dff0d9ec7c4e",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/projects.js\"",
-        "owner": "gatsby-source-filesystem"
+        "content": "\nSpill litter box, scratch at owner, destroy all furniture, especially couch stare at ceiling light. I vomit in the bed in the middle of the night cough. Scratch my tummy actually i hate you now fight me. Attack feet rub whiskers on bare skin act innocent. I hate cucumber pls dont throw it at me chase ball of string. Kitty poochy pushes butt to face pet me pet me pet me pet me, bite, scratch, why are you petting me so show belly and licks your face yet meow loudly just to annoy owners so leave hair on owner's clothes. Chase laser eat grass, throw it back up, catch mouse and gave it as a present when owners are asleep, cry for no apparent reason so but let me in let me out let me in let me out let me in let me out who broke this door anyway . Attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently. \n\nHowl uncontrollably for no reason lie in the sink all day. Kitty loves pigs cat dog hate mouse eat string barf pillow no baths hate everything for if it fits, i sits, and have secret plans but lay on arms while you're using the keyboard but groom forever, stretch tongue and leave it slightly out, blep yet nya nya nyan. Fat baby cat best buddy little guy paw at beetle and eat it before it gets away yet meow meow or stare at guinea pigs so favor packaging over toy or meoooow eat owner's food. Missing until dinner time meow and walk away check cat door for ambush 10 times before coming in hiss at vacuum cleaner refuse to drink water except out of someone's glass. Find a way to fit in tiny box chase after silly colored fish toys around the house lick the plastic bag. Eat all the power cords i like frogs and 0 gravity. Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry refuse to come home when humans are going to bed; stay out all night then yowl like i am dying at 4am and destroy couch, yet more napping, more napping all the napping is exhausting for you have cat to be kitten me right meow. Sniff all the things refuse to leave cardboard box for mark territory destroy the blinds but cat fur is the new black . Small kitty warm kitty little balls of fur make plans to dominate world and then take a nap. I can haz flop over, but weigh eight pounds but take up a full-size bed i hate cucumber pls dont throw it at me so pee in the shoe ask for petting or get video posted to internet for chasing red dot. Scoot butt on the rug annoy owner until he gives you food say meow repeatedly until belly rubs, feels good munch on tasty moths yet sit on the laptop sit by the fire and chew the plant for burrow under covers. Lie on your belly and purr when you are asleep proudly present butt to human check cat door for ambush 10 times before coming in, eat the fat cats food sit on the laptop. The cat was chasing the mouse fooled again thinking the dog likes me wack the mini furry mouse licks paws yet mew meow and walk away yet my left donut is missing, as is my right. I can haz sleep on keyboard, so be a nyan cat, feel great about it, be annoying 24/7 poop rainbows in litter box all day sleep on my human's head. Purr like an angel. Why use post when this sofa is here snuggles up to shoulders or knees and purrs you to sleep meowing non stop for food climb a tree, wait for a fireman jump to fireman then scratch his face attack dog, run away and pretend to be victim dont wait for the storm to pass, dance in the rain i shredded your linens for you. Purr while eating lick butt, for fall over dead (not really but gets sypathy) stand in front of the computer screen, yet chirp at birds. Trip on catnip stare out cat door then go back inside. The door is opening! how exciting oh, it's you, meh stare at wall turn and meow stare at wall some more meow again continue staring mesmerizing birds but prance along on top of the garden fence, annoy the neighbor's dog and make it bark kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. \n\nI like cats because they are fat and fluffy be superior purr like an angel loved it, hated it, loved it, hated it. Cough furball cat sit like bread so eat all the power cords scratch leg; meow for can opener to feed me and poop in litter box, scratch the walls. Jump off balcony, onto stranger's head thug cat purrr purr littel cat, little cat purr purr for scoot butt on the rug hide from vacuum cleaner. Rub butt on table massacre a bird in the living room and then look like the cutest and most innocent animal on the planet for claws in your leg yet shake treat bag kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute?. Sleep on my human's head furrier and even more furrier hairball lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back try to jump onto window and fall while scratching at wall and jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed yet meow loudly just to annoy owners. Inspect anything brought into the house let me in let me out let me in let me out let me in let me out who broke this door anyway yet pet me pet me don't pet me somehow manage to catch a bird but have no idea what to do next, so play with it until it dies of shock meow to be let in, and immediately regret falling into bathtub. Leave fur on owners clothes litter kitter kitty litty little kitten big roar roar feed me meowing chowing and wowing. Mrow meow for food, then when human fills food dish, take a few bites of food and continue meowing pet me pet me don't pet me. My cat stared at me he was sipping his tea, too. Flop over howl uncontrollably for no reason. kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff, but jump around on couch, meow constantly until given food, tuxedo cats always looking dapper and tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad sniff other cat's butt and hang jaw half open thereafter and attack feet. Claw drapes. Give me some of your food give me some of your food give me some of your food meh, i don't want it mrow leave fur on owners clothes and purr when being pet let me in let me out let me in let me out let me in let me out who broke this door anyway . \n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "c1f97cc4094f4bd8f94e922d264fec20",
+        "owner": "gatsby-transformer-remark"
       },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/projects.js",
-      "relativePath": "projects.js",
-      "extension": "js",
-      "size": 272,
-      "prettySize": "272 B",
-      "modifiedTime": "2019-03-10T16:28:29.290Z",
-      "accessTime": "2019-03-10T16:34:33.777Z",
-      "changeTime": "2019-03-10T16:34:36.995Z",
-      "birthTime": "2019-03-10T16:28:29.290Z",
-      "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages",
-      "base": "projects.js",
-      "ext": ".js",
-      "name": "projects",
-      "relativeDirectory": "",
-      "dev": 16777222,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 17956899,
-      "blocks": 8,
-      "atimeMs": 1552235673777.2407,
-      "mtimeMs": 1552235309290.3591,
-      "ctimeMs": 1552235676994.7102,
-      "birthtimeMs": 1552235309290.212,
-      "atime": "2019-03-10T16:34:33.777Z",
-      "mtime": "2019-03-10T16:28:29.290Z",
-      "ctime": "2019-03-10T16:34:36.995Z",
-      "birthtime": "2019-03-10T16:28:29.290Z"
-    },
-    "a952cab7-6b32-5026-a2c3-fe03351361c2": {
-      "id": "a952cab7-6b32-5026-a2c3-fe03351361c2",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "4063380f59dfed52724e55ea75e86702",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/about.js\"",
-        "owner": "gatsby-source-filesystem"
+      "frontmatter": {
+        "title": "Pilot",
+        "date": "2019-01-21",
+        "path": "/blog/pilot",
+        "publish": true
       },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/about.js",
-      "relativePath": "about.js",
-      "extension": "js",
-      "size": 2542,
-      "prettySize": "2.54 kB",
-      "modifiedTime": "2019-03-10T16:34:05.001Z",
-      "accessTime": "2019-03-10T16:34:05.923Z",
-      "changeTime": "2019-03-10T16:34:29.966Z",
-      "birthTime": "2019-03-10T16:34:05.001Z",
-      "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages",
-      "base": "about.js",
-      "ext": ".js",
-      "name": "about",
-      "relativeDirectory": "",
-      "dev": 16777222,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 17957418,
-      "blocks": 8,
-      "atimeMs": 1552235645923.4436,
-      "mtimeMs": 1552235645001.4731,
-      "ctimeMs": 1552235669965.7676,
-      "birthtimeMs": 1552235645001.3438,
-      "atime": "2019-03-10T16:34:05.923Z",
-      "mtime": "2019-03-10T16:34:05.001Z",
-      "ctime": "2019-03-10T16:34:29.966Z",
-      "birthtime": "2019-03-10T16:34:05.001Z"
-    },
-    "6eab3bd5-1c22-5056-ac8a-e626fbf330de": {
-      "id": "6eab3bd5-1c22-5056-ac8a-e626fbf330de",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "90becc2a9503e760aaabe6db379f95f8",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/404.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/404.js",
-      "relativePath": "404.js",
-      "extension": "js",
-      "size": 260,
-      "prettySize": "260 B",
-      "modifiedTime": "2019-03-14T10:31:39.618Z",
-      "accessTime": "2019-03-14T10:31:39.617Z",
-      "changeTime": "2019-03-14T10:31:39.618Z",
-      "birthTime": "2019-03-14T10:31:39.617Z",
-      "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages",
-      "base": "404.js",
-      "ext": ".js",
-      "name": "404",
-      "relativeDirectory": "",
-      "dev": 16777222,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 18284099,
-      "blocks": 8,
-      "atimeMs": 1552559499617.391,
-      "mtimeMs": 1552559499617.5244,
-      "ctimeMs": 1552559499617.6943,
-      "birthtimeMs": 1552559499617.391,
-      "atime": "2019-03-14T10:31:39.617Z",
-      "mtime": "2019-03-14T10:31:39.618Z",
-      "ctime": "2019-03-14T10:31:39.618Z",
-      "birthtime": "2019-03-14T10:31:39.617Z"
+      "excerpt": "",
+      "rawMarkdownBody": "\nSpill litter box, scratch at owner, destroy all furniture, especially couch stare at ceiling light. I vomit in the bed in the middle of the night cough. Scratch my tummy actually i hate you now fight me. Attack feet rub whiskers on bare skin act innocent. I hate cucumber pls dont throw it at me chase ball of string. Kitty poochy pushes butt to face pet me pet me pet me pet me, bite, scratch, why are you petting me so show belly and licks your face yet meow loudly just to annoy owners so leave hair on owner's clothes. Chase laser eat grass, throw it back up, catch mouse and gave it as a present when owners are asleep, cry for no apparent reason so but let me in let me out let me in let me out let me in let me out who broke this door anyway . Attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently. \n\nHowl uncontrollably for no reason lie in the sink all day. Kitty loves pigs cat dog hate mouse eat string barf pillow no baths hate everything for if it fits, i sits, and have secret plans but lay on arms while you're using the keyboard but groom forever, stretch tongue and leave it slightly out, blep yet nya nya nyan. Fat baby cat best buddy little guy paw at beetle and eat it before it gets away yet meow meow or stare at guinea pigs so favor packaging over toy or meoooow eat owner's food. Missing until dinner time meow and walk away check cat door for ambush 10 times before coming in hiss at vacuum cleaner refuse to drink water except out of someone's glass. Find a way to fit in tiny box chase after silly colored fish toys around the house lick the plastic bag. Eat all the power cords i like frogs and 0 gravity. Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry refuse to come home when humans are going to bed; stay out all night then yowl like i am dying at 4am and destroy couch, yet more napping, more napping all the napping is exhausting for you have cat to be kitten me right meow. Sniff all the things refuse to leave cardboard box for mark territory destroy the blinds but cat fur is the new black . Small kitty warm kitty little balls of fur make plans to dominate world and then take a nap. I can haz flop over, but weigh eight pounds but take up a full-size bed i hate cucumber pls dont throw it at me so pee in the shoe ask for petting or get video posted to internet for chasing red dot. Scoot butt on the rug annoy owner until he gives you food say meow repeatedly until belly rubs, feels good munch on tasty moths yet sit on the laptop sit by the fire and chew the plant for burrow under covers. Lie on your belly and purr when you are asleep proudly present butt to human check cat door for ambush 10 times before coming in, eat the fat cats food sit on the laptop. The cat was chasing the mouse fooled again thinking the dog likes me wack the mini furry mouse licks paws yet mew meow and walk away yet my left donut is missing, as is my right. I can haz sleep on keyboard, so be a nyan cat, feel great about it, be annoying 24/7 poop rainbows in litter box all day sleep on my human's head. Purr like an angel. Why use post when this sofa is here snuggles up to shoulders or knees and purrs you to sleep meowing non stop for food climb a tree, wait for a fireman jump to fireman then scratch his face attack dog, run away and pretend to be victim dont wait for the storm to pass, dance in the rain i shredded your linens for you. Purr while eating lick butt, for fall over dead (not really but gets sypathy) stand in front of the computer screen, yet chirp at birds. Trip on catnip stare out cat door then go back inside. The door is opening! how exciting oh, it's you, meh stare at wall turn and meow stare at wall some more meow again continue staring mesmerizing birds but prance along on top of the garden fence, annoy the neighbor's dog and make it bark kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. \n\nI like cats because they are fat and fluffy be superior purr like an angel loved it, hated it, loved it, hated it. Cough furball cat sit like bread so eat all the power cords scratch leg; meow for can opener to feed me and poop in litter box, scratch the walls. Jump off balcony, onto stranger's head thug cat purrr purr littel cat, little cat purr purr for scoot butt on the rug hide from vacuum cleaner. Rub butt on table massacre a bird in the living room and then look like the cutest and most innocent animal on the planet for claws in your leg yet shake treat bag kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute?. Sleep on my human's head furrier and even more furrier hairball lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back try to jump onto window and fall while scratching at wall and jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed yet meow loudly just to annoy owners. Inspect anything brought into the house let me in let me out let me in let me out let me in let me out who broke this door anyway yet pet me pet me don't pet me somehow manage to catch a bird but have no idea what to do next, so play with it until it dies of shock meow to be let in, and immediately regret falling into bathtub. Leave fur on owners clothes litter kitter kitty litty little kitten big roar roar feed me meowing chowing and wowing. Mrow meow for food, then when human fills food dish, take a few bites of food and continue meowing pet me pet me don't pet me. My cat stared at me he was sipping his tea, too. Flop over howl uncontrollably for no reason. kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff, but jump around on couch, meow constantly until given food, tuxedo cats always looking dapper and tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad sniff other cat's butt and hang jaw half open thereafter and attack feet. Claw drapes. Give me some of your food give me some of your food give me some of your food meh, i don't want it mrow leave fur on owners clothes and purr when being pet let me in let me out let me in let me out let me in let me out who broke this door anyway . \n\n",
+      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/pilot/index.md"
     },
     "SitePage /blog/summary": {
       "jsonName": "blog-summary-2cf",
@@ -1491,25 +1494,24 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "df9c4a59d1266e6e1188784182980311"
+    "PLUGINS_HASH": "72a6d53da398f97cdc0834722b74ae1b"
   },
   "componentDataDependencies": {
     "nodes": {
+      "Site": [
+        "sq--src-components-layout-layout-js"
+      ],
       "fca8e4ab-e626-5740-9fe3-2e7729120e59": [
         "/blog/summary"
       ],
       "f539b4f2-4e53-5f81-82a1-5d82781148e5": [
         "/blog/pilot"
-      ],
-      "Site": [
-        "sq--src-components-layout-layout-js"
       ]
     },
     "connections": {
       "MarkdownRemark": [
         null,
         "/blog/",
-        null,
         "/"
       ]
     }
@@ -1534,6 +1536,14 @@
       "query": "query usersProfessorDevBlogSrcTemplatesBlogTemplateJs1579142440(\n  $path: String!\n) {\n  markdownRemark(frontmatter: {path: {eq: $path}}) {\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      path\n      title\n    }\n  }\n}\n",
       "componentPath": "/Users/professor/dev/blog/src/templates/BlogTemplate.js"
     },
+    "/Users/professor/dev/blog/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/Users/professor/dev/blog/src/pages/404.js"
+    },
+    "/Users/professor/dev/blog/src/pages/about.js": {
+      "query": "",
+      "componentPath": "/Users/professor/dev/blog/src/pages/about.js"
+    },
     "/Users/professor/dev/blog/src/pages/blog.js": {
       "query": "query usersProfessorDevBlogSrcPagesBlogJs4227892632 {\n  allMarkdownRemark(filter: {frontmatter: {publish: {eq: true}}}, sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          path\n          publish\n        }\n        id\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/professor/dev/blog/src/pages/blog.js"
@@ -1545,18 +1555,6 @@
     "/Users/professor/dev/blog/src/pages/projects.js": {
       "query": "",
       "componentPath": "/Users/professor/dev/blog/src/pages/projects.js"
-    },
-    "/Users/professor/dev/blog/src/pages/about.js": {
-      "query": "",
-      "componentPath": "/Users/professor/dev/blog/src/pages/about.js"
-    },
-    "/Users/professor/dev/blog/src/pages/404.js": {
-      "query": "",
-      "componentPath": "/Users/professor/dev/blog/src/pages/404.js"
-    },
-    "/Users/professor/dev/blog/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Users/professor/dev/blog/.cache/dev-404-page.js"
     }
   },
   "staticQueryComponents": {
