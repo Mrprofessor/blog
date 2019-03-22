@@ -15,7 +15,7 @@ to reflect my contributions in the graph and most of the time I forget to do so.
 
 So I created some aliases to toggle between my two handles.
 
-```
+``` bash
 # Set user 1 as current user
 gitfirst() {
 	git config --global user.email 'xxx.yyyy@gmail.com' && git config --global user.name 'mrprofessor'

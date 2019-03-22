@@ -13,9 +13,14 @@ module.exports = {
         name: "pages"
       }
     },
-    `gatsby-transformer-remark`,
     {
       resolve: `gatsby-plugin-sass`
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [`gatsby-remark-prismjs`]
+      }
     }
   ]
 };

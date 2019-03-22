@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <Layout>
       <div>
-        <p>Listing all projects</p>
+        <p>List all projects</p>
       </div>
     </Layout>
   );

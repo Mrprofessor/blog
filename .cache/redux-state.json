@@ -1,13 +1,22 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/professor/dev/blog/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/professor/dev/blog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "99f71b037fd62db1a7db89740307b4ed",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
         "owner": "internal-data-bridge"
       }
     },
@@ -349,13 +358,106 @@
         "owner": "internal-data-bridge"
       }
     },
-    "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2": {
+    "a0eba58a-7fe6-5d0c-8c59-539cb2b33d60": {
+      "resolve": "/Users/professor/dev/blog/node_modules/gatsby-plugin-sass",
+      "id": "a0eba58a-7fe6-5d0c-8c59-539cb2b33d60",
+      "name": "gatsby-plugin-sass",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^7.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.9.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "2f7c88f137d0a23a1a8c9d55fdb7ebbf",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "eb979f1a-b9a0-5521-a8ec-1a701cdcf968": {
       "resolve": "/Users/professor/dev/blog/node_modules/gatsby-transformer-remark",
-      "id": "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2",
+      "id": "eb979f1a-b9a0-5521-a8ec-1a701cdcf968",
       "name": "gatsby-transformer-remark",
       "version": "2.3.1",
       "pluginOptions": {
-        "plugins": []
+        "plugins": [
+          {
+            "resolve": "/Users/professor/dev/blog/node_modules/gatsby-remark-prismjs",
+            "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
+            "name": "gatsby-remark-prismjs",
+            "version": "3.2.6",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-remark-prismjs"
+          }
+        ]
       },
       "nodeAPIs": [
         "onCreateNode",
@@ -491,39 +593,37 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "fd0df377b0f6ca4266b17decc5d83370",
+        "contentDigest": "5adfeda6aedd9f263be4f14deb2f742e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "a0eba58a-7fe6-5d0c-8c59-539cb2b33d60": {
-      "resolve": "/Users/professor/dev/blog/node_modules/gatsby-plugin-sass",
-      "id": "a0eba58a-7fe6-5d0c-8c59-539cb2b33d60",
-      "name": "gatsby-plugin-sass",
-      "version": "2.0.10",
+    "b8d3a2f5-5540-5699-b862-153e57b2c618": {
+      "resolve": "/Users/professor/dev/blog/node_modules/gatsby-remark-prismjs",
+      "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
+      "name": "gatsby-remark-prismjs",
+      "version": "3.2.6",
       "pluginOptions": {
         "plugins": []
       },
-      "nodeAPIs": [
-        "onCreateWebpackConfig"
-      ],
+      "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-plugin-sass",
+      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-remark-prismjs",
       "packageJson": {
-        "name": "gatsby-plugin-sass",
-        "description": "Gatsby plugin to handle scss/sass files",
-        "version": "2.0.10",
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "3.2.6",
         "main": "index.js",
         "keywords": [
           "gatsby",
           "gatsby-plugin",
-          "sass",
-          "scss"
+          "prismjs",
+          "remark"
         ],
         "author": {
-          "name": "Daniel Farrell",
-          "email": "daniel@mobelux.com"
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
         },
         "license": "MIT",
         "dependencies": [
@@ -532,8 +632,12 @@
             "version": "^7.0.0"
           },
           {
-            "name": "sass-loader",
-            "version": "^7.0.1"
+            "name": "parse-numeric-range",
+            "version": "^0.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
           }
         ],
         "devDependencies": [
@@ -547,11 +651,19 @@
           },
           {
             "name": "babel-preset-gatsby-package",
-            "version": "^0.1.3"
+            "version": "^0.1.4"
           },
           {
             "name": "cross-env",
             "version": "^5.1.4"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
           }
         ],
         "peerDependencies": [
@@ -560,8 +672,8 @@
             "version": "^2.0.0"
           },
           {
-            "name": "node-sass",
-            "version": "^4.9.0"
+            "name": "prismjs",
+            "version": "^1.15.0"
           }
         ],
         "optionalDependecies": [],
@@ -570,7 +682,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "2f7c88f137d0a23a1a8c9d55fdb7ebbf",
+        "contentDigest": "3fdb30a8c2209b89abffafd023c5bf11",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -579,7 +691,7 @@
       "resolve": "/Users/professor/dev/blog",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "8f800ea5da8022eed79a2874f35e3cf5",
+      "version": "bc24025c5eb63b0edb0b1a1d650d5ea7",
       "pluginOptions": {
         "plugins": []
       },
@@ -604,6 +716,14 @@
             "version": "^2.0.10"
           },
           {
+            "name": "gatsby-remark-images",
+            "version": "^3.0.10"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^3.2.6"
+          },
+          {
             "name": "gatsby-source-filesystem",
             "version": "^2.0.23"
           },
@@ -618,6 +738,10 @@
           {
             "name": "node-sass",
             "version": "^4.11.0"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
           },
           {
             "name": "react",
@@ -677,7 +801,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "6aa9d35f40ade1fdeaa8087f31d37cfe",
+        "contentDigest": "34d13e9c47afe53b9ab39609894574df",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -792,14 +916,16 @@
         "description": "Personal journal by Rudra Narayan.",
         "siteUrl": "https://rudra.dev"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-21T23:29:21.198Z",
+      "buildTime": "2019-03-22T00:53:39.849Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "c974c6fa2fa9a4e0276dea4844a422ce",
+        "contentDigest": "c7490acb7e8a068b42d27fbda32f64d3",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -809,7 +935,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b9b617f4346de24729fa349305d9f6f3",
+        "contentDigest": "318c808d1432706692026deb51350e96",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -820,9 +946,9 @@
       "extension": "",
       "size": 256,
       "prettySize": "256 B",
-      "modifiedTime": "2019-03-21T21:44:35.586Z",
-      "accessTime": "2019-03-21T23:29:29.458Z",
-      "changeTime": "2019-03-21T21:44:35.586Z",
+      "modifiedTime": "2019-03-22T00:27:36.115Z",
+      "accessTime": "2019-03-22T00:53:49.541Z",
+      "changeTime": "2019-03-22T00:27:36.115Z",
       "birthTime": "2019-03-09T18:33:59.117Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src",
@@ -839,13 +965,13 @@
       "blksize": 4096,
       "ino": 17888211,
       "blocks": 0,
-      "atimeMs": 1553210969458.3948,
-      "mtimeMs": 1553204675586.0024,
-      "ctimeMs": 1553204675586.0024,
+      "atimeMs": 1553216029540.6086,
+      "mtimeMs": 1553214456114.87,
+      "ctimeMs": 1553214456114.87,
       "birthtimeMs": 1552156439117.0015,
-      "atime": "2019-03-21T23:29:29.458Z",
-      "mtime": "2019-03-21T21:44:35.586Z",
-      "ctime": "2019-03-21T21:44:35.586Z",
+      "atime": "2019-03-22T00:53:49.541Z",
+      "mtime": "2019-03-22T00:27:36.115Z",
+      "ctime": "2019-03-22T00:27:36.115Z",
       "birthtime": "2019-03-09T18:33:59.117Z"
     },
     "5050d14f-a429-5da7-b14c-940df0e61a42": {
@@ -853,7 +979,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "3db220851a01494cccf9109960fc561a",
+        "contentDigest": "168c257b7e4e849819689e90bb93fcd6",
         "type": "Directory",
         "description": "Directory \"src/pages/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -864,9 +990,9 @@
       "extension": "",
       "size": 160,
       "prettySize": "160 B",
-      "modifiedTime": "2019-03-21T22:54:12.076Z",
-      "accessTime": "2019-03-21T23:29:29.461Z",
-      "changeTime": "2019-03-21T22:54:12.076Z",
+      "modifiedTime": "2019-03-21T23:48:01.142Z",
+      "accessTime": "2019-03-22T00:53:49.543Z",
+      "changeTime": "2019-03-21T23:48:01.142Z",
       "birthTime": "2019-03-09T18:47:58.359Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages",
@@ -883,21 +1009,65 @@
       "blksize": 4096,
       "ino": 17888899,
       "blocks": 0,
-      "atimeMs": 1553210969461.1045,
-      "mtimeMs": 1553208852076.4792,
-      "ctimeMs": 1553208852076.4792,
+      "atimeMs": 1553216029543.434,
+      "mtimeMs": 1553212081141.6423,
+      "ctimeMs": 1553212081141.6423,
       "birthtimeMs": 1552157278358.944,
-      "atime": "2019-03-21T23:29:29.461Z",
-      "mtime": "2019-03-21T22:54:12.076Z",
-      "ctime": "2019-03-21T22:54:12.076Z",
+      "atime": "2019-03-22T00:53:49.543Z",
+      "mtime": "2019-03-21T23:48:01.142Z",
+      "ctime": "2019-03-21T23:48:01.142Z",
       "birthtime": "2019-03-09T18:47:58.359Z"
+    },
+    "f69254cf-7561-5094-b340-e33bf424b9dd": {
+      "id": "f69254cf-7561-5094-b340-e33bf424b9dd",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f2022d5c0aedea01a42e327372304051",
+        "type": "Directory",
+        "description": "Directory \"src/pages/blog/configuring-npm-behind-a-proxy\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/configuring-npm-behind-a-proxy",
+      "relativePath": "blog/configuring-npm-behind-a-proxy",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-03-22T00:41:43.859Z",
+      "accessTime": "2019-03-22T00:53:49.545Z",
+      "changeTime": "2019-03-22T00:41:43.859Z",
+      "birthTime": "2019-03-09T18:50:22.689Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages/blog",
+      "base": "configuring-npm-behind-a-proxy",
+      "ext": "",
+      "name": "configuring-npm-behind-a-proxy",
+      "relativeDirectory": "blog",
+      "dev": 16777222,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 17888943,
+      "blocks": 0,
+      "atimeMs": 1553216029544.859,
+      "mtimeMs": 1553215303858.6838,
+      "ctimeMs": 1553215303858.6838,
+      "birthtimeMs": 1552157422688.7788,
+      "atime": "2019-03-22T00:53:49.545Z",
+      "mtime": "2019-03-22T00:41:43.859Z",
+      "ctime": "2019-03-22T00:41:43.859Z",
+      "birthtime": "2019-03-09T18:50:22.689Z"
     },
     "f9fa720c-6d51-5650-9b99-d52bed2a4376": {
       "id": "f9fa720c-6d51-5650-9b99-d52bed2a4376",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "42dc9a92f680bd8c60d8814037255106",
+        "contentDigest": "577c0795d08221372382f389116329af",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/css-and-js-arent-bytecode\"",
         "owner": "gatsby-source-filesystem"
@@ -909,7 +1079,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-03-21T22:22:12.955Z",
-      "accessTime": "2019-03-21T23:29:29.463Z",
+      "accessTime": "2019-03-22T00:53:49.545Z",
       "changeTime": "2019-03-21T22:22:12.955Z",
       "birthTime": "2019-03-21T22:02:15.054Z",
       "root": "/",
@@ -927,84 +1097,40 @@
       "blksize": 4096,
       "ino": 19006413,
       "blocks": 0,
-      "atimeMs": 1553210969463.3787,
+      "atimeMs": 1553216029544.839,
       "mtimeMs": 1553206932955.337,
       "ctimeMs": 1553206932955.337,
       "birthtimeMs": 1553205735054.1382,
-      "atime": "2019-03-21T23:29:29.463Z",
+      "atime": "2019-03-22T00:53:49.545Z",
       "mtime": "2019-03-21T22:22:12.955Z",
       "ctime": "2019-03-21T22:22:12.955Z",
       "birthtime": "2019-03-21T22:02:15.054Z"
     },
-    "f69254cf-7561-5094-b340-e33bf424b9dd": {
-      "id": "f69254cf-7561-5094-b340-e33bf424b9dd",
+    "6c781bf0-1b59-5d89-8348-1f1bc69f7eac": {
+      "id": "6c781bf0-1b59-5d89-8348-1f1bc69f7eac",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "5155c0636a6a56b31cde2a048a0d4ca4",
+        "contentDigest": "d1b3c086ad63c52bb754fb142d9e607d",
         "type": "Directory",
-        "description": "Directory \"src/pages/blog/configuring-npm-behind-a-proxy\"",
+        "description": "Directory \"src/pages/blog/maintaining-multiple-github-accounts\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/configuring-npm-behind-a-proxy",
-      "relativePath": "blog/configuring-npm-behind-a-proxy",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/maintaining-multiple-github-accounts",
+      "relativePath": "blog/maintaining-multiple-github-accounts",
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2019-03-21T22:51:35.883Z",
-      "accessTime": "2019-03-21T23:29:29.463Z",
-      "changeTime": "2019-03-21T22:54:12.076Z",
-      "birthTime": "2019-03-09T18:50:22.689Z",
-      "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages/blog",
-      "base": "configuring-npm-behind-a-proxy",
-      "ext": "",
-      "name": "configuring-npm-behind-a-proxy",
-      "relativeDirectory": "blog",
-      "dev": 16777222,
-      "mode": 16877,
-      "nlink": 3,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 17888943,
-      "blocks": 0,
-      "atimeMs": 1553210969463.33,
-      "mtimeMs": 1553208695883.0803,
-      "ctimeMs": 1553208852076.4788,
-      "birthtimeMs": 1552157422688.7788,
-      "atime": "2019-03-21T23:29:29.463Z",
-      "mtime": "2019-03-21T22:51:35.883Z",
-      "ctime": "2019-03-21T22:54:12.076Z",
-      "birthtime": "2019-03-09T18:50:22.689Z"
-    },
-    "262ef872-f843-56d3-80ce-f15b3bff53ab": {
-      "id": "262ef872-f843-56d3-80ce-f15b3bff53ab",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "2a21eeff55d9c10376fc2c9f7702d887",
-        "type": "Directory",
-        "description": "Directory \"src/pages/blog/summary\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/summary",
-      "relativePath": "blog/summary",
-      "extension": "",
-      "size": 96,
-      "prettySize": "96 B",
-      "modifiedTime": "2019-03-21T23:20:48.298Z",
-      "accessTime": "2019-03-21T23:29:29.463Z",
-      "changeTime": "2019-03-21T23:20:48.298Z",
+      "modifiedTime": "2019-03-22T00:41:05.637Z",
+      "accessTime": "2019-03-22T00:53:49.545Z",
+      "changeTime": "2019-03-22T00:41:05.637Z",
       "birthTime": "2019-03-09T18:49:11.138Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages/blog",
-      "base": "summary",
+      "base": "maintaining-multiple-github-accounts",
       "ext": "",
-      "name": "summary",
+      "name": "maintaining-multiple-github-accounts",
       "relativeDirectory": "blog",
       "dev": 16777222,
       "mode": 16877,
@@ -1015,59 +1141,14 @@
       "blksize": 4096,
       "ino": 17888939,
       "blocks": 0,
-      "atimeMs": 1553210969463.4,
-      "mtimeMs": 1553210448297.8496,
-      "ctimeMs": 1553210448297.8496,
+      "atimeMs": 1553216029544.8787,
+      "mtimeMs": 1553215265637.476,
+      "ctimeMs": 1553215265637.476,
       "birthtimeMs": 1552157351137.6375,
-      "atime": "2019-03-21T23:29:29.463Z",
-      "mtime": "2019-03-21T23:20:48.298Z",
-      "ctime": "2019-03-21T23:20:48.298Z",
+      "atime": "2019-03-22T00:53:49.545Z",
+      "mtime": "2019-03-22T00:41:05.637Z",
+      "ctime": "2019-03-22T00:41:05.637Z",
       "birthtime": "2019-03-09T18:49:11.138Z"
-    },
-    "6eab3bd5-1c22-5056-ac8a-e626fbf330de": {
-      "id": "6eab3bd5-1c22-5056-ac8a-e626fbf330de",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "90becc2a9503e760aaabe6db379f95f8",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/404.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/404.js",
-      "relativePath": "404.js",
-      "extension": "js",
-      "size": 260,
-      "prettySize": "260 B",
-      "modifiedTime": "2019-03-14T10:31:39.618Z",
-      "accessTime": "2019-03-21T23:25:55.928Z",
-      "changeTime": "2019-03-14T10:31:39.618Z",
-      "birthTime": "2019-03-14T10:31:39.617Z",
-      "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages",
-      "base": "404.js",
-      "ext": ".js",
-      "name": "404",
-      "relativeDirectory": "",
-      "dev": 16777222,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 18284099,
-      "blocks": 8,
-      "atimeMs": 1553210755928.4373,
-      "mtimeMs": 1552559499617.5244,
-      "ctimeMs": 1552559499617.6943,
-      "birthtimeMs": 1552559499617.391,
-      "atime": "2019-03-21T23:25:55.928Z",
-      "mtime": "2019-03-14T10:31:39.618Z",
-      "ctime": "2019-03-14T10:31:39.618Z",
-      "birthtime": "2019-03-14T10:31:39.617Z"
     },
     "a952cab7-6b32-5026-a2c3-fe03351361c2": {
       "id": "a952cab7-6b32-5026-a2c3-fe03351361c2",
@@ -1087,7 +1168,7 @@
       "size": 2542,
       "prettySize": "2.54 kB",
       "modifiedTime": "2019-03-10T16:34:41.869Z",
-      "accessTime": "2019-03-21T23:25:55.928Z",
+      "accessTime": "2019-03-22T00:35:31.151Z",
       "changeTime": "2019-03-10T16:34:41.870Z",
       "birthTime": "2019-03-10T16:34:41.869Z",
       "root": "/",
@@ -1105,11 +1186,11 @@
       "blksize": 4096,
       "ino": 17957463,
       "blocks": 8,
-      "atimeMs": 1553210755928.4412,
+      "atimeMs": 1553214931151.444,
       "mtimeMs": 1552235681869.4917,
       "ctimeMs": 1552235681869.6646,
       "birthtimeMs": 1552235681869.3625,
-      "atime": "2019-03-21T23:25:55.928Z",
+      "atime": "2019-03-22T00:35:31.151Z",
       "mtime": "2019-03-10T16:34:41.869Z",
       "ctime": "2019-03-10T16:34:41.870Z",
       "birthtime": "2019-03-10T16:34:41.869Z"
@@ -1119,7 +1200,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "c0d213dc74e8746be2e805a03c4e51fe",
+        "contentDigest": "0d3ddc169f439288979efdc74e741a80",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/index.js\"",
@@ -1129,12 +1210,12 @@
       "absolutePath": "/Users/professor/dev/blog/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
-      "size": 811,
-      "prettySize": "811 B",
-      "modifiedTime": "2019-03-21T21:44:35.586Z",
-      "accessTime": "2019-03-21T23:25:55.928Z",
-      "changeTime": "2019-03-21T21:44:35.586Z",
-      "birthTime": "2019-03-21T21:44:35.585Z",
+      "size": 749,
+      "prettySize": "749 B",
+      "modifiedTime": "2019-03-22T00:27:36.114Z",
+      "accessTime": "2019-03-22T00:35:31.152Z",
+      "changeTime": "2019-03-22T00:27:36.115Z",
+      "birthTime": "2019-03-22T00:27:36.114Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages",
       "base": "index.js",
@@ -1148,16 +1229,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 19005861,
+      "ino": 19021267,
       "blocks": 8,
-      "atimeMs": 1553210755928.4653,
-      "mtimeMs": 1553204675585.5654,
-      "ctimeMs": 1553204675585.7522,
-      "birthtimeMs": 1553204675585.4312,
-      "atime": "2019-03-21T23:25:55.928Z",
-      "mtime": "2019-03-21T21:44:35.586Z",
-      "ctime": "2019-03-21T21:44:35.586Z",
-      "birthtime": "2019-03-21T21:44:35.585Z"
+      "atimeMs": 1553214931151.5024,
+      "mtimeMs": 1553214456114.4766,
+      "ctimeMs": 1553214456114.6565,
+      "birthtimeMs": 1553214456114.361,
+      "atime": "2019-03-22T00:35:31.152Z",
+      "mtime": "2019-03-22T00:27:36.114Z",
+      "ctime": "2019-03-22T00:27:36.115Z",
+      "birthtime": "2019-03-22T00:27:36.114Z"
     },
     "ea1da826-2fe3-5826-89b1-d07d15e4763c": {
       "id": "ea1da826-2fe3-5826-89b1-d07d15e4763c",
@@ -1177,7 +1258,7 @@
       "size": 775,
       "prettySize": "775 B",
       "modifiedTime": "2019-03-10T17:34:18.808Z",
-      "accessTime": "2019-03-21T23:25:55.928Z",
+      "accessTime": "2019-03-22T00:35:31.151Z",
       "changeTime": "2019-03-10T17:34:18.808Z",
       "birthTime": "2019-03-10T17:34:18.808Z",
       "root": "/",
@@ -1195,41 +1276,41 @@
       "blksize": 4096,
       "ino": 17962410,
       "blocks": 8,
-      "atimeMs": 1553210755928.4448,
+      "atimeMs": 1553214931151.4744,
       "mtimeMs": 1552239258807.806,
       "ctimeMs": 1552239258807.983,
       "birthtimeMs": 1552239258807.6855,
-      "atime": "2019-03-21T23:25:55.928Z",
+      "atime": "2019-03-22T00:35:31.151Z",
       "mtime": "2019-03-10T17:34:18.808Z",
       "ctime": "2019-03-10T17:34:18.808Z",
       "birthtime": "2019-03-10T17:34:18.808Z"
     },
-    "b71ed330-2b4e-505d-b8b1-831274b2b56b": {
-      "id": "b71ed330-2b4e-505d-b8b1-831274b2b56b",
+    "6eab3bd5-1c22-5056-ac8a-e626fbf330de": {
+      "id": "6eab3bd5-1c22-5056-ac8a-e626fbf330de",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ab682aa11c7ab5d95b10dff0d9ec7c4e",
+        "contentDigest": "90becc2a9503e760aaabe6db379f95f8",
         "type": "File",
         "mediaType": "application/javascript",
-        "description": "File \"src/pages/projects.js\"",
+        "description": "File \"src/pages/404.js\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/projects.js",
-      "relativePath": "projects.js",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/404.js",
+      "relativePath": "404.js",
       "extension": "js",
-      "size": 272,
-      "prettySize": "272 B",
-      "modifiedTime": "2019-03-10T16:28:29.290Z",
-      "accessTime": "2019-03-21T23:25:55.928Z",
-      "changeTime": "2019-03-10T16:34:36.995Z",
-      "birthTime": "2019-03-10T16:28:29.290Z",
+      "size": 260,
+      "prettySize": "260 B",
+      "modifiedTime": "2019-03-14T10:31:39.618Z",
+      "accessTime": "2019-03-22T00:35:31.151Z",
+      "changeTime": "2019-03-14T10:31:39.618Z",
+      "birthTime": "2019-03-14T10:31:39.617Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages",
-      "base": "projects.js",
+      "base": "404.js",
       "ext": ".js",
-      "name": "projects",
+      "name": "404",
       "relativeDirectory": "",
       "dev": 16777222,
       "mode": 33188,
@@ -1238,16 +1319,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 17956899,
+      "ino": 18284099,
       "blocks": 8,
-      "atimeMs": 1553210755928.4692,
-      "mtimeMs": 1552235309290.3591,
-      "ctimeMs": 1552235676994.7102,
-      "birthtimeMs": 1552235309290.212,
-      "atime": "2019-03-21T23:25:55.928Z",
-      "mtime": "2019-03-10T16:28:29.290Z",
-      "ctime": "2019-03-10T16:34:36.995Z",
-      "birthtime": "2019-03-10T16:28:29.290Z"
+      "atimeMs": 1553214931151.4304,
+      "mtimeMs": 1552559499617.5244,
+      "ctimeMs": 1552559499617.6943,
+      "birthtimeMs": 1552559499617.391,
+      "atime": "2019-03-22T00:35:31.151Z",
+      "mtime": "2019-03-14T10:31:39.618Z",
+      "ctime": "2019-03-14T10:31:39.618Z",
+      "birthtime": "2019-03-14T10:31:39.617Z"
     },
     "8776be58-2a86-5e31-9868-157da791bdf6": {
       "id": "8776be58-2a86-5e31-9868-157da791bdf6",
@@ -1256,7 +1337,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "ed007d75725cfee7ace4d2124de274e7",
+        "contentDigest": "8c8efbe43b1ac413b290e0eb4aad1d98",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/blog/configuring-npm-behind-a-proxy/index.md\"",
@@ -1266,12 +1347,12 @@
       "absolutePath": "/Users/professor/dev/blog/src/pages/blog/configuring-npm-behind-a-proxy/index.md",
       "relativePath": "blog/configuring-npm-behind-a-proxy/index.md",
       "extension": "md",
-      "size": 1181,
+      "size": 1180,
       "prettySize": "1.18 kB",
-      "modifiedTime": "2019-03-21T22:51:35.883Z",
-      "accessTime": "2019-03-21T23:25:40.082Z",
-      "changeTime": "2019-03-21T22:51:35.883Z",
-      "birthTime": "2019-03-21T22:51:35.883Z",
+      "modifiedTime": "2019-03-22T00:41:43.858Z",
+      "accessTime": "2019-03-22T00:41:43.858Z",
+      "changeTime": "2019-03-22T00:41:43.859Z",
+      "birthTime": "2019-03-22T00:41:43.858Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages/blog/configuring-npm-behind-a-proxy",
       "base": "index.md",
@@ -1285,16 +1366,108 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 19009046,
+      "ino": 19024056,
       "blocks": 8,
-      "atimeMs": 1553210740082.1328,
-      "mtimeMs": 1553208695882.6497,
-      "ctimeMs": 1553208695882.8286,
-      "birthtimeMs": 1553208695882.5198,
-      "atime": "2019-03-21T23:25:40.082Z",
-      "mtime": "2019-03-21T22:51:35.883Z",
-      "ctime": "2019-03-21T22:51:35.883Z",
-      "birthtime": "2019-03-21T22:51:35.883Z"
+      "atimeMs": 1553215303858.369,
+      "mtimeMs": 1553215303858.4294,
+      "ctimeMs": 1553215303858.5176,
+      "birthtimeMs": 1553215303858.369,
+      "atime": "2019-03-22T00:41:43.858Z",
+      "mtime": "2019-03-22T00:41:43.858Z",
+      "ctime": "2019-03-22T00:41:43.859Z",
+      "birthtime": "2019-03-22T00:41:43.858Z"
+    },
+    "b71ed330-2b4e-505d-b8b1-831274b2b56b": {
+      "id": "b71ed330-2b4e-505d-b8b1-831274b2b56b",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "42bdb9a0848cd969064d852b237afa3a",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/projects.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/projects.js",
+      "relativePath": "projects.js",
+      "extension": "js",
+      "size": 269,
+      "prettySize": "269 B",
+      "modifiedTime": "2019-03-22T01:07:47.783Z",
+      "accessTime": "2019-03-22T01:07:47.783Z",
+      "changeTime": "2019-03-22T01:07:47.784Z",
+      "birthTime": "2019-03-22T01:07:47.783Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages",
+      "base": "projects.js",
+      "ext": ".js",
+      "name": "projects",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 19027562,
+      "blocks": 8,
+      "atimeMs": 1553216867783.3003,
+      "mtimeMs": 1553216867783.4148,
+      "ctimeMs": 1553216867783.5989,
+      "birthtimeMs": 1553216867783.3003,
+      "atime": "2019-03-22T01:07:47.783Z",
+      "mtime": "2019-03-22T01:07:47.783Z",
+      "ctime": "2019-03-22T01:07:47.784Z",
+      "birthtime": "2019-03-22T01:07:47.783Z"
+    },
+    "58ba1984-fbb4-5776-ac9f-d26f05ef4bdd": {
+      "id": "58ba1984-fbb4-5776-ac9f-d26f05ef4bdd",
+      "children": [
+        "62440d15-e9da-5eb4-b0be-aaa2209e6eb7"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "ff179586de019980a4a409f176f5b486",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/maintaining-multiple-github-accounts/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/maintaining-multiple-github-accounts/index.md",
+      "relativePath": "blog/maintaining-multiple-github-accounts/index.md",
+      "extension": "md",
+      "size": 1175,
+      "prettySize": "1.18 kB",
+      "modifiedTime": "2019-03-22T00:41:05.637Z",
+      "accessTime": "2019-03-22T00:41:05.636Z",
+      "changeTime": "2019-03-22T00:41:05.637Z",
+      "birthTime": "2019-03-22T00:41:05.636Z",
+      "root": "/",
+      "dir": "/Users/professor/dev/blog/src/pages/blog/maintaining-multiple-github-accounts",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "blog/maintaining-multiple-github-accounts",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 19024025,
+      "blocks": 8,
+      "atimeMs": 1553215265636.486,
+      "mtimeMs": 1553215265636.6372,
+      "ctimeMs": 1553215265637.0054,
+      "birthtimeMs": 1553215265636.486,
+      "atime": "2019-03-22T00:41:05.636Z",
+      "mtime": "2019-03-22T00:41:05.637Z",
+      "ctime": "2019-03-22T00:41:05.637Z",
+      "birthtime": "2019-03-22T00:41:05.636Z"
     },
     "9d25c61d-693b-5bae-a3fc-e7d86116e566": {
       "id": "9d25c61d-693b-5bae-a3fc-e7d86116e566",
@@ -1316,7 +1489,7 @@
       "size": 4620,
       "prettySize": "4.62 kB",
       "modifiedTime": "2019-03-21T22:22:12.955Z",
-      "accessTime": "2019-03-21T23:25:40.082Z",
+      "accessTime": "2019-03-22T00:35:26.072Z",
       "changeTime": "2019-03-21T22:22:12.955Z",
       "birthTime": "2019-03-21T22:22:12.955Z",
       "root": "/",
@@ -1334,81 +1507,14 @@
       "blksize": 4096,
       "ino": 19007519,
       "blocks": 16,
-      "atimeMs": 1553210740082.4236,
+      "atimeMs": 1553214926072.4832,
       "mtimeMs": 1553206932954.7415,
       "ctimeMs": 1553206932954.9243,
       "birthtimeMs": 1553206932954.6062,
-      "atime": "2019-03-21T23:25:40.082Z",
+      "atime": "2019-03-22T00:35:26.072Z",
       "mtime": "2019-03-21T22:22:12.955Z",
       "ctime": "2019-03-21T22:22:12.955Z",
       "birthtime": "2019-03-21T22:22:12.955Z"
-    },
-    "834e4047-c7be-58d3-a5d2-b63b7acf4a9e": {
-      "id": "834e4047-c7be-58d3-a5d2-b63b7acf4a9e",
-      "children": [
-        "fca8e4ab-e626-5740-9fe3-2e7729120e59"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "2af0e6827d18a9c524e2b101dd49b6f4",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/blog/summary/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/summary/index.md",
-      "relativePath": "blog/summary/index.md",
-      "extension": "md",
-      "size": 1170,
-      "prettySize": "1.17 kB",
-      "modifiedTime": "2019-03-21T23:20:48.297Z",
-      "accessTime": "2019-03-21T23:25:40.083Z",
-      "changeTime": "2019-03-21T23:20:48.298Z",
-      "birthTime": "2019-03-21T23:20:48.297Z",
-      "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages/blog/summary",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "blog/summary",
-      "dev": 16777222,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 19012927,
-      "blocks": 8,
-      "atimeMs": 1553210740082.648,
-      "mtimeMs": 1553210448297.3892,
-      "ctimeMs": 1553210448297.5813,
-      "birthtimeMs": 1553210448297.269,
-      "atime": "2019-03-21T23:25:40.083Z",
-      "mtime": "2019-03-21T23:20:48.297Z",
-      "ctime": "2019-03-21T23:20:48.298Z",
-      "birthtime": "2019-03-21T23:20:48.297Z"
-    },
-    "8f3ee4f9-4e0e-5ad0-ae4f-be7f0ebad427": {
-      "id": "8f3ee4f9-4e0e-5ad0-ae4f-be7f0ebad427",
-      "children": [],
-      "parent": "8776be58-2a86-5e31-9868-157da791bdf6",
-      "internal": {
-        "content": "\nFor people who work in a company and squeez out some of their time to learn nodejs, setting up an dev-environment can be a real pain. Proxy servers are pretty  common in college and business type institutions.\n\nYou can locate your proxy settings from your browser's settings panel.\n\n## Using Proxy with NPM\n\nOnce you have obtained the proxy settings (server URL, port, username and password); you need to configure your npm configurations as follows.\n\n\n```sh\n$ npm config set proxy http://<username>:<password>@<proxy-server-url>:<port>\n$ npm config set https-proxy http://<username>:<password>@<proxy-server-url>:<port>\n```\nYou would have to replace `<username>`, `<password>`, `<proxy-server-url>`, `<port>` with the values specific to your proxy server credentials.\n\nThese fields are optional. For instance, your proxy server might not even require `<username>` and `<password>`, or that it might be running on port 80 (in which case `<port>` is not required).\n\nOnce you have set these, your npm install, `npm i -g etc`. would work properly.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "36d910f860929375b15c56a838ed9ef9",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Configuring nodejs and npm behind a proxy",
-        "date": "2017-05-19",
-        "path": "/blog/configuring-npm-behind-a-proxy",
-        "publish": true
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nFor people who work in a company and squeez out some of their time to learn nodejs, setting up an dev-environment can be a real pain. Proxy servers are pretty  common in college and business type institutions.\n\nYou can locate your proxy settings from your browser's settings panel.\n\n## Using Proxy with NPM\n\nOnce you have obtained the proxy settings (server URL, port, username and password); you need to configure your npm configurations as follows.\n\n\n```sh\n$ npm config set proxy http://<username>:<password>@<proxy-server-url>:<port>\n$ npm config set https-proxy http://<username>:<password>@<proxy-server-url>:<port>\n```\nYou would have to replace `<username>`, `<password>`, `<proxy-server-url>`, `<port>` with the values specific to your proxy server credentials.\n\nThese fields are optional. For instance, your proxy server might not even require `<username>` and `<password>`, or that it might be running on port 80 (in which case `<port>` is not required).\n\nOnce you have set these, your npm install, `npm i -g etc`. would work properly.\n",
-      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/configuring-npm-behind-a-proxy/index.md"
     },
     "1aa586ea-defc-564d-894b-88f340b006e6": {
       "id": "1aa586ea-defc-564d-894b-88f340b006e6",
@@ -1430,14 +1536,14 @@
       "rawMarkdownBody": "\nThe earliest computers were often programmed without the help of a programming language, by writing programs in absolute machine language. The programs, in decimal or binary form (mostly binary),were read in from punched cards or magnetic tape or toggled in on switches on the front panel of the computer. I guess they started creating programming languages in order to make it human readable. Then they developed  [First Gen](https://en.wikipedia.org/wiki/First-generation_programming_language), [Assembly languages](https://en.wikipedia.org/wiki/First-generation_programming_language)(_Ah..my first project_) and created something called [ high-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language).\n\nBut we didn't stop there, did we ? We had C,we got Python, a more readable yet slow language.People wrote languages like Basic, Scratch, Ruby to make things more simple and people loved it.Okay...We are there now. Everything was going alright..perfect..superb in the IT Programming industry until when some guys got really serious about JavaScript.I guess that's the reason I am writing this blog now.\n\nI was in college when I learned web developement. At that time Frontend developers are not actually called developers but designers. I often took my time off from those grumpy sorting algorithms and writing C and used to geek off with these top three.**HTML**, **CSS** and **JavaScript**.Well practically less JavaScript and more **jQuery**. They were so addictive for a curious guy like me who used to draw his imaginations on a 15.6 inch screen.Nobody really cared about JavaScript back then...everyone was so focused on backend like php,asp,django and hipster rails. \n\nThe space was completely occupied by JQuery with more readable and easily writable syntax.Ajax implementation was easy, people don't have to remember those `getElementById('blah..blah') `  kinda functions.Coming to CSS, writing CSS was absolutely fun until smaller devices came. People needed better looking websites on their phone rather than squeezed down version of websites.Hence designers started writing media queries(_It took me a whole year to understand `@media queries`_) and grids to make sites responsive.\n\n#### Is there any twist in this story..coz I'm getting bored !\n\nThen a guy in [Twitter](https://twitter.com) developed a front-end framework called Bootstrap and the whole world just started drooling over it. It was awesome to use..developers don't had to waste a day to design grids or write media queries.But the problem started when people considered this anything more than a framework. Videos got published, books got written to learn Bootstrap. Now a newbie has to learn HTML,CSS,and Bootstrap instead of just the former two.\n> So Instead of learning how these grids and navbar works,they just started using it.\n\nSame thing also happened to JavaScript.People almost forgot that they can really write an web app by just using pure HTML, CSS and Javascript(_Now they are calling it Vanilla JavaScript_).There was JQuery for quite sometime till angular came.People started using JavaScript in backend,thanks to *node.js*. Then came *Vue.js*, *Ember.js*, *Meteor.js*, *React.js* and more. And surprisingly some of them don't even use JavaScript, instead they use languages that transpiles in JavaScript.\n\nIt's completely understandable when a lazy programmer(_Well all are lazy_) creates one such language so that he and his company don't have to write lengthy JavaScript all the time, why others are jumping there ditching the core language ? ? ?\nRendering does make a site slow. In countries like India,China people are following the same pattern where connectivity is not at it's best yet.\n\n> See what happened to _Angular_..!! They rewrote the whole framework and created _Angular 2_. React JS is unstable like an active Volcano.\n\n### What's your point man..Can't you be just happy\n\nI am not completely against it. All that's happening is good, I surely have nothing against any X framework or Y library. Just teach the newbies the basic first. They need to know both the pro's and con's of any library or framework instead of the _\"This framework is so cool..!! coz that company backs it.\"_ trend.\n\n### Adios\n\nWriting the article sitting next to my manager.Gonna get bad appraisal this quarter.\nInspired from this [article](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f/  \"How it feels to learn JavaScript in 2016\" ).\n",
       "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/css-and-js-arent-bytecode/index.md"
     },
-    "fca8e4ab-e626-5740-9fe3-2e7729120e59": {
-      "id": "fca8e4ab-e626-5740-9fe3-2e7729120e59",
+    "62440d15-e9da-5eb4-b0be-aaa2209e6eb7": {
+      "id": "62440d15-e9da-5eb4-b0be-aaa2209e6eb7",
       "children": [],
-      "parent": "834e4047-c7be-58d3-a5d2-b63b7acf4a9e",
+      "parent": "58ba1984-fbb4-5776-ac9f-d26f05ef4bdd",
       "internal": {
-        "content": "\nI recently left a huge IT corporation for a promising startup.I was asked to \nchange my GitHub handler name as it was too cool(I think) for them.Well instead\nof changing I created another account using my company email.\n\nNow I got a problem.Every day when I come home and start hacking around my own\nprojects I had to manually set my username and email id in git config in order\nto reflect my contributions in the graph and most of the time I forget to do so.\n\nSo I created some aliases to toggle between my two handles.\n\n```\n# Set user 1 as current user\ngitfirst() {\n\tgit config --global user.email 'xxx.yyyy@gmail.com' && git config --global user.name 'mrprofessor'\n  \tgituser\n}\n\n# Set user 2 as current user\ngitsecond() {\n\tgit config --global user.email 'zzzzz@corporation.com' && git config --global user.name 'rudrabot'\n  \tgituser\n}\n\n# Print current user\ngituser() {\n\tgit config --global user.name && git config --global user.email\n}\n```\n\nAnd that five minute I save every day from this hack..spends for...I don't know.\n\nAdios.\n",
+        "content": "\nI recently left a huge IT corporation for a promising startup.I was asked to \nchange my GitHub handler name as it was too cool(I think) for them.Well instead\nof changing I created another account using my company email.\n\nNow I got a problem.Every day when I come home and start hacking around my own\nprojects I had to manually set my username and email id in git config in order\nto reflect my contributions in the graph and most of the time I forget to do so.\n\nSo I created some aliases to toggle between my two handles.\n\n``` bash\n# Set user 1 as current user\ngitfirst() {\n\tgit config --global user.email 'xxx.yyyy@gmail.com' && git config --global user.name 'mrprofessor'\n  \tgituser\n}\n\n# Set user 2 as current user\ngitsecond() {\n\tgit config --global user.email 'zzzzz@corporation.com' && git config --global user.name 'rudrabot'\n  \tgituser\n}\n\n# Print current user\ngituser() {\n\tgit config --global user.name && git config --global user.email\n}\n```\n\nAnd that five minute I save every day from this hack..spends for...I don't know.\n\nAdios.\n",
         "type": "MarkdownRemark",
-        "contentDigest": "6cdb9dff1c9ef0db1e6edae5bbf01950",
+        "contentDigest": "c08011bc6354c2eab0a99c6685f29def",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -1447,8 +1553,28 @@
         "publish": true
       },
       "excerpt": "",
-      "rawMarkdownBody": "\nI recently left a huge IT corporation for a promising startup.I was asked to \nchange my GitHub handler name as it was too cool(I think) for them.Well instead\nof changing I created another account using my company email.\n\nNow I got a problem.Every day when I come home and start hacking around my own\nprojects I had to manually set my username and email id in git config in order\nto reflect my contributions in the graph and most of the time I forget to do so.\n\nSo I created some aliases to toggle between my two handles.\n\n```\n# Set user 1 as current user\ngitfirst() {\n\tgit config --global user.email 'xxx.yyyy@gmail.com' && git config --global user.name 'mrprofessor'\n  \tgituser\n}\n\n# Set user 2 as current user\ngitsecond() {\n\tgit config --global user.email 'zzzzz@corporation.com' && git config --global user.name 'rudrabot'\n  \tgituser\n}\n\n# Print current user\ngituser() {\n\tgit config --global user.name && git config --global user.email\n}\n```\n\nAnd that five minute I save every day from this hack..spends for...I don't know.\n\nAdios.\n",
-      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/summary/index.md"
+      "rawMarkdownBody": "\nI recently left a huge IT corporation for a promising startup.I was asked to \nchange my GitHub handler name as it was too cool(I think) for them.Well instead\nof changing I created another account using my company email.\n\nNow I got a problem.Every day when I come home and start hacking around my own\nprojects I had to manually set my username and email id in git config in order\nto reflect my contributions in the graph and most of the time I forget to do so.\n\nSo I created some aliases to toggle between my two handles.\n\n``` bash\n# Set user 1 as current user\ngitfirst() {\n\tgit config --global user.email 'xxx.yyyy@gmail.com' && git config --global user.name 'mrprofessor'\n  \tgituser\n}\n\n# Set user 2 as current user\ngitsecond() {\n\tgit config --global user.email 'zzzzz@corporation.com' && git config --global user.name 'rudrabot'\n  \tgituser\n}\n\n# Print current user\ngituser() {\n\tgit config --global user.name && git config --global user.email\n}\n```\n\nAnd that five minute I save every day from this hack..spends for...I don't know.\n\nAdios.\n",
+      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/maintaining-multiple-github-accounts/index.md"
+    },
+    "8f3ee4f9-4e0e-5ad0-ae4f-be7f0ebad427": {
+      "id": "8f3ee4f9-4e0e-5ad0-ae4f-be7f0ebad427",
+      "children": [],
+      "parent": "8776be58-2a86-5e31-9868-157da791bdf6",
+      "internal": {
+        "content": "\nFor people who work in a company and squeez out some of their time to learn nodejs, setting up an dev-environment can be a real pain. Proxy servers are pretty  common in college and business type institutions.\n\nYou can locate your proxy settings from your browser's settings panel.\n\n## Using Proxy with NPM\n\nOnce you have obtained the proxy settings (server URL, port, username and password); you need to configure your npm configurations as follows.\n\n\n``` bash\nnpm config set proxy http://<username>:<password>@<proxy-server-url>:<port>\nnpm config set https-proxy http://<username>:<password>@<proxy-server-url>:<port>\n```\nYou would have to replace `<username>`, `<password>`, `<proxy-server-url>`, `<port>` with the values specific to your proxy server credentials.\n\nThese fields are optional. For instance, your proxy server might not even require `<username>` and `<password>`, or that it might be running on port 80 (in which case `<port>` is not required).\n\nOnce you have set these, your npm install, `npm i -g etc`. would work properly.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "80d178b6ee932d9b175459dd788459ed",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Configuring nodejs and npm behind a proxy",
+        "date": "2017-05-19",
+        "path": "/blog/configuring-npm-behind-a-proxy",
+        "publish": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nFor people who work in a company and squeez out some of their time to learn nodejs, setting up an dev-environment can be a real pain. Proxy servers are pretty  common in college and business type institutions.\n\nYou can locate your proxy settings from your browser's settings panel.\n\n## Using Proxy with NPM\n\nOnce you have obtained the proxy settings (server URL, port, username and password); you need to configure your npm configurations as follows.\n\n\n``` bash\nnpm config set proxy http://<username>:<password>@<proxy-server-url>:<port>\nnpm config set https-proxy http://<username>:<password>@<proxy-server-url>:<port>\n```\nYou would have to replace `<username>`, `<password>`, `<proxy-server-url>`, `<port>` with the values specific to your proxy server credentials.\n\nThese fields are optional. For instance, your proxy server might not even require `<username>` and `<password>`, or that it might be running on port 80 (in which case `<port>` is not required).\n\nOnce you have set these, your npm install, `npm i -g etc`. would work properly.\n",
+      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/configuring-npm-behind-a-proxy/index.md"
     },
     "SitePage /blog/maintaining-multiple-github-accounts": {
       "jsonName": "blog-maintaining-multiple-github-accounts-98c",
@@ -1633,14 +1759,14 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "db0818de5d853e3a76a9d4fd80095c3b"
+    "PLUGINS_HASH": "9389b5effe2f547a8a8848139ec1213d"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
         "sq--src-components-layout-layout-js"
       ],
-      "fca8e4ab-e626-5740-9fe3-2e7729120e59": [
+      "62440d15-e9da-5eb4-b0be-aaa2209e6eb7": [
         "/blog/maintaining-multiple-github-accounts"
       ],
       "8f3ee4f9-4e0e-5ad0-ae4f-be7f0ebad427": [
@@ -1654,15 +1780,16 @@
       "MarkdownRemark": [
         null,
         "/blog/",
-        "/"
+        "/",
+        null
       ]
     }
   },
   "jsonDataPaths": {
-    "index": "575/path---index-6a9-9NgqwWZu1FbL3OAyj8cjuTVBmo",
+    "index": "908/path---index-6a9-cQSTWUXfUFVc80lEMNpkMGHP9E",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "blog-pilot-9a5": "650/path---blog-pilot-9-a-5-ead-NZuapzHg3X9TaN1iIixfv1W23E",
-    "blog-f7a": "389/path---blog-f-7-a-05d-9NgqwWZu1FbL3OAyj8cjuTVBmo",
+    "blog-f7a": "348/path---blog-f-7-a-05d-cQSTWUXfUFVc80lEMNpkMGHP9E",
     "blog-summary-2cf": "26/path---blog-summary-2-cf-632-YgV6PMucCfm5UqFLltIiArHr58",
     "blog-pilot-6bf": "22/path---blog-pilot-6-bf-4c6-YgV6PMucCfm5UqFLltIiArHr58",
     "projects-9e9": "545/path---projects-9-e-9-957-NZuapzHg3X9TaN1iIixfv1W23E",
@@ -1673,9 +1800,9 @@
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "blog-css-and-js-arent-bytecode-892": "274/path---blog-css-and-js-arent-bytecode-892-528-YgV6PMucCfm5UqFLltIiArHr58",
-    "blog-css-and-js-are-not-bytecode-506": "634/path---blog-css-and-js-are-not-bytecode-506-4eb-FSlQMH9VGG3PO9x6jVOSG50jsy8",
-    "blog-configuring-npm-behind-a-proxy-0c2": "887/path---blog-configuring-npm-behind-a-proxy-0-c-2-83e-Ynr5lwsdSIoikGzvLW3QKLuOYOA",
-    "blog-maintaining-multiple-github-accounts-98c": "791/path---blog-maintaining-multiple-github-accounts-98-c-532-GVLq2E9jF2GKNfNKD19uRoMRZ0"
+    "blog-css-and-js-are-not-bytecode-506": "253/path---blog-css-and-js-are-not-bytecode-506-4eb-rP6X9BhTrqoY4MxUXNwmNk8F948",
+    "blog-configuring-npm-behind-a-proxy-0c2": "250/path---blog-configuring-npm-behind-a-proxy-0-c-2-83e-ZMUzk8aBT2c72E79Z5OkGtVJJI",
+    "blog-maintaining-multiple-github-accounts-98c": "761/path---blog-maintaining-multiple-github-accounts-98-c-532-OvTjZiPhmdMMzA29UgK8JPdmI"
   },
   "components": {
     "/Users/professor/dev/blog/src/templates/BlogTemplate.js": {
@@ -1701,6 +1828,10 @@
     "/Users/professor/dev/blog/src/pages/projects.js": {
       "query": "",
       "componentPath": "/Users/professor/dev/blog/src/pages/projects.js"
+    },
+    "/Users/professor/dev/blog/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/professor/dev/blog/.cache/dev-404-page.js"
     }
   },
   "staticQueryComponents": {

@@ -10,9 +10,11 @@ const BlogList = ({ list }) => {
       {list.map(blog => {
         return (
           <article key={blog.node.id} className="list-item">
-            <Link to={blog.node.frontmatter.path}>
-              {blog.node.frontmatter.title}
-            </Link>
+            <div className="post-title">
+              <Link to={blog.node.frontmatter.path}>
+                {blog.node.frontmatter.title}
+              </Link>
+            </div>
             <span className="date-label">
               {computeDate(blog.node.frontmatter.date)}
             </span>

@@ -6,13 +6,18 @@ const Nav = () => {
     <nav>
       <ul>
         <li>
+          <Link to="/projects/">/projects</Link>
+        </li>
+        <li>
           <Link to="/about/">/about</Link>
         </li>
         <li>
-          <Link to="/blog/">/resume</Link>
-        </li>
-        <li>
-          <Link to="/projects/">/projects</Link>
+          <a
+            href="https://github.com/mrprofessor/resume/blob/master/rudra_narayan_resume.pdf"
+            target="_blank"
+          >
+            /resume
+          </a>
         </li>
       </ul>
     </nav>

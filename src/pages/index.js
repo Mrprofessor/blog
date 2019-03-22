@@ -3,9 +3,6 @@ import Layout from "./../components/layout/Layout";
 import BlogList from "./../components/blogList/Bloglist";
 import Blog from "./Blog";
 
-import "typeface-overpass";
-import "typeface-overpass-mono";
-
 export const query = graphql`
   query {
     allMarkdownRemark(
