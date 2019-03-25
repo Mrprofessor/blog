@@ -20,8 +20,7 @@ Then a guy in [Twitter](https://twitter.com) developed a front-end framework cal
 
 Same thing also happened to JavaScript.People almost forgot that they can really write an web app by just using pure HTML, CSS and Javascript(_Now they are calling it Vanilla JavaScript_).There was JQuery for quite sometime till angular came.People started using JavaScript in backend,thanks to *node.js*. Then came *Vue.js*, *Ember.js*, *Meteor.js*, *React.js* and more. And surprisingly some of them don't even use JavaScript, instead they use languages that transpiles in JavaScript.
 
-It's completely understandable when a lazy programmer(_Well all are lazy_) creates one such language so that he and his company don't have to write lengthy JavaScript all the time, why others are jumping there ditching the core language ? ? ?
-Rendering does make a site slow. In countries like India,China people are following the same pattern where connectivity is not at it's best yet.
+It's completely understandable when a lazy programmer(_Well all are lazy_) creates one such language so that he and his company don't have to write lengthy JavaScript all the time, why others are jumping there ditching the core language?? In countries like India,China people are following the same pattern where connectivity is not at it's best yet.
 
 > See what happened to _Angular_..!! They rewrote the whole framework and created _Angular 2_. React JS is unstable like an active Volcano.
 

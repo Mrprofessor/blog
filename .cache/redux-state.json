@@ -1,22 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/professor/dev/blog/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/professor/dev/blog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "99f71b037fd62db1a7db89740307b4ed",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -916,16 +907,14 @@
         "description": "Personal journal by Rudra Narayan.",
         "siteUrl": "https://rudra.dev"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-22T01:27:29.334Z",
+      "buildTime": "2019-03-23T18:37:37.593Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "1a5c70e391a270380d5b5d76e1522559",
+        "contentDigest": "1ac938e757e65902c9577f9eb0bf3b68",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -935,7 +924,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "93b66b3517a2a7930e1d80af06b1b84d",
+        "contentDigest": "e2b72f789e8697e82928ca6c95fdc02f",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -946,9 +935,9 @@
       "extension": "",
       "size": 256,
       "prettySize": "256 B",
-      "modifiedTime": "2019-03-22T01:07:47.784Z",
-      "accessTime": "2019-03-22T01:27:34.170Z",
-      "changeTime": "2019-03-22T01:07:47.784Z",
+      "modifiedTime": "2019-03-23T08:42:20.652Z",
+      "accessTime": "2019-03-23T18:37:45.859Z",
+      "changeTime": "2019-03-23T08:42:20.652Z",
       "birthTime": "2019-03-09T18:33:59.117Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src",
@@ -965,13 +954,13 @@
       "blksize": 4096,
       "ino": 17888211,
       "blocks": 0,
-      "atimeMs": 1553218054170.0044,
-      "mtimeMs": 1553216867783.8123,
-      "ctimeMs": 1553216867783.8123,
+      "atimeMs": 1553366265858.6284,
+      "mtimeMs": 1553330540651.871,
+      "ctimeMs": 1553330540651.871,
       "birthtimeMs": 1552156439117.0015,
-      "atime": "2019-03-22T01:27:34.170Z",
-      "mtime": "2019-03-22T01:07:47.784Z",
-      "ctime": "2019-03-22T01:07:47.784Z",
+      "atime": "2019-03-23T18:37:45.859Z",
+      "mtime": "2019-03-23T08:42:20.652Z",
+      "ctime": "2019-03-23T08:42:20.652Z",
       "birthtime": "2019-03-09T18:33:59.117Z"
     },
     "5050d14f-a429-5da7-b14c-940df0e61a42": {
@@ -979,7 +968,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "289eb5062fad4bb5a63a340ba65ee235",
+        "contentDigest": "c1ec4b0b98abf1e5a343da3fcb3f1815",
         "type": "Directory",
         "description": "Directory \"src/pages/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -991,7 +980,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2019-03-21T23:48:01.142Z",
-      "accessTime": "2019-03-22T01:27:34.173Z",
+      "accessTime": "2019-03-23T18:37:45.862Z",
       "changeTime": "2019-03-21T23:48:01.142Z",
       "birthTime": "2019-03-09T18:47:58.359Z",
       "root": "/",
@@ -1009,11 +998,11 @@
       "blksize": 4096,
       "ino": 17888899,
       "blocks": 0,
-      "atimeMs": 1553218054173.0122,
+      "atimeMs": 1553366265861.519,
       "mtimeMs": 1553212081141.6423,
       "ctimeMs": 1553212081141.6423,
       "birthtimeMs": 1552157278358.944,
-      "atime": "2019-03-22T01:27:34.173Z",
+      "atime": "2019-03-23T18:37:45.862Z",
       "mtime": "2019-03-21T23:48:01.142Z",
       "ctime": "2019-03-21T23:48:01.142Z",
       "birthtime": "2019-03-09T18:47:58.359Z"
@@ -1023,7 +1012,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "083988d642e271763ffd9d70deeba1ad",
+        "contentDigest": "02a57a0e51e091b3e08225ecf47582d6",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/configuring-npm-behind-a-proxy\"",
         "owner": "gatsby-source-filesystem"
@@ -1035,7 +1024,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-03-22T00:41:43.859Z",
-      "accessTime": "2019-03-22T01:27:34.175Z",
+      "accessTime": "2019-03-23T18:37:45.863Z",
       "changeTime": "2019-03-22T00:41:43.859Z",
       "birthTime": "2019-03-09T18:50:22.689Z",
       "root": "/",
@@ -1053,11 +1042,11 @@
       "blksize": 4096,
       "ino": 17888943,
       "blocks": 0,
-      "atimeMs": 1553218054174.5295,
+      "atimeMs": 1553366265863.1794,
       "mtimeMs": 1553215303858.6838,
       "ctimeMs": 1553215303858.6838,
       "birthtimeMs": 1552157422688.7788,
-      "atime": "2019-03-22T01:27:34.175Z",
+      "atime": "2019-03-23T18:37:45.863Z",
       "mtime": "2019-03-22T00:41:43.859Z",
       "ctime": "2019-03-22T00:41:43.859Z",
       "birthtime": "2019-03-09T18:50:22.689Z"
@@ -1067,7 +1056,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "cbd8acc5c5a971c812a7fa4d327d5c59",
+        "contentDigest": "981acde87a5743f431edbef3fda73470",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/css-and-js-arent-bytecode\"",
         "owner": "gatsby-source-filesystem"
@@ -1078,9 +1067,9 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2019-03-21T22:22:12.955Z",
-      "accessTime": "2019-03-22T01:27:34.174Z",
-      "changeTime": "2019-03-21T22:22:12.955Z",
+      "modifiedTime": "2019-03-23T08:23:54.730Z",
+      "accessTime": "2019-03-23T18:37:45.863Z",
+      "changeTime": "2019-03-23T08:23:54.730Z",
       "birthTime": "2019-03-21T22:02:15.054Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages/blog",
@@ -1097,13 +1086,13 @@
       "blksize": 4096,
       "ino": 19006413,
       "blocks": 0,
-      "atimeMs": 1553218054174.4797,
-      "mtimeMs": 1553206932955.337,
-      "ctimeMs": 1553206932955.337,
+      "atimeMs": 1553366265863.2715,
+      "mtimeMs": 1553329434730.1938,
+      "ctimeMs": 1553329434730.1938,
       "birthtimeMs": 1553205735054.1382,
-      "atime": "2019-03-22T01:27:34.174Z",
-      "mtime": "2019-03-21T22:22:12.955Z",
-      "ctime": "2019-03-21T22:22:12.955Z",
+      "atime": "2019-03-23T18:37:45.863Z",
+      "mtime": "2019-03-23T08:23:54.730Z",
+      "ctime": "2019-03-23T08:23:54.730Z",
       "birthtime": "2019-03-21T22:02:15.054Z"
     },
     "6c781bf0-1b59-5d89-8348-1f1bc69f7eac": {
@@ -1111,7 +1100,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "3719dacdc17a63b89fd4ad98795b40f0",
+        "contentDigest": "a4139d2c8c133937597c281e819ad796",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/maintaining-multiple-github-accounts\"",
         "owner": "gatsby-source-filesystem"
@@ -1123,7 +1112,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-03-22T00:41:05.637Z",
-      "accessTime": "2019-03-22T01:27:34.175Z",
+      "accessTime": "2019-03-23T18:37:45.863Z",
       "changeTime": "2019-03-22T00:41:05.637Z",
       "birthTime": "2019-03-09T18:49:11.138Z",
       "root": "/",
@@ -1141,11 +1130,11 @@
       "blksize": 4096,
       "ino": 17888939,
       "blocks": 0,
-      "atimeMs": 1553218054174.5107,
+      "atimeMs": 1553366265863.1162,
       "mtimeMs": 1553215265637.476,
       "ctimeMs": 1553215265637.476,
       "birthtimeMs": 1552157351137.6375,
-      "atime": "2019-03-22T01:27:34.175Z",
+      "atime": "2019-03-23T18:37:45.863Z",
       "mtime": "2019-03-22T00:41:05.637Z",
       "ctime": "2019-03-22T00:41:05.637Z",
       "birthtime": "2019-03-09T18:49:11.138Z"
@@ -1155,7 +1144,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "4063380f59dfed52724e55ea75e86702",
+        "contentDigest": "4d2522d88a725afeba5fdf5529ddc9fa",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/about.js\"",
@@ -1165,12 +1154,12 @@
       "absolutePath": "/Users/professor/dev/blog/src/pages/about.js",
       "relativePath": "about.js",
       "extension": "js",
-      "size": 2542,
-      "prettySize": "2.54 kB",
-      "modifiedTime": "2019-03-10T16:34:41.869Z",
-      "accessTime": "2019-03-22T00:35:31.151Z",
-      "changeTime": "2019-03-10T16:34:41.870Z",
-      "birthTime": "2019-03-10T16:34:41.869Z",
+      "size": 2499,
+      "prettySize": "2.5 kB",
+      "modifiedTime": "2019-03-23T08:20:47.409Z",
+      "accessTime": "2019-03-23T08:20:47.409Z",
+      "changeTime": "2019-03-23T08:20:47.409Z",
+      "birthTime": "2019-03-23T08:20:47.409Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages",
       "base": "about.js",
@@ -1184,16 +1173,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 17957463,
+      "ino": 19487958,
       "blocks": 8,
-      "atimeMs": 1553214931151.444,
-      "mtimeMs": 1552235681869.4917,
-      "ctimeMs": 1552235681869.6646,
-      "birthtimeMs": 1552235681869.3625,
-      "atime": "2019-03-22T00:35:31.151Z",
-      "mtime": "2019-03-10T16:34:41.869Z",
-      "ctime": "2019-03-10T16:34:41.870Z",
-      "birthtime": "2019-03-10T16:34:41.869Z"
+      "atimeMs": 1553329247408.8796,
+      "mtimeMs": 1553329247409.017,
+      "ctimeMs": 1553329247409.2,
+      "birthtimeMs": 1553329247408.8796,
+      "atime": "2019-03-23T08:20:47.409Z",
+      "mtime": "2019-03-23T08:20:47.409Z",
+      "ctime": "2019-03-23T08:20:47.409Z",
+      "birthtime": "2019-03-23T08:20:47.409Z"
     },
     "478e4807-5878-592b-9490-b6aa34700b38": {
       "id": "478e4807-5878-592b-9490-b6aa34700b38",
@@ -1257,10 +1246,10 @@
       "extension": "js",
       "size": 775,
       "prettySize": "775 B",
-      "modifiedTime": "2019-03-10T17:34:18.808Z",
-      "accessTime": "2019-03-22T00:35:31.151Z",
-      "changeTime": "2019-03-10T17:34:18.808Z",
-      "birthTime": "2019-03-10T17:34:18.808Z",
+      "modifiedTime": "2019-03-23T08:42:20.651Z",
+      "accessTime": "2019-03-23T08:42:20.756Z",
+      "changeTime": "2019-03-23T08:42:20.652Z",
+      "birthTime": "2019-03-23T08:42:20.651Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages",
       "base": "blog.js",
@@ -1274,16 +1263,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 17962410,
+      "ino": 19490326,
       "blocks": 8,
-      "atimeMs": 1553214931151.4744,
-      "mtimeMs": 1552239258807.806,
-      "ctimeMs": 1552239258807.983,
-      "birthtimeMs": 1552239258807.6855,
-      "atime": "2019-03-22T00:35:31.151Z",
-      "mtime": "2019-03-10T17:34:18.808Z",
-      "ctime": "2019-03-10T17:34:18.808Z",
-      "birthtime": "2019-03-10T17:34:18.808Z"
+      "atimeMs": 1553330540755.579,
+      "mtimeMs": 1553330540651.3862,
+      "ctimeMs": 1553330540651.5457,
+      "birthtimeMs": 1553330540651.2476,
+      "atime": "2019-03-23T08:42:20.756Z",
+      "mtime": "2019-03-23T08:42:20.651Z",
+      "ctime": "2019-03-23T08:42:20.652Z",
+      "birthtime": "2019-03-23T08:42:20.651Z"
     },
     "6eab3bd5-1c22-5056-ac8a-e626fbf330de": {
       "id": "6eab3bd5-1c22-5056-ac8a-e626fbf330de",
@@ -1476,7 +1465,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "cd6f6e608724b35cabd1d5c0a04e31bd",
+        "contentDigest": "c23a54eddb933f12abb2b8dde1440917",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/blog/css-and-js-arent-bytecode/index.md\"",
@@ -1486,12 +1475,12 @@
       "absolutePath": "/Users/professor/dev/blog/src/pages/blog/css-and-js-arent-bytecode/index.md",
       "relativePath": "blog/css-and-js-arent-bytecode/index.md",
       "extension": "md",
-      "size": 4620,
-      "prettySize": "4.62 kB",
-      "modifiedTime": "2019-03-21T22:22:12.955Z",
-      "accessTime": "2019-03-22T00:35:26.072Z",
-      "changeTime": "2019-03-21T22:22:12.955Z",
-      "birthTime": "2019-03-21T22:22:12.955Z",
+      "size": 4583,
+      "prettySize": "4.58 kB",
+      "modifiedTime": "2019-03-23T08:23:54.730Z",
+      "accessTime": "2019-03-23T08:23:54.729Z",
+      "changeTime": "2019-03-23T08:23:54.730Z",
+      "birthTime": "2019-03-23T08:23:54.729Z",
       "root": "/",
       "dir": "/Users/professor/dev/blog/src/pages/blog/css-and-js-arent-bytecode",
       "base": "index.md",
@@ -1505,36 +1494,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 19007519,
+      "ino": 19488129,
       "blocks": 16,
-      "atimeMs": 1553214926072.4832,
-      "mtimeMs": 1553206932954.7415,
-      "ctimeMs": 1553206932954.9243,
-      "birthtimeMs": 1553206932954.6062,
-      "atime": "2019-03-22T00:35:26.072Z",
-      "mtime": "2019-03-21T22:22:12.955Z",
-      "ctime": "2019-03-21T22:22:12.955Z",
-      "birthtime": "2019-03-21T22:22:12.955Z"
-    },
-    "1aa586ea-defc-564d-894b-88f340b006e6": {
-      "id": "1aa586ea-defc-564d-894b-88f340b006e6",
-      "children": [],
-      "parent": "9d25c61d-693b-5bae-a3fc-e7d86116e566",
-      "internal": {
-        "content": "\nThe earliest computers were often programmed without the help of a programming language, by writing programs in absolute machine language. The programs, in decimal or binary form (mostly binary),were read in from punched cards or magnetic tape or toggled in on switches on the front panel of the computer. I guess they started creating programming languages in order to make it human readable. Then they developed  [First Gen](https://en.wikipedia.org/wiki/First-generation_programming_language), [Assembly languages](https://en.wikipedia.org/wiki/First-generation_programming_language)(_Ah..my first project_) and created something called [ high-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language).\n\nBut we didn't stop there, did we ? We had C,we got Python, a more readable yet slow language.People wrote languages like Basic, Scratch, Ruby to make things more simple and people loved it.Okay...We are there now. Everything was going alright..perfect..superb in the IT Programming industry until when some guys got really serious about JavaScript.I guess that's the reason I am writing this blog now.\n\nI was in college when I learned web developement. At that time Frontend developers are not actually called developers but designers. I often took my time off from those grumpy sorting algorithms and writing C and used to geek off with these top three.**HTML**, **CSS** and **JavaScript**.Well practically less JavaScript and more **jQuery**. They were so addictive for a curious guy like me who used to draw his imaginations on a 15.6 inch screen.Nobody really cared about JavaScript back then...everyone was so focused on backend like php,asp,django and hipster rails. \n\nThe space was completely occupied by JQuery with more readable and easily writable syntax.Ajax implementation was easy, people don't have to remember those `getElementById('blah..blah') `  kinda functions.Coming to CSS, writing CSS was absolutely fun until smaller devices came. People needed better looking websites on their phone rather than squeezed down version of websites.Hence designers started writing media queries(_It took me a whole year to understand `@media queries`_) and grids to make sites responsive.\n\n#### Is there any twist in this story..coz I'm getting bored !\n\nThen a guy in [Twitter](https://twitter.com) developed a front-end framework called Bootstrap and the whole world just started drooling over it. It was awesome to use..developers don't had to waste a day to design grids or write media queries.But the problem started when people considered this anything more than a framework. Videos got published, books got written to learn Bootstrap. Now a newbie has to learn HTML,CSS,and Bootstrap instead of just the former two.\n> So Instead of learning how these grids and navbar works,they just started using it.\n\nSame thing also happened to JavaScript.People almost forgot that they can really write an web app by just using pure HTML, CSS and Javascript(_Now they are calling it Vanilla JavaScript_).There was JQuery for quite sometime till angular came.People started using JavaScript in backend,thanks to *node.js*. Then came *Vue.js*, *Ember.js*, *Meteor.js*, *React.js* and more. And surprisingly some of them don't even use JavaScript, instead they use languages that transpiles in JavaScript.\n\nIt's completely understandable when a lazy programmer(_Well all are lazy_) creates one such language so that he and his company don't have to write lengthy JavaScript all the time, why others are jumping there ditching the core language ? ? ?\nRendering does make a site slow. In countries like India,China people are following the same pattern where connectivity is not at it's best yet.\n\n> See what happened to _Angular_..!! They rewrote the whole framework and created _Angular 2_. React JS is unstable like an active Volcano.\n\n### What's your point man..Can't you be just happy\n\nI am not completely against it. All that's happening is good, I surely have nothing against any X framework or Y library. Just teach the newbies the basic first. They need to know both the pro's and con's of any library or framework instead of the _\"This framework is so cool..!! coz that company backs it.\"_ trend.\n\n### Adios\n\nWriting the article sitting next to my manager.Gonna get bad appraisal this quarter.\nInspired from this [article](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f/  \"How it feels to learn JavaScript in 2016\" ).\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "5700557c7122a51ef34b6a2698a1291a",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "CSS and JavaScript aren't byte code !!",
-        "date": "2017-03-21",
-        "path": "/blog/css-and-js-are-not-bytecode",
-        "publish": true
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nThe earliest computers were often programmed without the help of a programming language, by writing programs in absolute machine language. The programs, in decimal or binary form (mostly binary),were read in from punched cards or magnetic tape or toggled in on switches on the front panel of the computer. I guess they started creating programming languages in order to make it human readable. Then they developed  [First Gen](https://en.wikipedia.org/wiki/First-generation_programming_language), [Assembly languages](https://en.wikipedia.org/wiki/First-generation_programming_language)(_Ah..my first project_) and created something called [ high-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language).\n\nBut we didn't stop there, did we ? We had C,we got Python, a more readable yet slow language.People wrote languages like Basic, Scratch, Ruby to make things more simple and people loved it.Okay...We are there now. Everything was going alright..perfect..superb in the IT Programming industry until when some guys got really serious about JavaScript.I guess that's the reason I am writing this blog now.\n\nI was in college when I learned web developement. At that time Frontend developers are not actually called developers but designers. I often took my time off from those grumpy sorting algorithms and writing C and used to geek off with these top three.**HTML**, **CSS** and **JavaScript**.Well practically less JavaScript and more **jQuery**. They were so addictive for a curious guy like me who used to draw his imaginations on a 15.6 inch screen.Nobody really cared about JavaScript back then...everyone was so focused on backend like php,asp,django and hipster rails. \n\nThe space was completely occupied by JQuery with more readable and easily writable syntax.Ajax implementation was easy, people don't have to remember those `getElementById('blah..blah') `  kinda functions.Coming to CSS, writing CSS was absolutely fun until smaller devices came. People needed better looking websites on their phone rather than squeezed down version of websites.Hence designers started writing media queries(_It took me a whole year to understand `@media queries`_) and grids to make sites responsive.\n\n#### Is there any twist in this story..coz I'm getting bored !\n\nThen a guy in [Twitter](https://twitter.com) developed a front-end framework called Bootstrap and the whole world just started drooling over it. It was awesome to use..developers don't had to waste a day to design grids or write media queries.But the problem started when people considered this anything more than a framework. Videos got published, books got written to learn Bootstrap. Now a newbie has to learn HTML,CSS,and Bootstrap instead of just the former two.\n> So Instead of learning how these grids and navbar works,they just started using it.\n\nSame thing also happened to JavaScript.People almost forgot that they can really write an web app by just using pure HTML, CSS and Javascript(_Now they are calling it Vanilla JavaScript_).There was JQuery for quite sometime till angular came.People started using JavaScript in backend,thanks to *node.js*. Then came *Vue.js*, *Ember.js*, *Meteor.js*, *React.js* and more. And surprisingly some of them don't even use JavaScript, instead they use languages that transpiles in JavaScript.\n\nIt's completely understandable when a lazy programmer(_Well all are lazy_) creates one such language so that he and his company don't have to write lengthy JavaScript all the time, why others are jumping there ditching the core language ? ? ?\nRendering does make a site slow. In countries like India,China people are following the same pattern where connectivity is not at it's best yet.\n\n> See what happened to _Angular_..!! They rewrote the whole framework and created _Angular 2_. React JS is unstable like an active Volcano.\n\n### What's your point man..Can't you be just happy\n\nI am not completely against it. All that's happening is good, I surely have nothing against any X framework or Y library. Just teach the newbies the basic first. They need to know both the pro's and con's of any library or framework instead of the _\"This framework is so cool..!! coz that company backs it.\"_ trend.\n\n### Adios\n\nWriting the article sitting next to my manager.Gonna get bad appraisal this quarter.\nInspired from this [article](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f/  \"How it feels to learn JavaScript in 2016\" ).\n",
-      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/css-and-js-arent-bytecode/index.md"
+      "atimeMs": 1553329434729.4895,
+      "mtimeMs": 1553329434729.6675,
+      "ctimeMs": 1553329434729.8743,
+      "birthtimeMs": 1553329434729.4895,
+      "atime": "2019-03-23T08:23:54.729Z",
+      "mtime": "2019-03-23T08:23:54.730Z",
+      "ctime": "2019-03-23T08:23:54.730Z",
+      "birthtime": "2019-03-23T08:23:54.729Z"
     },
     "62440d15-e9da-5eb4-b0be-aaa2209e6eb7": {
       "id": "62440d15-e9da-5eb4-b0be-aaa2209e6eb7",
@@ -1575,6 +1544,26 @@
       "excerpt": "",
       "rawMarkdownBody": "\nFor people who work in a company and squeez out some of their time to learn nodejs, setting up an dev-environment can be a real pain. Proxy servers are pretty  common in college and business type institutions.\n\nYou can locate your proxy settings from your browser's settings panel.\n\n## Using Proxy with NPM\n\nOnce you have obtained the proxy settings (server URL, port, username and password); you need to configure your npm configurations as follows.\n\n\n``` bash\nnpm config set proxy http://<username>:<password>@<proxy-server-url>:<port>\nnpm config set https-proxy http://<username>:<password>@<proxy-server-url>:<port>\n```\nYou would have to replace `<username>`, `<password>`, `<proxy-server-url>`, `<port>` with the values specific to your proxy server credentials.\n\nThese fields are optional. For instance, your proxy server might not even require `<username>` and `<password>`, or that it might be running on port 80 (in which case `<port>` is not required).\n\nOnce you have set these, your npm install, `npm i -g etc`. would work properly.\n",
       "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/configuring-npm-behind-a-proxy/index.md"
+    },
+    "1aa586ea-defc-564d-894b-88f340b006e6": {
+      "id": "1aa586ea-defc-564d-894b-88f340b006e6",
+      "children": [],
+      "parent": "9d25c61d-693b-5bae-a3fc-e7d86116e566",
+      "internal": {
+        "content": "\nThe earliest computers were often programmed without the help of a programming language, by writing programs in absolute machine language. The programs, in decimal or binary form (mostly binary),were read in from punched cards or magnetic tape or toggled in on switches on the front panel of the computer. I guess they started creating programming languages in order to make it human readable. Then they developed  [First Gen](https://en.wikipedia.org/wiki/First-generation_programming_language), [Assembly languages](https://en.wikipedia.org/wiki/First-generation_programming_language)(_Ah..my first project_) and created something called [ high-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language).\n\nBut we didn't stop there, did we ? We had C,we got Python, a more readable yet slow language.People wrote languages like Basic, Scratch, Ruby to make things more simple and people loved it.Okay...We are there now. Everything was going alright..perfect..superb in the IT Programming industry until when some guys got really serious about JavaScript.I guess that's the reason I am writing this blog now.\n\nI was in college when I learned web developement. At that time Frontend developers are not actually called developers but designers. I often took my time off from those grumpy sorting algorithms and writing C and used to geek off with these top three.**HTML**, **CSS** and **JavaScript**.Well practically less JavaScript and more **jQuery**. They were so addictive for a curious guy like me who used to draw his imaginations on a 15.6 inch screen.Nobody really cared about JavaScript back then...everyone was so focused on backend like php,asp,django and hipster rails. \n\nThe space was completely occupied by JQuery with more readable and easily writable syntax.Ajax implementation was easy, people don't have to remember those `getElementById('blah..blah') `  kinda functions.Coming to CSS, writing CSS was absolutely fun until smaller devices came. People needed better looking websites on their phone rather than squeezed down version of websites.Hence designers started writing media queries(_It took me a whole year to understand `@media queries`_) and grids to make sites responsive.\n\n#### Is there any twist in this story..coz I'm getting bored !\n\nThen a guy in [Twitter](https://twitter.com) developed a front-end framework called Bootstrap and the whole world just started drooling over it. It was awesome to use..developers don't had to waste a day to design grids or write media queries.But the problem started when people considered this anything more than a framework. Videos got published, books got written to learn Bootstrap. Now a newbie has to learn HTML,CSS,and Bootstrap instead of just the former two.\n> So Instead of learning how these grids and navbar works,they just started using it.\n\nSame thing also happened to JavaScript.People almost forgot that they can really write an web app by just using pure HTML, CSS and Javascript(_Now they are calling it Vanilla JavaScript_).There was JQuery for quite sometime till angular came.People started using JavaScript in backend,thanks to *node.js*. Then came *Vue.js*, *Ember.js*, *Meteor.js*, *React.js* and more. And surprisingly some of them don't even use JavaScript, instead they use languages that transpiles in JavaScript.\n\nIt's completely understandable when a lazy programmer(_Well all are lazy_) creates one such language so that he and his company don't have to write lengthy JavaScript all the time, why others are jumping there ditching the core language?? In countries like India,China people are following the same pattern where connectivity is not at it's best yet.\n\n> See what happened to _Angular_..!! They rewrote the whole framework and created _Angular 2_. React JS is unstable like an active Volcano.\n\n### What's your point man..Can't you be just happy\n\nI am not completely against it. All that's happening is good, I surely have nothing against any X framework or Y library. Just teach the newbies the basic first. They need to know both the pro's and con's of any library or framework instead of the _\"This framework is so cool..!! coz that company backs it.\"_ trend.\n\n### Adios\n\nWriting the article sitting next to my manager.Gonna get bad appraisal this quarter.\nInspired from this [article](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f/  \"How it feels to learn JavaScript in 2016\" ).\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "ed3e3a405d84a0faca7eb8c967568d34",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "CSS and JavaScript aren't byte code !!",
+        "date": "2017-03-21",
+        "path": "/blog/css-and-js-are-not-bytecode",
+        "publish": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nThe earliest computers were often programmed without the help of a programming language, by writing programs in absolute machine language. The programs, in decimal or binary form (mostly binary),were read in from punched cards or magnetic tape or toggled in on switches on the front panel of the computer. I guess they started creating programming languages in order to make it human readable. Then they developed  [First Gen](https://en.wikipedia.org/wiki/First-generation_programming_language), [Assembly languages](https://en.wikipedia.org/wiki/First-generation_programming_language)(_Ah..my first project_) and created something called [ high-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language).\n\nBut we didn't stop there, did we ? We had C,we got Python, a more readable yet slow language.People wrote languages like Basic, Scratch, Ruby to make things more simple and people loved it.Okay...We are there now. Everything was going alright..perfect..superb in the IT Programming industry until when some guys got really serious about JavaScript.I guess that's the reason I am writing this blog now.\n\nI was in college when I learned web developement. At that time Frontend developers are not actually called developers but designers. I often took my time off from those grumpy sorting algorithms and writing C and used to geek off with these top three.**HTML**, **CSS** and **JavaScript**.Well practically less JavaScript and more **jQuery**. They were so addictive for a curious guy like me who used to draw his imaginations on a 15.6 inch screen.Nobody really cared about JavaScript back then...everyone was so focused on backend like php,asp,django and hipster rails. \n\nThe space was completely occupied by JQuery with more readable and easily writable syntax.Ajax implementation was easy, people don't have to remember those `getElementById('blah..blah') `  kinda functions.Coming to CSS, writing CSS was absolutely fun until smaller devices came. People needed better looking websites on their phone rather than squeezed down version of websites.Hence designers started writing media queries(_It took me a whole year to understand `@media queries`_) and grids to make sites responsive.\n\n#### Is there any twist in this story..coz I'm getting bored !\n\nThen a guy in [Twitter](https://twitter.com) developed a front-end framework called Bootstrap and the whole world just started drooling over it. It was awesome to use..developers don't had to waste a day to design grids or write media queries.But the problem started when people considered this anything more than a framework. Videos got published, books got written to learn Bootstrap. Now a newbie has to learn HTML,CSS,and Bootstrap instead of just the former two.\n> So Instead of learning how these grids and navbar works,they just started using it.\n\nSame thing also happened to JavaScript.People almost forgot that they can really write an web app by just using pure HTML, CSS and Javascript(_Now they are calling it Vanilla JavaScript_).There was JQuery for quite sometime till angular came.People started using JavaScript in backend,thanks to *node.js*. Then came *Vue.js*, *Ember.js*, *Meteor.js*, *React.js* and more. And surprisingly some of them don't even use JavaScript, instead they use languages that transpiles in JavaScript.\n\nIt's completely understandable when a lazy programmer(_Well all are lazy_) creates one such language so that he and his company don't have to write lengthy JavaScript all the time, why others are jumping there ditching the core language?? In countries like India,China people are following the same pattern where connectivity is not at it's best yet.\n\n> See what happened to _Angular_..!! They rewrote the whole framework and created _Angular 2_. React JS is unstable like an active Volcano.\n\n### What's your point man..Can't you be just happy\n\nI am not completely against it. All that's happening is good, I surely have nothing against any X framework or Y library. Just teach the newbies the basic first. They need to know both the pro's and con's of any library or framework instead of the _\"This framework is so cool..!! coz that company backs it.\"_ trend.\n\n### Adios\n\nWriting the article sitting next to my manager.Gonna get bad appraisal this quarter.\nInspired from this [article](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f/  \"How it feels to learn JavaScript in 2016\" ).\n",
+      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/css-and-js-arent-bytecode/index.md"
     },
     "SitePage /blog/maintaining-multiple-github-accounts": {
       "jsonName": "blog-maintaining-multiple-github-accounts-98c",
@@ -1800,7 +1789,7 @@
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "blog-css-and-js-arent-bytecode-892": "274/path---blog-css-and-js-arent-bytecode-892-528-YgV6PMucCfm5UqFLltIiArHr58",
-    "blog-css-and-js-are-not-bytecode-506": "253/path---blog-css-and-js-are-not-bytecode-506-4eb-rP6X9BhTrqoY4MxUXNwmNk8F948",
+    "blog-css-and-js-are-not-bytecode-506": "745/path---blog-css-and-js-are-not-bytecode-506-4eb-ucvvHqyHl1Q0lrxnpNgNnAlw08",
     "blog-configuring-npm-behind-a-proxy-0c2": "250/path---blog-configuring-npm-behind-a-proxy-0-c-2-83e-ZMUzk8aBT2c72E79Z5OkGtVJJI",
     "blog-maintaining-multiple-github-accounts-98c": "761/path---blog-maintaining-multiple-github-accounts-98-c-532-OvTjZiPhmdMMzA29UgK8JPdmI"
   },
@@ -1828,10 +1817,6 @@
     "/Users/professor/dev/blog/src/pages/projects.js": {
       "query": "",
       "componentPath": "/Users/professor/dev/blog/src/pages/projects.js"
-    },
-    "/Users/professor/dev/blog/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Users/professor/dev/blog/.cache/dev-404-page.js"
     }
   },
   "staticQueryComponents": {

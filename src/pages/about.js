@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <Layout>
       <div>
-        <h1 className="text-muted">about</h1>
+        <h2>about</h2>
         <p>
           I am an individual(debatable) from planet Earth with humongous
           curiosity in technology and practically zero talent.I love to code as
@@ -51,7 +51,7 @@ const Projects = () => {
           or at my cubicle.
         </p>
 
-        <h2 className="text-muted">credits</h2>
+        <h2>credits</h2>
         <p>All goes to me.</p>
         <p>
           Kidding...This site was built with the amazing{" "}
@@ -59,14 +59,15 @@ const Projects = () => {
             <a target="blank" href="https://reactjs.org">
               react
             </a>
-          </code>{" "}
-          , inspired by the bloody IBM mainframe screen and proudly hosted on{" "}
+          </code>
+          , and proudly hosted on{" "}
           <code>
             <a target="blank" href="https://github.com/">
               Github.
             </a>
           </code>
         </p>
+        <p>Tried to be funny.Trust me I am not!</p>
       </div>
     </Layout>
   );
