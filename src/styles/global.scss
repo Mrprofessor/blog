@@ -109,6 +109,13 @@ nav {
   color: red;
 }
 
+.disabled-link {
+  cursor: not-allowed;
+  opacity: 0.5;
+  text-decoration: none;
+  pointer-events: none;
+}
+
 @media only screen and (max-width: 600px) {
   .layout {
     .title-wrapper {

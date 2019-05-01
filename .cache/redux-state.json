@@ -1,13 +1,22 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/professor/projects/rudra.dev/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/professor/projects/rudra.dev/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "acad42777ff5c581b947859d2efa0475",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
         "owner": "internal-data-bridge"
       }
     },
@@ -516,14 +525,16 @@
         "description": "Personal journal by Rudra Narayan.",
         "siteUrl": "https://rudra.dev"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-01T16:06:44.530Z",
+      "buildTime": "2019-05-01T16:17:57.227Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "2c01c8e5d85f85eb0fc36f8f8d749d81",
+        "contentDigest": "d8dd01902b21a58ec41dba3e595b7728",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -924,7 +935,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "73cf4f84059290637743a69bfb8ee484",
+        "contentDigest": "3553973b8e3384341d22b2b2c93ce644",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -936,7 +947,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-05-01T15:49:27.664Z",
-      "accessTime": "2019-05-01T16:06:48.650Z",
+      "accessTime": "2019-05-01T16:18:02.145Z",
       "changeTime": "2019-05-01T15:49:27.664Z",
       "birthTime": "2019-05-01T15:49:27.662Z",
       "root": "/",
@@ -954,11 +965,11 @@
       "blksize": 4096,
       "ino": 4866883,
       "blocks": 0,
-      "atimeMs": 1556726808650.1057,
+      "atimeMs": 1556727482145.3723,
       "mtimeMs": 1556725767663.819,
       "ctimeMs": 1556725767663.819,
       "birthtimeMs": 1556725767662.3032,
-      "atime": "2019-05-01T16:06:48.650Z",
+      "atime": "2019-05-01T16:18:02.145Z",
       "mtime": "2019-05-01T15:49:27.664Z",
       "ctime": "2019-05-01T15:49:27.664Z",
       "birthtime": "2019-05-01T15:49:27.662Z"
@@ -968,7 +979,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "d04266c75f8465cc79a96df651e65038",
+        "contentDigest": "e678bde5a5b38849c2fd156fd558961b",
         "type": "Directory",
         "description": "Directory \"src/pages/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -980,7 +991,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2019-05-01T15:49:27.663Z",
-      "accessTime": "2019-05-01T16:06:48.655Z",
+      "accessTime": "2019-05-01T16:18:02.148Z",
       "changeTime": "2019-05-01T15:49:27.663Z",
       "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
@@ -998,11 +1009,11 @@
       "blksize": 4096,
       "ino": 4866887,
       "blocks": 0,
-      "atimeMs": 1556726808654.7498,
+      "atimeMs": 1556727482147.504,
       "mtimeMs": 1556725767663.426,
       "ctimeMs": 1556725767663.426,
       "birthtimeMs": 1556725767662.8103,
-      "atime": "2019-05-01T16:06:48.655Z",
+      "atime": "2019-05-01T16:18:02.148Z",
       "mtime": "2019-05-01T15:49:27.663Z",
       "ctime": "2019-05-01T15:49:27.663Z",
       "birthtime": "2019-05-01T15:49:27.663Z"
@@ -1012,7 +1023,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ccbad1c2f5650d027f35982d41758210",
+        "contentDigest": "4e93a89fa5cfb22056825b2409878aff",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/configuring-npm-behind-a-proxy\"",
         "owner": "gatsby-source-filesystem"
@@ -1024,7 +1035,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-05-01T15:49:27.663Z",
-      "accessTime": "2019-05-01T16:06:48.656Z",
+      "accessTime": "2019-05-01T16:18:02.149Z",
       "changeTime": "2019-05-01T15:49:27.663Z",
       "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
@@ -1042,11 +1053,11 @@
       "blksize": 4096,
       "ino": 4866888,
       "blocks": 0,
-      "atimeMs": 1556726808655.714,
+      "atimeMs": 1556727482148.6597,
       "mtimeMs": 1556725767662.9521,
       "ctimeMs": 1556725767662.9521,
       "birthtimeMs": 1556725767662.8704,
-      "atime": "2019-05-01T16:06:48.656Z",
+      "atime": "2019-05-01T16:18:02.149Z",
       "mtime": "2019-05-01T15:49:27.663Z",
       "ctime": "2019-05-01T15:49:27.663Z",
       "birthtime": "2019-05-01T15:49:27.663Z"
@@ -1056,7 +1067,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "6e51a7f2ee3b48b532da20a25eb4f162",
+        "contentDigest": "f0036ce729ed93f4e4c381734b61979a",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/css-and-js-arent-bytecode\"",
         "owner": "gatsby-source-filesystem"
@@ -1068,7 +1079,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-05-01T15:49:27.663Z",
-      "accessTime": "2019-05-01T16:06:48.656Z",
+      "accessTime": "2019-05-01T16:18:02.149Z",
       "changeTime": "2019-05-01T15:49:27.663Z",
       "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
@@ -1086,11 +1097,11 @@
       "blksize": 4096,
       "ino": 4866890,
       "blocks": 0,
-      "atimeMs": 1556726808655.7258,
+      "atimeMs": 1556727482148.6746,
       "mtimeMs": 1556725767663.244,
       "ctimeMs": 1556725767663.244,
       "birthtimeMs": 1556725767663.168,
-      "atime": "2019-05-01T16:06:48.656Z",
+      "atime": "2019-05-01T16:18:02.149Z",
       "mtime": "2019-05-01T15:49:27.663Z",
       "ctime": "2019-05-01T15:49:27.663Z",
       "birthtime": "2019-05-01T15:49:27.663Z"
@@ -1100,7 +1111,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "dcfb0c631cb37907e2106b84c4626b70",
+        "contentDigest": "c7d44ed26affe3fde53c544ea8339d23",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/maintaining-multiple-github-accounts\"",
         "owner": "gatsby-source-filesystem"
@@ -1112,7 +1123,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-05-01T15:49:27.663Z",
-      "accessTime": "2019-05-01T16:06:48.656Z",
+      "accessTime": "2019-05-01T16:18:02.149Z",
       "changeTime": "2019-05-01T15:49:27.663Z",
       "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
@@ -1130,11 +1141,11 @@
       "blksize": 4096,
       "ino": 4866892,
       "blocks": 0,
-      "atimeMs": 1556726808655.7424,
+      "atimeMs": 1556727482148.689,
       "mtimeMs": 1556725767663.4915,
       "ctimeMs": 1556725767663.4915,
       "birthtimeMs": 1556725767663.407,
-      "atime": "2019-05-01T16:06:48.656Z",
+      "atime": "2019-05-01T16:18:02.149Z",
       "mtime": "2019-05-01T15:49:27.663Z",
       "ctime": "2019-05-01T15:49:27.663Z",
       "birthtime": "2019-05-01T15:49:27.663Z"
@@ -1820,6 +1831,10 @@
     "/Users/professor/projects/rudra.dev/src/pages/projects.js": {
       "query": "",
       "componentPath": "/Users/professor/projects/rudra.dev/src/pages/projects.js"
+    },
+    "/Users/professor/projects/rudra.dev/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/professor/projects/rudra.dev/.cache/dev-404-page.js"
     }
   },
   "staticQueryComponents": {

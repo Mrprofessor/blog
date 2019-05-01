@@ -6,9 +6,8 @@ const Nav = () => {
     <nav>
       <ul>
         <li>
-          <Link to="/projects/" activeClassName="active-link">
-            /projects
-          </Link>
+          {/* <Link to="/projects/" activeClassName="active-link"> */}
+          <Link className="disabled-link">/projects</Link>
         </li>
         <li>
           <Link to="/about/" activeClassName="active-link">
