@@ -12,7 +12,7 @@
       }
     },
     "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
-      "resolve": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/professor/projects/rudra.dev/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -24,7 +24,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/professor/projects/rudra.dev/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -41,13 +41,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "a421874d3345fa66b8b11837531856f7",
+        "contentDigest": "8d32139f69b5610ab2d2b791ffc3fa7a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1fc32581-893a-55e8-8927-bcd667e2b700": {
-      "resolve": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/professor/projects/rudra.dev/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -59,7 +59,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/professor/projects/rudra.dev/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -76,13 +76,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "056e36c939a3d4eb8819776c84220458",
+        "contentDigest": "51f5a00bacb2a45e13ded57d50da2e14",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
-      "resolve": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/professor/projects/rudra.dev/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -95,7 +95,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/professor/projects/rudra.dev/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -112,13 +112,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "48bd26d390a96098bfeeef92573b3e3c",
+        "contentDigest": "d7e2a62eca366149f31f537df2cdd0ca",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
-      "resolve": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/professor/projects/rudra.dev/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "name": "prod-404",
       "version": "1.0.0",
@@ -130,7 +130,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/professor/projects/rudra.dev/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -147,13 +147,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "49d87714bd989cb388302a354040368f",
+        "contentDigest": "31f92fe15efd58fd56bbdd5949fdd3e4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "84dad27f-1d44-51fc-ac56-4db2e5222995": {
-      "resolve": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/professor/projects/rudra.dev/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
       "name": "query-runner",
       "version": "1.0.0",
@@ -165,7 +165,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/professor/projects/rudra.dev/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -182,13 +182,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "bed2864a2c22fd5a6c4cc11ce5fece23",
+        "contentDigest": "6a40e7ee25e07df13c337faadfd1b6d2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
-      "resolve": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "resolve": "/Users/professor/projects/rudra.dev/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
       "name": "webpack-theme-component-shadowing",
       "version": "1.0.0",
@@ -200,7 +200,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "pluginFilepath": "/Users/professor/projects/rudra.dev/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "packageJson": {
         "name": "webpack-theme-component-shadowing",
         "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
@@ -217,19 +217,325 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "9e9b14d1ddf5b7771036df1ab36e3f7b",
+        "contentDigest": "a9a7739960f9696ddae6934eef385116",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "b65901a1-eed4-5507-b2f8-7b23f4962f1c": {
-      "resolve": "/Users/professor/dev/blog/node_modules/gatsby-source-filesystem",
-      "id": "b65901a1-eed4-5507-b2f8-7b23f4962f1c",
+    "a0eba58a-7fe6-5d0c-8c59-539cb2b33d60": {
+      "resolve": "/Users/professor/projects/rudra.dev/node_modules/gatsby-plugin-sass",
+      "id": "a0eba58a-7fe6-5d0c-8c59-539cb2b33d60",
+      "name": "gatsby-plugin-sass",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/projects/rudra.dev/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^7.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.9.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "0743230e8e9d1ef23306e4e1fa03083e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "b8d3a2f5-5540-5699-b862-153e57b2c618": {
+      "resolve": "/Users/professor/projects/rudra.dev/node_modules/gatsby-remark-prismjs",
+      "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
+      "name": "gatsby-remark-prismjs",
+      "version": "3.2.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/projects/rudra.dev/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "3.2.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "^0.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "91422ca5ee0e54ec07b228ae53f6deb9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/professor/projects/rudra.dev",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "bc24025c5eb63b0edb0b1a1d650d5ea7",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/professor/projects/rudra.dev",
+      "packageJson": {
+        "name": "gatsby-starter-hello-world",
+        "description": "A simplified bare-bones starter for Gatsby",
+        "version": "0.1.0",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.1.27"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^2.0.10"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^3.0.10"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^3.2.6"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.23"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.3.1"
+          },
+          {
+            "name": "moment",
+            "version": "^2.24.0"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.11.0"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.4"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.4"
+          },
+          {
+            "name": "typeface-open-sans",
+            "version": "0.0.54"
+          },
+          {
+            "name": "typeface-overpass",
+            "version": "0.0.72"
+          },
+          {
+            "name": "typeface-overpass-mono",
+            "version": "0.0.71"
+          },
+          {
+            "name": "typeface-roboto",
+            "version": "0.0.54"
+          },
+          {
+            "name": "typeface-roboto-mono",
+            "version": "0.0.54"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-eslint",
+            "version": "^10.0.1"
+          },
+          {
+            "name": "eslint-config-prettier",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "eslint-plugin-prettier",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "gh-pages",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.16.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f925bd0dbb37f84e3f8462facd096407",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "rudra narayan",
+        "author": "Rudra Narayan",
+        "description": "Personal journal by Rudra Narayan.",
+        "siteUrl": "https://rudra.dev"
+      },
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-05-01T16:06:44.530Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "2c01c8e5d85f85eb0fc36f8f8d749d81",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "cbc68094-7d40-573e-852e-cd8a111fe7c8": {
+      "resolve": "/Users/professor/projects/rudra.dev/node_modules/gatsby-source-filesystem",
+      "id": "cbc68094-7d40-573e-852e-cd8a111fe7c8",
       "name": "gatsby-source-filesystem",
       "version": "2.0.23",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/professor/dev/blog/src/pages",
+        "path": "/Users/professor/projects/rudra.dev/src/pages",
         "name": "pages"
       },
       "nodeAPIs": [
@@ -238,7 +544,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/Users/professor/projects/rudra.dev/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -344,99 +650,20 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "142f00f0f89e18454e3b6a7b8cfb2109",
+        "contentDigest": "137eff87b580f64376c89b2f1a782843",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "a0eba58a-7fe6-5d0c-8c59-539cb2b33d60": {
-      "resolve": "/Users/professor/dev/blog/node_modules/gatsby-plugin-sass",
-      "id": "a0eba58a-7fe6-5d0c-8c59-539cb2b33d60",
-      "name": "gatsby-plugin-sass",
-      "version": "2.0.10",
-      "pluginOptions": {
-        "plugins": []
-      },
-      "nodeAPIs": [
-        "onCreateWebpackConfig"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-plugin-sass",
-      "packageJson": {
-        "name": "gatsby-plugin-sass",
-        "description": "Gatsby plugin to handle scss/sass files",
-        "version": "2.0.10",
-        "main": "index.js",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin",
-          "sass",
-          "scss"
-        ],
-        "author": {
-          "name": "Daniel Farrell",
-          "email": "daniel@mobelux.com"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "sass-loader",
-            "version": "^7.0.1"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.3"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.0.0"
-          },
-          {
-            "name": "node-sass",
-            "version": "^4.9.0"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "2f7c88f137d0a23a1a8c9d55fdb7ebbf",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "eb979f1a-b9a0-5521-a8ec-1a701cdcf968": {
-      "resolve": "/Users/professor/dev/blog/node_modules/gatsby-transformer-remark",
-      "id": "eb979f1a-b9a0-5521-a8ec-1a701cdcf968",
+    "598a291e-af99-5db4-a1b2-50ba6544b1d4": {
+      "resolve": "/Users/professor/projects/rudra.dev/node_modules/gatsby-transformer-remark",
+      "id": "598a291e-af99-5db4-a1b2-50ba6544b1d4",
       "name": "gatsby-transformer-remark",
       "version": "2.3.1",
       "pluginOptions": {
         "plugins": [
           {
-            "resolve": "/Users/professor/dev/blog/node_modules/gatsby-remark-prismjs",
+            "resolve": "/Users/professor/projects/rudra.dev/node_modules/gatsby-remark-prismjs",
             "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
             "name": "gatsby-remark-prismjs",
             "version": "3.2.6",
@@ -446,7 +673,7 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-remark-prismjs"
+            "pluginFilepath": "/Users/professor/projects/rudra.dev/node_modules/gatsby-remark-prismjs"
           }
         ]
       },
@@ -456,7 +683,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "/Users/professor/projects/rudra.dev/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -584,227 +811,19 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5adfeda6aedd9f263be4f14deb2f742e",
+        "contentDigest": "517be0ec5972d5114b55392db8a20cc7",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "b8d3a2f5-5540-5699-b862-153e57b2c618": {
-      "resolve": "/Users/professor/dev/blog/node_modules/gatsby-remark-prismjs",
-      "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
-      "name": "gatsby-remark-prismjs",
-      "version": "3.2.6",
-      "pluginOptions": {
-        "plugins": []
-      },
-      "nodeAPIs": [],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-remark-prismjs",
-      "packageJson": {
-        "name": "gatsby-remark-prismjs",
-        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
-        "version": "3.2.6",
-        "main": "index.js",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin",
-          "prismjs",
-          "remark"
-        ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "parse-numeric-range",
-            "version": "^0.0.2"
-          },
-          {
-            "name": "unist-util-visit",
-            "version": "^1.3.0"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.4"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          },
-          {
-            "name": "prismjs",
-            "version": "^1.15.0"
-          },
-          {
-            "name": "remark",
-            "version": "^9.0.0"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.0.0"
-          },
-          {
-            "name": "prismjs",
-            "version": "^1.15.0"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "3fdb30a8c2209b89abffafd023c5bf11",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
-      "resolve": "/Users/professor/dev/blog",
-      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "name": "default-site-plugin",
-      "version": "bc24025c5eb63b0edb0b1a1d650d5ea7",
-      "pluginOptions": {
-        "plugins": []
-      },
-      "nodeAPIs": [
-        "createPages"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog",
-      "packageJson": {
-        "name": "gatsby-starter-hello-world",
-        "description": "A simplified bare-bones starter for Gatsby",
-        "version": "0.1.0",
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.1.27"
-          },
-          {
-            "name": "gatsby-plugin-sass",
-            "version": "^2.0.10"
-          },
-          {
-            "name": "gatsby-remark-images",
-            "version": "^3.0.10"
-          },
-          {
-            "name": "gatsby-remark-prismjs",
-            "version": "^3.2.6"
-          },
-          {
-            "name": "gatsby-source-filesystem",
-            "version": "^2.0.23"
-          },
-          {
-            "name": "gatsby-transformer-remark",
-            "version": "^2.3.1"
-          },
-          {
-            "name": "moment",
-            "version": "^2.24.0"
-          },
-          {
-            "name": "node-sass",
-            "version": "^4.11.0"
-          },
-          {
-            "name": "prismjs",
-            "version": "^1.15.0"
-          },
-          {
-            "name": "react",
-            "version": "^16.8.4"
-          },
-          {
-            "name": "react-dom",
-            "version": "^16.8.4"
-          },
-          {
-            "name": "typeface-open-sans",
-            "version": "0.0.54"
-          },
-          {
-            "name": "typeface-overpass",
-            "version": "0.0.72"
-          },
-          {
-            "name": "typeface-overpass-mono",
-            "version": "0.0.71"
-          },
-          {
-            "name": "typeface-roboto",
-            "version": "0.0.54"
-          },
-          {
-            "name": "typeface-roboto-mono",
-            "version": "0.0.54"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "babel-eslint",
-            "version": "^10.0.1"
-          },
-          {
-            "name": "eslint-config-prettier",
-            "version": "^4.1.0"
-          },
-          {
-            "name": "eslint-plugin-prettier",
-            "version": "^3.0.1"
-          },
-          {
-            "name": "gh-pages",
-            "version": "^2.0.1"
-          },
-          {
-            "name": "prettier",
-            "version": "^1.16.4"
-          }
-        ],
-        "peerDependencies": [],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "34d13e9c47afe53b9ab39609894574df",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "ea736e02-3a95-5d4b-b81f-3d450700b462": {
-      "resolve": "/Users/professor/dev/blog/node_modules/gatsby-plugin-page-creator",
-      "id": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+    "18ed23de-6e2a-5dab-9704-3055ab161000": {
+      "resolve": "/Users/professor/projects/rudra.dev/node_modules/gatsby-plugin-page-creator",
+      "id": "18ed23de-6e2a-5dab-9704-3055ab161000",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.9",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/professor/dev/blog/src/pages",
+        "path": "/Users/professor/projects/rudra.dev/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -812,7 +831,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/professor/dev/blog/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/professor/projects/rudra.dev/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -895,297 +914,233 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "99658620e7959cc87474b26bf7c3f882",
+        "contentDigest": "b5ab13be9e8dc371cc64830513956877",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "Site": {
-      "siteMetadata": {
-        "title": "rudra narayan",
-        "author": "Rudra Narayan",
-        "description": "Personal journal by Rudra Narayan.",
-        "siteUrl": "https://rudra.dev"
-      },
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2019-03-23T18:37:37.593Z",
-      "id": "Site",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "1ac938e757e65902c9577f9eb0bf3b68",
-        "type": "Site",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "2817c826-74cb-5314-850b-ce979793ac2b": {
-      "id": "2817c826-74cb-5314-850b-ce979793ac2b",
+    "1eaae8f7-50b0-5e68-89b3-14501951a7d0": {
+      "id": "1eaae8f7-50b0-5e68-89b3-14501951a7d0",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "e2b72f789e8697e82928ca6c95fdc02f",
+        "contentDigest": "73cf4f84059290637743a69bfb8ee484",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages",
       "relativePath": "",
       "extension": "",
       "size": 256,
       "prettySize": "256 B",
-      "modifiedTime": "2019-03-23T08:42:20.652Z",
-      "accessTime": "2019-03-23T18:37:45.859Z",
-      "changeTime": "2019-03-23T08:42:20.652Z",
-      "birthTime": "2019-03-09T18:33:59.117Z",
+      "modifiedTime": "2019-05-01T15:49:27.664Z",
+      "accessTime": "2019-05-01T16:06:48.650Z",
+      "changeTime": "2019-05-01T15:49:27.664Z",
+      "birthTime": "2019-05-01T15:49:27.662Z",
       "root": "/",
-      "dir": "/Users/professor/dev/blog/src",
+      "dir": "/Users/professor/projects/rudra.dev/src",
       "base": "pages",
       "ext": "",
       "name": "pages",
       "relativeDirectory": "..",
-      "dev": 16777222,
+      "dev": 16777220,
       "mode": 16877,
       "nlink": 8,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 17888211,
+      "ino": 4866883,
       "blocks": 0,
-      "atimeMs": 1553366265858.6284,
-      "mtimeMs": 1553330540651.871,
-      "ctimeMs": 1553330540651.871,
-      "birthtimeMs": 1552156439117.0015,
-      "atime": "2019-03-23T18:37:45.859Z",
-      "mtime": "2019-03-23T08:42:20.652Z",
-      "ctime": "2019-03-23T08:42:20.652Z",
-      "birthtime": "2019-03-09T18:33:59.117Z"
+      "atimeMs": 1556726808650.1057,
+      "mtimeMs": 1556725767663.819,
+      "ctimeMs": 1556725767663.819,
+      "birthtimeMs": 1556725767662.3032,
+      "atime": "2019-05-01T16:06:48.650Z",
+      "mtime": "2019-05-01T15:49:27.664Z",
+      "ctime": "2019-05-01T15:49:27.664Z",
+      "birthtime": "2019-05-01T15:49:27.662Z"
     },
-    "5050d14f-a429-5da7-b14c-940df0e61a42": {
-      "id": "5050d14f-a429-5da7-b14c-940df0e61a42",
+    "d362cd98-6741-5886-941f-53a32f086027": {
+      "id": "d362cd98-6741-5886-941f-53a32f086027",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "c1ec4b0b98abf1e5a343da3fcb3f1815",
+        "contentDigest": "d04266c75f8465cc79a96df651e65038",
         "type": "Directory",
         "description": "Directory \"src/pages/blog\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/blog",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog",
       "relativePath": "blog",
       "extension": "",
       "size": 160,
       "prettySize": "160 B",
-      "modifiedTime": "2019-03-21T23:48:01.142Z",
-      "accessTime": "2019-03-23T18:37:45.862Z",
-      "changeTime": "2019-03-21T23:48:01.142Z",
-      "birthTime": "2019-03-09T18:47:58.359Z",
+      "modifiedTime": "2019-05-01T15:49:27.663Z",
+      "accessTime": "2019-05-01T16:06:48.655Z",
+      "changeTime": "2019-05-01T15:49:27.663Z",
+      "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages",
       "base": "blog",
       "ext": "",
       "name": "blog",
       "relativeDirectory": "",
-      "dev": 16777222,
+      "dev": 16777220,
       "mode": 16877,
       "nlink": 5,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 17888899,
+      "ino": 4866887,
       "blocks": 0,
-      "atimeMs": 1553366265861.519,
-      "mtimeMs": 1553212081141.6423,
-      "ctimeMs": 1553212081141.6423,
-      "birthtimeMs": 1552157278358.944,
-      "atime": "2019-03-23T18:37:45.862Z",
-      "mtime": "2019-03-21T23:48:01.142Z",
-      "ctime": "2019-03-21T23:48:01.142Z",
-      "birthtime": "2019-03-09T18:47:58.359Z"
+      "atimeMs": 1556726808654.7498,
+      "mtimeMs": 1556725767663.426,
+      "ctimeMs": 1556725767663.426,
+      "birthtimeMs": 1556725767662.8103,
+      "atime": "2019-05-01T16:06:48.655Z",
+      "mtime": "2019-05-01T15:49:27.663Z",
+      "ctime": "2019-05-01T15:49:27.663Z",
+      "birthtime": "2019-05-01T15:49:27.663Z"
     },
-    "f69254cf-7561-5094-b340-e33bf424b9dd": {
-      "id": "f69254cf-7561-5094-b340-e33bf424b9dd",
+    "1fb7a080-d3fc-5cc1-a122-b3ad21baf77e": {
+      "id": "1fb7a080-d3fc-5cc1-a122-b3ad21baf77e",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "02a57a0e51e091b3e08225ecf47582d6",
+        "contentDigest": "ccbad1c2f5650d027f35982d41758210",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/configuring-npm-behind-a-proxy\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/configuring-npm-behind-a-proxy",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/configuring-npm-behind-a-proxy",
       "relativePath": "blog/configuring-npm-behind-a-proxy",
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2019-03-22T00:41:43.859Z",
-      "accessTime": "2019-03-23T18:37:45.863Z",
-      "changeTime": "2019-03-22T00:41:43.859Z",
-      "birthTime": "2019-03-09T18:50:22.689Z",
+      "modifiedTime": "2019-05-01T15:49:27.663Z",
+      "accessTime": "2019-05-01T16:06:48.656Z",
+      "changeTime": "2019-05-01T15:49:27.663Z",
+      "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages/blog",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages/blog",
       "base": "configuring-npm-behind-a-proxy",
       "ext": "",
       "name": "configuring-npm-behind-a-proxy",
       "relativeDirectory": "blog",
-      "dev": 16777222,
+      "dev": 16777220,
       "mode": 16877,
       "nlink": 3,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 17888943,
+      "ino": 4866888,
       "blocks": 0,
-      "atimeMs": 1553366265863.1794,
-      "mtimeMs": 1553215303858.6838,
-      "ctimeMs": 1553215303858.6838,
-      "birthtimeMs": 1552157422688.7788,
-      "atime": "2019-03-23T18:37:45.863Z",
-      "mtime": "2019-03-22T00:41:43.859Z",
-      "ctime": "2019-03-22T00:41:43.859Z",
-      "birthtime": "2019-03-09T18:50:22.689Z"
+      "atimeMs": 1556726808655.714,
+      "mtimeMs": 1556725767662.9521,
+      "ctimeMs": 1556725767662.9521,
+      "birthtimeMs": 1556725767662.8704,
+      "atime": "2019-05-01T16:06:48.656Z",
+      "mtime": "2019-05-01T15:49:27.663Z",
+      "ctime": "2019-05-01T15:49:27.663Z",
+      "birthtime": "2019-05-01T15:49:27.663Z"
     },
-    "f9fa720c-6d51-5650-9b99-d52bed2a4376": {
-      "id": "f9fa720c-6d51-5650-9b99-d52bed2a4376",
+    "1bed540f-c8a2-5c90-9f3c-94f3f1af4d39": {
+      "id": "1bed540f-c8a2-5c90-9f3c-94f3f1af4d39",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "981acde87a5743f431edbef3fda73470",
+        "contentDigest": "6e51a7f2ee3b48b532da20a25eb4f162",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/css-and-js-arent-bytecode\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/css-and-js-arent-bytecode",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/css-and-js-arent-bytecode",
       "relativePath": "blog/css-and-js-arent-bytecode",
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2019-03-23T08:23:54.730Z",
-      "accessTime": "2019-03-23T18:37:45.863Z",
-      "changeTime": "2019-03-23T08:23:54.730Z",
-      "birthTime": "2019-03-21T22:02:15.054Z",
+      "modifiedTime": "2019-05-01T15:49:27.663Z",
+      "accessTime": "2019-05-01T16:06:48.656Z",
+      "changeTime": "2019-05-01T15:49:27.663Z",
+      "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages/blog",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages/blog",
       "base": "css-and-js-arent-bytecode",
       "ext": "",
       "name": "css-and-js-arent-bytecode",
       "relativeDirectory": "blog",
-      "dev": 16777222,
+      "dev": 16777220,
       "mode": 16877,
       "nlink": 3,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 19006413,
+      "ino": 4866890,
       "blocks": 0,
-      "atimeMs": 1553366265863.2715,
-      "mtimeMs": 1553329434730.1938,
-      "ctimeMs": 1553329434730.1938,
-      "birthtimeMs": 1553205735054.1382,
-      "atime": "2019-03-23T18:37:45.863Z",
-      "mtime": "2019-03-23T08:23:54.730Z",
-      "ctime": "2019-03-23T08:23:54.730Z",
-      "birthtime": "2019-03-21T22:02:15.054Z"
+      "atimeMs": 1556726808655.7258,
+      "mtimeMs": 1556725767663.244,
+      "ctimeMs": 1556725767663.244,
+      "birthtimeMs": 1556725767663.168,
+      "atime": "2019-05-01T16:06:48.656Z",
+      "mtime": "2019-05-01T15:49:27.663Z",
+      "ctime": "2019-05-01T15:49:27.663Z",
+      "birthtime": "2019-05-01T15:49:27.663Z"
     },
-    "6c781bf0-1b59-5d89-8348-1f1bc69f7eac": {
-      "id": "6c781bf0-1b59-5d89-8348-1f1bc69f7eac",
+    "f0c95004-150a-558e-ac2a-58eaae37aac1": {
+      "id": "f0c95004-150a-558e-ac2a-58eaae37aac1",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "a4139d2c8c133937597c281e819ad796",
+        "contentDigest": "dcfb0c631cb37907e2106b84c4626b70",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/maintaining-multiple-github-accounts\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/maintaining-multiple-github-accounts",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/maintaining-multiple-github-accounts",
       "relativePath": "blog/maintaining-multiple-github-accounts",
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2019-03-22T00:41:05.637Z",
-      "accessTime": "2019-03-23T18:37:45.863Z",
-      "changeTime": "2019-03-22T00:41:05.637Z",
-      "birthTime": "2019-03-09T18:49:11.138Z",
+      "modifiedTime": "2019-05-01T15:49:27.663Z",
+      "accessTime": "2019-05-01T16:06:48.656Z",
+      "changeTime": "2019-05-01T15:49:27.663Z",
+      "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages/blog",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages/blog",
       "base": "maintaining-multiple-github-accounts",
       "ext": "",
       "name": "maintaining-multiple-github-accounts",
       "relativeDirectory": "blog",
-      "dev": 16777222,
+      "dev": 16777220,
       "mode": 16877,
       "nlink": 3,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 17888939,
+      "ino": 4866892,
       "blocks": 0,
-      "atimeMs": 1553366265863.1162,
-      "mtimeMs": 1553215265637.476,
-      "ctimeMs": 1553215265637.476,
-      "birthtimeMs": 1552157351137.6375,
-      "atime": "2019-03-23T18:37:45.863Z",
-      "mtime": "2019-03-22T00:41:05.637Z",
-      "ctime": "2019-03-22T00:41:05.637Z",
-      "birthtime": "2019-03-09T18:49:11.138Z"
+      "atimeMs": 1556726808655.7424,
+      "mtimeMs": 1556725767663.4915,
+      "ctimeMs": 1556725767663.4915,
+      "birthtimeMs": 1556725767663.407,
+      "atime": "2019-05-01T16:06:48.656Z",
+      "mtime": "2019-05-01T15:49:27.663Z",
+      "ctime": "2019-05-01T15:49:27.663Z",
+      "birthtime": "2019-05-01T15:49:27.663Z"
     },
-    "a952cab7-6b32-5026-a2c3-fe03351361c2": {
-      "id": "a952cab7-6b32-5026-a2c3-fe03351361c2",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "4d2522d88a725afeba5fdf5529ddc9fa",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/about.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/about.js",
-      "relativePath": "about.js",
-      "extension": "js",
-      "size": 2499,
-      "prettySize": "2.5 kB",
-      "modifiedTime": "2019-03-23T08:20:47.409Z",
-      "accessTime": "2019-03-23T08:20:47.409Z",
-      "changeTime": "2019-03-23T08:20:47.409Z",
-      "birthTime": "2019-03-23T08:20:47.409Z",
-      "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages",
-      "base": "about.js",
-      "ext": ".js",
-      "name": "about",
-      "relativeDirectory": "",
-      "dev": 16777222,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 19487958,
-      "blocks": 8,
-      "atimeMs": 1553329247408.8796,
-      "mtimeMs": 1553329247409.017,
-      "ctimeMs": 1553329247409.2,
-      "birthtimeMs": 1553329247408.8796,
-      "atime": "2019-03-23T08:20:47.409Z",
-      "mtime": "2019-03-23T08:20:47.409Z",
-      "ctime": "2019-03-23T08:20:47.409Z",
-      "birthtime": "2019-03-23T08:20:47.409Z"
-    },
-    "478e4807-5878-592b-9490-b6aa34700b38": {
-      "id": "478e4807-5878-592b-9490-b6aa34700b38",
+    "de1d41aa-860a-5b2e-ad0e-9eedfb195a13": {
+      "id": "de1d41aa-860a-5b2e-ad0e-9eedfb195a13",
       "children": [],
       "parent": null,
       "internal": {
@@ -1196,86 +1151,86 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/index.js",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
       "size": 749,
       "prettySize": "749 B",
-      "modifiedTime": "2019-03-22T00:27:36.114Z",
-      "accessTime": "2019-03-22T00:35:31.152Z",
-      "changeTime": "2019-03-22T00:27:36.115Z",
-      "birthTime": "2019-03-22T00:27:36.114Z",
+      "modifiedTime": "2019-05-01T15:49:27.664Z",
+      "accessTime": "2019-05-01T15:50:46.067Z",
+      "changeTime": "2019-05-01T15:49:27.664Z",
+      "birthTime": "2019-05-01T15:49:27.664Z",
       "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages",
       "base": "index.js",
       "ext": ".js",
       "name": "index",
       "relativeDirectory": "",
-      "dev": 16777222,
+      "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 19021267,
+      "ino": 4866894,
       "blocks": 8,
-      "atimeMs": 1553214931151.5024,
-      "mtimeMs": 1553214456114.4766,
-      "ctimeMs": 1553214456114.6565,
-      "birthtimeMs": 1553214456114.361,
-      "atime": "2019-03-22T00:35:31.152Z",
-      "mtime": "2019-03-22T00:27:36.114Z",
-      "ctime": "2019-03-22T00:27:36.115Z",
-      "birthtime": "2019-03-22T00:27:36.114Z"
+      "atimeMs": 1556725846067.352,
+      "mtimeMs": 1556725767663.7246,
+      "ctimeMs": 1556725767663.7246,
+      "birthtimeMs": 1556725767663.6587,
+      "atime": "2019-05-01T15:50:46.067Z",
+      "mtime": "2019-05-01T15:49:27.664Z",
+      "ctime": "2019-05-01T15:49:27.664Z",
+      "birthtime": "2019-05-01T15:49:27.664Z"
     },
-    "ea1da826-2fe3-5826-89b1-d07d15e4763c": {
-      "id": "ea1da826-2fe3-5826-89b1-d07d15e4763c",
+    "f942e7a8-34e3-5bca-9217-0a019e49bbda": {
+      "id": "f942e7a8-34e3-5bca-9217-0a019e49bbda",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "40e3e49dc001ff6a3769f6919470e764",
+        "contentDigest": "4d2522d88a725afeba5fdf5529ddc9fa",
         "type": "File",
         "mediaType": "application/javascript",
-        "description": "File \"src/pages/blog.js\"",
+        "description": "File \"src/pages/about.js\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/blog.js",
-      "relativePath": "blog.js",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/about.js",
+      "relativePath": "about.js",
       "extension": "js",
-      "size": 775,
-      "prettySize": "775 B",
-      "modifiedTime": "2019-03-23T08:42:20.651Z",
-      "accessTime": "2019-03-23T08:42:20.756Z",
-      "changeTime": "2019-03-23T08:42:20.652Z",
-      "birthTime": "2019-03-23T08:42:20.651Z",
+      "size": 2499,
+      "prettySize": "2.5 kB",
+      "modifiedTime": "2019-05-01T15:49:27.663Z",
+      "accessTime": "2019-05-01T15:49:28.284Z",
+      "changeTime": "2019-05-01T15:49:27.663Z",
+      "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages",
-      "base": "blog.js",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages",
+      "base": "about.js",
       "ext": ".js",
-      "name": "blog",
+      "name": "about",
       "relativeDirectory": "",
-      "dev": 16777222,
+      "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 19490326,
+      "ino": 4866885,
       "blocks": 8,
-      "atimeMs": 1553330540755.579,
-      "mtimeMs": 1553330540651.3862,
-      "ctimeMs": 1553330540651.5457,
-      "birthtimeMs": 1553330540651.2476,
-      "atime": "2019-03-23T08:42:20.756Z",
-      "mtime": "2019-03-23T08:42:20.651Z",
-      "ctime": "2019-03-23T08:42:20.652Z",
-      "birthtime": "2019-03-23T08:42:20.651Z"
+      "atimeMs": 1556725768283.902,
+      "mtimeMs": 1556725767662.6047,
+      "ctimeMs": 1556725767662.6047,
+      "birthtimeMs": 1556725767662.527,
+      "atime": "2019-05-01T15:49:28.284Z",
+      "mtime": "2019-05-01T15:49:27.663Z",
+      "ctime": "2019-05-01T15:49:27.663Z",
+      "birthtime": "2019-05-01T15:49:27.663Z"
     },
-    "6eab3bd5-1c22-5056-ac8a-e626fbf330de": {
-      "id": "6eab3bd5-1c22-5056-ac8a-e626fbf330de",
+    "fd3f5858-949b-59c9-875f-5d9a0691f60f": {
+      "id": "fd3f5858-949b-59c9-875f-5d9a0691f60f",
       "children": [],
       "parent": null,
       "internal": {
@@ -1286,43 +1241,88 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/404.js",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/404.js",
       "relativePath": "404.js",
       "extension": "js",
       "size": 260,
       "prettySize": "260 B",
-      "modifiedTime": "2019-03-14T10:31:39.618Z",
-      "accessTime": "2019-03-22T00:35:31.151Z",
-      "changeTime": "2019-03-14T10:31:39.618Z",
-      "birthTime": "2019-03-14T10:31:39.617Z",
+      "modifiedTime": "2019-05-01T15:49:27.662Z",
+      "accessTime": "2019-05-01T15:49:27.662Z",
+      "changeTime": "2019-05-01T15:49:27.662Z",
+      "birthTime": "2019-05-01T15:49:27.662Z",
       "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages",
       "base": "404.js",
       "ext": ".js",
       "name": "404",
       "relativeDirectory": "",
-      "dev": 16777222,
+      "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 18284099,
+      "ino": 4866884,
       "blocks": 8,
-      "atimeMs": 1553214931151.4304,
-      "mtimeMs": 1552559499617.5244,
-      "ctimeMs": 1552559499617.6943,
-      "birthtimeMs": 1552559499617.391,
-      "atime": "2019-03-22T00:35:31.151Z",
-      "mtime": "2019-03-14T10:31:39.618Z",
-      "ctime": "2019-03-14T10:31:39.618Z",
-      "birthtime": "2019-03-14T10:31:39.617Z"
+      "atimeMs": 1556725767662.3872,
+      "mtimeMs": 1556725767662.4485,
+      "ctimeMs": 1556725767662.4485,
+      "birthtimeMs": 1556725767662.3872,
+      "atime": "2019-05-01T15:49:27.662Z",
+      "mtime": "2019-05-01T15:49:27.662Z",
+      "ctime": "2019-05-01T15:49:27.662Z",
+      "birthtime": "2019-05-01T15:49:27.662Z"
     },
-    "8776be58-2a86-5e31-9868-157da791bdf6": {
-      "id": "8776be58-2a86-5e31-9868-157da791bdf6",
+    "6fb471ed-edd3-54af-a2e0-5b91cfade441": {
+      "id": "6fb471ed-edd3-54af-a2e0-5b91cfade441",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "40e3e49dc001ff6a3769f6919470e764",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/blog.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog.js",
+      "relativePath": "blog.js",
+      "extension": "js",
+      "size": 775,
+      "prettySize": "775 B",
+      "modifiedTime": "2019-05-01T15:49:27.663Z",
+      "accessTime": "2019-05-01T15:49:28.284Z",
+      "changeTime": "2019-05-01T15:49:27.663Z",
+      "birthTime": "2019-05-01T15:49:27.663Z",
+      "root": "/",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages",
+      "base": "blog.js",
+      "ext": ".js",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4866886,
+      "blocks": 8,
+      "atimeMs": 1556725768283.8691,
+      "mtimeMs": 1556725767662.7407,
+      "ctimeMs": 1556725767662.7407,
+      "birthtimeMs": 1556725767662.6763,
+      "atime": "2019-05-01T15:49:28.284Z",
+      "mtime": "2019-05-01T15:49:27.663Z",
+      "ctime": "2019-05-01T15:49:27.663Z",
+      "birthtime": "2019-05-01T15:49:27.663Z"
+    },
+    "0a3393bf-8078-5f09-a67d-e22c36f5b66f": {
+      "id": "0a3393bf-8078-5f09-a67d-e22c36f5b66f",
       "children": [
-        "8f3ee4f9-4e0e-5ad0-ae4f-be7f0ebad427"
+        "d3aa479f-ab0c-5190-9a0e-f61105505314"
       ],
       "parent": null,
       "internal": {
@@ -1333,41 +1333,41 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/configuring-npm-behind-a-proxy/index.md",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/configuring-npm-behind-a-proxy/index.md",
       "relativePath": "blog/configuring-npm-behind-a-proxy/index.md",
       "extension": "md",
       "size": 1180,
       "prettySize": "1.18 kB",
-      "modifiedTime": "2019-03-22T00:41:43.858Z",
-      "accessTime": "2019-03-22T00:41:43.858Z",
-      "changeTime": "2019-03-22T00:41:43.859Z",
-      "birthTime": "2019-03-22T00:41:43.858Z",
+      "modifiedTime": "2019-05-01T15:49:27.663Z",
+      "accessTime": "2019-05-01T15:50:46.067Z",
+      "changeTime": "2019-05-01T15:49:27.663Z",
+      "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages/blog/configuring-npm-behind-a-proxy",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages/blog/configuring-npm-behind-a-proxy",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
       "relativeDirectory": "blog/configuring-npm-behind-a-proxy",
-      "dev": 16777222,
+      "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 19024056,
+      "ino": 4866889,
       "blocks": 8,
-      "atimeMs": 1553215303858.369,
-      "mtimeMs": 1553215303858.4294,
-      "ctimeMs": 1553215303858.5176,
-      "birthtimeMs": 1553215303858.369,
-      "atime": "2019-03-22T00:41:43.858Z",
-      "mtime": "2019-03-22T00:41:43.858Z",
-      "ctime": "2019-03-22T00:41:43.859Z",
-      "birthtime": "2019-03-22T00:41:43.858Z"
+      "atimeMs": 1556725846067.3174,
+      "mtimeMs": 1556725767663.0168,
+      "ctimeMs": 1556725767663.0168,
+      "birthtimeMs": 1556725767662.9438,
+      "atime": "2019-05-01T15:50:46.067Z",
+      "mtime": "2019-05-01T15:49:27.663Z",
+      "ctime": "2019-05-01T15:49:27.663Z",
+      "birthtime": "2019-05-01T15:49:27.663Z"
     },
-    "b71ed330-2b4e-505d-b8b1-831274b2b56b": {
-      "id": "b71ed330-2b4e-505d-b8b1-831274b2b56b",
+    "825c9c77-7b9e-5f0c-b05f-32174da98ccf": {
+      "id": "825c9c77-7b9e-5f0c-b05f-32174da98ccf",
       "children": [],
       "parent": null,
       "internal": {
@@ -1378,90 +1378,43 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/projects.js",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/projects.js",
       "relativePath": "projects.js",
       "extension": "js",
       "size": 269,
       "prettySize": "269 B",
-      "modifiedTime": "2019-03-22T01:07:47.783Z",
-      "accessTime": "2019-03-22T01:07:47.783Z",
-      "changeTime": "2019-03-22T01:07:47.784Z",
-      "birthTime": "2019-03-22T01:07:47.783Z",
+      "modifiedTime": "2019-05-01T15:49:27.664Z",
+      "accessTime": "2019-05-01T15:49:28.679Z",
+      "changeTime": "2019-05-01T15:49:27.664Z",
+      "birthTime": "2019-05-01T15:49:27.664Z",
       "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages",
       "base": "projects.js",
       "ext": ".js",
       "name": "projects",
       "relativeDirectory": "",
-      "dev": 16777222,
+      "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 19027562,
+      "ino": 4866895,
       "blocks": 8,
-      "atimeMs": 1553216867783.3003,
-      "mtimeMs": 1553216867783.4148,
-      "ctimeMs": 1553216867783.5989,
-      "birthtimeMs": 1553216867783.3003,
-      "atime": "2019-03-22T01:07:47.783Z",
-      "mtime": "2019-03-22T01:07:47.783Z",
-      "ctime": "2019-03-22T01:07:47.784Z",
-      "birthtime": "2019-03-22T01:07:47.783Z"
+      "atimeMs": 1556725768679.1204,
+      "mtimeMs": 1556725767663.8652,
+      "ctimeMs": 1556725767663.8652,
+      "birthtimeMs": 1556725767663.798,
+      "atime": "2019-05-01T15:49:28.679Z",
+      "mtime": "2019-05-01T15:49:27.664Z",
+      "ctime": "2019-05-01T15:49:27.664Z",
+      "birthtime": "2019-05-01T15:49:27.664Z"
     },
-    "58ba1984-fbb4-5776-ac9f-d26f05ef4bdd": {
-      "id": "58ba1984-fbb4-5776-ac9f-d26f05ef4bdd",
+    "a53dbead-d921-5aa7-b8d0-1f7b66044cf6": {
+      "id": "a53dbead-d921-5aa7-b8d0-1f7b66044cf6",
       "children": [
-        "62440d15-e9da-5eb4-b0be-aaa2209e6eb7"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "ff179586de019980a4a409f176f5b486",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/blog/maintaining-multiple-github-accounts/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/maintaining-multiple-github-accounts/index.md",
-      "relativePath": "blog/maintaining-multiple-github-accounts/index.md",
-      "extension": "md",
-      "size": 1175,
-      "prettySize": "1.18 kB",
-      "modifiedTime": "2019-03-22T00:41:05.637Z",
-      "accessTime": "2019-03-22T00:41:05.636Z",
-      "changeTime": "2019-03-22T00:41:05.637Z",
-      "birthTime": "2019-03-22T00:41:05.636Z",
-      "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages/blog/maintaining-multiple-github-accounts",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "blog/maintaining-multiple-github-accounts",
-      "dev": 16777222,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 19024025,
-      "blocks": 8,
-      "atimeMs": 1553215265636.486,
-      "mtimeMs": 1553215265636.6372,
-      "ctimeMs": 1553215265637.0054,
-      "birthtimeMs": 1553215265636.486,
-      "atime": "2019-03-22T00:41:05.636Z",
-      "mtime": "2019-03-22T00:41:05.637Z",
-      "ctime": "2019-03-22T00:41:05.637Z",
-      "birthtime": "2019-03-22T00:41:05.636Z"
-    },
-    "9d25c61d-693b-5bae-a3fc-e7d86116e566": {
-      "id": "9d25c61d-693b-5bae-a3fc-e7d86116e566",
-      "children": [
-        "1aa586ea-defc-564d-894b-88f340b006e6"
+        "100cabe8-ed3a-5519-9867-090fa47a3bf7"
       ],
       "parent": null,
       "internal": {
@@ -1472,67 +1425,94 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/professor/dev/blog/src/pages/blog/css-and-js-arent-bytecode/index.md",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/css-and-js-arent-bytecode/index.md",
       "relativePath": "blog/css-and-js-arent-bytecode/index.md",
       "extension": "md",
       "size": 4583,
       "prettySize": "4.58 kB",
-      "modifiedTime": "2019-03-23T08:23:54.730Z",
-      "accessTime": "2019-03-23T08:23:54.729Z",
-      "changeTime": "2019-03-23T08:23:54.730Z",
-      "birthTime": "2019-03-23T08:23:54.729Z",
+      "modifiedTime": "2019-05-01T15:49:27.663Z",
+      "accessTime": "2019-05-01T15:50:46.067Z",
+      "changeTime": "2019-05-01T15:49:27.663Z",
+      "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
-      "dir": "/Users/professor/dev/blog/src/pages/blog/css-and-js-arent-bytecode",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages/blog/css-and-js-arent-bytecode",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
       "relativeDirectory": "blog/css-and-js-arent-bytecode",
-      "dev": 16777222,
+      "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 19488129,
+      "ino": 4866891,
       "blocks": 16,
-      "atimeMs": 1553329434729.4895,
-      "mtimeMs": 1553329434729.6675,
-      "ctimeMs": 1553329434729.8743,
-      "birthtimeMs": 1553329434729.4895,
-      "atime": "2019-03-23T08:23:54.729Z",
-      "mtime": "2019-03-23T08:23:54.730Z",
-      "ctime": "2019-03-23T08:23:54.730Z",
-      "birthtime": "2019-03-23T08:23:54.729Z"
+      "atimeMs": 1556725846067.3425,
+      "mtimeMs": 1556725767663.3296,
+      "ctimeMs": 1556725767663.3296,
+      "birthtimeMs": 1556725767663.2358,
+      "atime": "2019-05-01T15:50:46.067Z",
+      "mtime": "2019-05-01T15:49:27.663Z",
+      "ctime": "2019-05-01T15:49:27.663Z",
+      "birthtime": "2019-05-01T15:49:27.663Z"
     },
-    "62440d15-e9da-5eb4-b0be-aaa2209e6eb7": {
-      "id": "62440d15-e9da-5eb4-b0be-aaa2209e6eb7",
-      "children": [],
-      "parent": "58ba1984-fbb4-5776-ac9f-d26f05ef4bdd",
+    "3dfd5994-faaf-5d06-b296-0be96d107fd6": {
+      "id": "3dfd5994-faaf-5d06-b296-0be96d107fd6",
+      "children": [
+        "108ca056-69c6-5846-9ead-b20690d7ab72"
+      ],
+      "parent": null,
       "internal": {
-        "content": "\nI recently left a huge IT corporation for a promising startup.I was asked to \nchange my GitHub handler name as it was too cool(I think) for them.Well instead\nof changing I created another account using my company email.\n\nNow I got a problem.Every day when I come home and start hacking around my own\nprojects I had to manually set my username and email id in git config in order\nto reflect my contributions in the graph and most of the time I forget to do so.\n\nSo I created some aliases to toggle between my two handles.\n\n``` bash\n# Set user 1 as current user\ngitfirst() {\n\tgit config --global user.email 'xxx.yyyy@gmail.com' && git config --global user.name 'mrprofessor'\n  \tgituser\n}\n\n# Set user 2 as current user\ngitsecond() {\n\tgit config --global user.email 'zzzzz@corporation.com' && git config --global user.name 'rudrabot'\n  \tgituser\n}\n\n# Print current user\ngituser() {\n\tgit config --global user.name && git config --global user.email\n}\n```\n\nAnd that five minute I save every day from this hack..spends for...I don't know.\n\nAdios.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "c08011bc6354c2eab0a99c6685f29def",
-        "owner": "gatsby-transformer-remark"
+        "contentDigest": "ff179586de019980a4a409f176f5b486",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/maintaining-multiple-github-accounts/index.md\"",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "Maintaining multiple GitHub accounts",
-        "date": "2018-01-24",
-        "path": "/blog/maintaining-multiple-github-accounts",
-        "publish": true
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nI recently left a huge IT corporation for a promising startup.I was asked to \nchange my GitHub handler name as it was too cool(I think) for them.Well instead\nof changing I created another account using my company email.\n\nNow I got a problem.Every day when I come home and start hacking around my own\nprojects I had to manually set my username and email id in git config in order\nto reflect my contributions in the graph and most of the time I forget to do so.\n\nSo I created some aliases to toggle between my two handles.\n\n``` bash\n# Set user 1 as current user\ngitfirst() {\n\tgit config --global user.email 'xxx.yyyy@gmail.com' && git config --global user.name 'mrprofessor'\n  \tgituser\n}\n\n# Set user 2 as current user\ngitsecond() {\n\tgit config --global user.email 'zzzzz@corporation.com' && git config --global user.name 'rudrabot'\n  \tgituser\n}\n\n# Print current user\ngituser() {\n\tgit config --global user.name && git config --global user.email\n}\n```\n\nAnd that five minute I save every day from this hack..spends for...I don't know.\n\nAdios.\n",
-      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/maintaining-multiple-github-accounts/index.md"
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/maintaining-multiple-github-accounts/index.md",
+      "relativePath": "blog/maintaining-multiple-github-accounts/index.md",
+      "extension": "md",
+      "size": 1175,
+      "prettySize": "1.18 kB",
+      "modifiedTime": "2019-05-01T15:49:27.664Z",
+      "accessTime": "2019-05-01T15:50:46.067Z",
+      "changeTime": "2019-05-01T15:49:27.664Z",
+      "birthTime": "2019-05-01T15:49:27.663Z",
+      "root": "/",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages/blog/maintaining-multiple-github-accounts",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "blog/maintaining-multiple-github-accounts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4866893,
+      "blocks": 8,
+      "atimeMs": 1556725846067.3489,
+      "mtimeMs": 1556725767663.579,
+      "ctimeMs": 1556725767663.579,
+      "birthtimeMs": 1556725767663.4834,
+      "atime": "2019-05-01T15:50:46.067Z",
+      "mtime": "2019-05-01T15:49:27.664Z",
+      "ctime": "2019-05-01T15:49:27.664Z",
+      "birthtime": "2019-05-01T15:49:27.663Z"
     },
-    "8f3ee4f9-4e0e-5ad0-ae4f-be7f0ebad427": {
-      "id": "8f3ee4f9-4e0e-5ad0-ae4f-be7f0ebad427",
+    "d3aa479f-ab0c-5190-9a0e-f61105505314": {
+      "id": "d3aa479f-ab0c-5190-9a0e-f61105505314",
       "children": [],
-      "parent": "8776be58-2a86-5e31-9868-157da791bdf6",
+      "parent": "0a3393bf-8078-5f09-a67d-e22c36f5b66f",
       "internal": {
         "content": "\nFor people who work in a company and squeez out some of their time to learn nodejs, setting up an dev-environment can be a real pain. Proxy servers are pretty  common in college and business type institutions.\n\nYou can locate your proxy settings from your browser's settings panel.\n\n## Using Proxy with NPM\n\nOnce you have obtained the proxy settings (server URL, port, username and password); you need to configure your npm configurations as follows.\n\n\n``` bash\nnpm config set proxy http://<username>:<password>@<proxy-server-url>:<port>\nnpm config set https-proxy http://<username>:<password>@<proxy-server-url>:<port>\n```\nYou would have to replace `<username>`, `<password>`, `<proxy-server-url>`, `<port>` with the values specific to your proxy server credentials.\n\nThese fields are optional. For instance, your proxy server might not even require `<username>` and `<password>`, or that it might be running on port 80 (in which case `<port>` is not required).\n\nOnce you have set these, your npm install, `npm i -g etc`. would work properly.\n",
         "type": "MarkdownRemark",
-        "contentDigest": "80d178b6ee932d9b175459dd788459ed",
+        "contentDigest": "1e0535533cf4184fd9b434b2c8cb10ca",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -1543,16 +1523,16 @@
       },
       "excerpt": "",
       "rawMarkdownBody": "\nFor people who work in a company and squeez out some of their time to learn nodejs, setting up an dev-environment can be a real pain. Proxy servers are pretty  common in college and business type institutions.\n\nYou can locate your proxy settings from your browser's settings panel.\n\n## Using Proxy with NPM\n\nOnce you have obtained the proxy settings (server URL, port, username and password); you need to configure your npm configurations as follows.\n\n\n``` bash\nnpm config set proxy http://<username>:<password>@<proxy-server-url>:<port>\nnpm config set https-proxy http://<username>:<password>@<proxy-server-url>:<port>\n```\nYou would have to replace `<username>`, `<password>`, `<proxy-server-url>`, `<port>` with the values specific to your proxy server credentials.\n\nThese fields are optional. For instance, your proxy server might not even require `<username>` and `<password>`, or that it might be running on port 80 (in which case `<port>` is not required).\n\nOnce you have set these, your npm install, `npm i -g etc`. would work properly.\n",
-      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/configuring-npm-behind-a-proxy/index.md"
+      "fileAbsolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/configuring-npm-behind-a-proxy/index.md"
     },
-    "1aa586ea-defc-564d-894b-88f340b006e6": {
-      "id": "1aa586ea-defc-564d-894b-88f340b006e6",
+    "100cabe8-ed3a-5519-9867-090fa47a3bf7": {
+      "id": "100cabe8-ed3a-5519-9867-090fa47a3bf7",
       "children": [],
-      "parent": "9d25c61d-693b-5bae-a3fc-e7d86116e566",
+      "parent": "a53dbead-d921-5aa7-b8d0-1f7b66044cf6",
       "internal": {
         "content": "\nThe earliest computers were often programmed without the help of a programming language, by writing programs in absolute machine language. The programs, in decimal or binary form (mostly binary),were read in from punched cards or magnetic tape or toggled in on switches on the front panel of the computer. I guess they started creating programming languages in order to make it human readable. Then they developed  [First Gen](https://en.wikipedia.org/wiki/First-generation_programming_language), [Assembly languages](https://en.wikipedia.org/wiki/First-generation_programming_language)(_Ah..my first project_) and created something called [ high-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language).\n\nBut we didn't stop there, did we ? We had C,we got Python, a more readable yet slow language.People wrote languages like Basic, Scratch, Ruby to make things more simple and people loved it.Okay...We are there now. Everything was going alright..perfect..superb in the IT Programming industry until when some guys got really serious about JavaScript.I guess that's the reason I am writing this blog now.\n\nI was in college when I learned web developement. At that time Frontend developers are not actually called developers but designers. I often took my time off from those grumpy sorting algorithms and writing C and used to geek off with these top three.**HTML**, **CSS** and **JavaScript**.Well practically less JavaScript and more **jQuery**. They were so addictive for a curious guy like me who used to draw his imaginations on a 15.6 inch screen.Nobody really cared about JavaScript back then...everyone was so focused on backend like php,asp,django and hipster rails. \n\nThe space was completely occupied by JQuery with more readable and easily writable syntax.Ajax implementation was easy, people don't have to remember those `getElementById('blah..blah') `  kinda functions.Coming to CSS, writing CSS was absolutely fun until smaller devices came. People needed better looking websites on their phone rather than squeezed down version of websites.Hence designers started writing media queries(_It took me a whole year to understand `@media queries`_) and grids to make sites responsive.\n\n#### Is there any twist in this story..coz I'm getting bored !\n\nThen a guy in [Twitter](https://twitter.com) developed a front-end framework called Bootstrap and the whole world just started drooling over it. It was awesome to use..developers don't had to waste a day to design grids or write media queries.But the problem started when people considered this anything more than a framework. Videos got published, books got written to learn Bootstrap. Now a newbie has to learn HTML,CSS,and Bootstrap instead of just the former two.\n> So Instead of learning how these grids and navbar works,they just started using it.\n\nSame thing also happened to JavaScript.People almost forgot that they can really write an web app by just using pure HTML, CSS and Javascript(_Now they are calling it Vanilla JavaScript_).There was JQuery for quite sometime till angular came.People started using JavaScript in backend,thanks to *node.js*. Then came *Vue.js*, *Ember.js*, *Meteor.js*, *React.js* and more. And surprisingly some of them don't even use JavaScript, instead they use languages that transpiles in JavaScript.\n\nIt's completely understandable when a lazy programmer(_Well all are lazy_) creates one such language so that he and his company don't have to write lengthy JavaScript all the time, why others are jumping there ditching the core language?? In countries like India,China people are following the same pattern where connectivity is not at it's best yet.\n\n> See what happened to _Angular_..!! They rewrote the whole framework and created _Angular 2_. React JS is unstable like an active Volcano.\n\n### What's your point man..Can't you be just happy\n\nI am not completely against it. All that's happening is good, I surely have nothing against any X framework or Y library. Just teach the newbies the basic first. They need to know both the pro's and con's of any library or framework instead of the _\"This framework is so cool..!! coz that company backs it.\"_ trend.\n\n### Adios\n\nWriting the article sitting next to my manager.Gonna get bad appraisal this quarter.\nInspired from this [article](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f/  \"How it feels to learn JavaScript in 2016\" ).\n",
         "type": "MarkdownRemark",
-        "contentDigest": "ed3e3a405d84a0faca7eb8c967568d34",
+        "contentDigest": "83b9b505442aba7ffae01b05e09fc5ef",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -1563,24 +1543,44 @@
       },
       "excerpt": "",
       "rawMarkdownBody": "\nThe earliest computers were often programmed without the help of a programming language, by writing programs in absolute machine language. The programs, in decimal or binary form (mostly binary),were read in from punched cards or magnetic tape or toggled in on switches on the front panel of the computer. I guess they started creating programming languages in order to make it human readable. Then they developed  [First Gen](https://en.wikipedia.org/wiki/First-generation_programming_language), [Assembly languages](https://en.wikipedia.org/wiki/First-generation_programming_language)(_Ah..my first project_) and created something called [ high-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language).\n\nBut we didn't stop there, did we ? We had C,we got Python, a more readable yet slow language.People wrote languages like Basic, Scratch, Ruby to make things more simple and people loved it.Okay...We are there now. Everything was going alright..perfect..superb in the IT Programming industry until when some guys got really serious about JavaScript.I guess that's the reason I am writing this blog now.\n\nI was in college when I learned web developement. At that time Frontend developers are not actually called developers but designers. I often took my time off from those grumpy sorting algorithms and writing C and used to geek off with these top three.**HTML**, **CSS** and **JavaScript**.Well practically less JavaScript and more **jQuery**. They were so addictive for a curious guy like me who used to draw his imaginations on a 15.6 inch screen.Nobody really cared about JavaScript back then...everyone was so focused on backend like php,asp,django and hipster rails. \n\nThe space was completely occupied by JQuery with more readable and easily writable syntax.Ajax implementation was easy, people don't have to remember those `getElementById('blah..blah') `  kinda functions.Coming to CSS, writing CSS was absolutely fun until smaller devices came. People needed better looking websites on their phone rather than squeezed down version of websites.Hence designers started writing media queries(_It took me a whole year to understand `@media queries`_) and grids to make sites responsive.\n\n#### Is there any twist in this story..coz I'm getting bored !\n\nThen a guy in [Twitter](https://twitter.com) developed a front-end framework called Bootstrap and the whole world just started drooling over it. It was awesome to use..developers don't had to waste a day to design grids or write media queries.But the problem started when people considered this anything more than a framework. Videos got published, books got written to learn Bootstrap. Now a newbie has to learn HTML,CSS,and Bootstrap instead of just the former two.\n> So Instead of learning how these grids and navbar works,they just started using it.\n\nSame thing also happened to JavaScript.People almost forgot that they can really write an web app by just using pure HTML, CSS and Javascript(_Now they are calling it Vanilla JavaScript_).There was JQuery for quite sometime till angular came.People started using JavaScript in backend,thanks to *node.js*. Then came *Vue.js*, *Ember.js*, *Meteor.js*, *React.js* and more. And surprisingly some of them don't even use JavaScript, instead they use languages that transpiles in JavaScript.\n\nIt's completely understandable when a lazy programmer(_Well all are lazy_) creates one such language so that he and his company don't have to write lengthy JavaScript all the time, why others are jumping there ditching the core language?? In countries like India,China people are following the same pattern where connectivity is not at it's best yet.\n\n> See what happened to _Angular_..!! They rewrote the whole framework and created _Angular 2_. React JS is unstable like an active Volcano.\n\n### What's your point man..Can't you be just happy\n\nI am not completely against it. All that's happening is good, I surely have nothing against any X framework or Y library. Just teach the newbies the basic first. They need to know both the pro's and con's of any library or framework instead of the _\"This framework is so cool..!! coz that company backs it.\"_ trend.\n\n### Adios\n\nWriting the article sitting next to my manager.Gonna get bad appraisal this quarter.\nInspired from this [article](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f/  \"How it feels to learn JavaScript in 2016\" ).\n",
-      "fileAbsolutePath": "/Users/professor/dev/blog/src/pages/blog/css-and-js-arent-bytecode/index.md"
+      "fileAbsolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/css-and-js-arent-bytecode/index.md"
+    },
+    "108ca056-69c6-5846-9ead-b20690d7ab72": {
+      "id": "108ca056-69c6-5846-9ead-b20690d7ab72",
+      "children": [],
+      "parent": "3dfd5994-faaf-5d06-b296-0be96d107fd6",
+      "internal": {
+        "content": "\nI recently left a huge IT corporation for a promising startup.I was asked to \nchange my GitHub handler name as it was too cool(I think) for them.Well instead\nof changing I created another account using my company email.\n\nNow I got a problem.Every day when I come home and start hacking around my own\nprojects I had to manually set my username and email id in git config in order\nto reflect my contributions in the graph and most of the time I forget to do so.\n\nSo I created some aliases to toggle between my two handles.\n\n``` bash\n# Set user 1 as current user\ngitfirst() {\n\tgit config --global user.email 'xxx.yyyy@gmail.com' && git config --global user.name 'mrprofessor'\n  \tgituser\n}\n\n# Set user 2 as current user\ngitsecond() {\n\tgit config --global user.email 'zzzzz@corporation.com' && git config --global user.name 'rudrabot'\n  \tgituser\n}\n\n# Print current user\ngituser() {\n\tgit config --global user.name && git config --global user.email\n}\n```\n\nAnd that five minute I save every day from this hack..spends for...I don't know.\n\nAdios.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "f861129aa1bf6b3c324fb705a1bb2b22",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Maintaining multiple GitHub accounts",
+        "date": "2018-01-24",
+        "path": "/blog/maintaining-multiple-github-accounts",
+        "publish": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nI recently left a huge IT corporation for a promising startup.I was asked to \nchange my GitHub handler name as it was too cool(I think) for them.Well instead\nof changing I created another account using my company email.\n\nNow I got a problem.Every day when I come home and start hacking around my own\nprojects I had to manually set my username and email id in git config in order\nto reflect my contributions in the graph and most of the time I forget to do so.\n\nSo I created some aliases to toggle between my two handles.\n\n``` bash\n# Set user 1 as current user\ngitfirst() {\n\tgit config --global user.email 'xxx.yyyy@gmail.com' && git config --global user.name 'mrprofessor'\n  \tgituser\n}\n\n# Set user 2 as current user\ngitsecond() {\n\tgit config --global user.email 'zzzzz@corporation.com' && git config --global user.name 'rudrabot'\n  \tgituser\n}\n\n# Print current user\ngituser() {\n\tgit config --global user.name && git config --global user.email\n}\n```\n\nAnd that five minute I save every day from this hack..spends for...I don't know.\n\nAdios.\n",
+      "fileAbsolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/maintaining-multiple-github-accounts/index.md"
     },
     "SitePage /blog/maintaining-multiple-github-accounts": {
       "jsonName": "blog-maintaining-multiple-github-accounts-98c",
       "internalComponentName": "ComponentBlogMaintainingMultipleGithubAccounts",
       "path": "/blog/maintaining-multiple-github-accounts",
-      "component": "/Users/professor/dev/blog/src/templates/BlogTemplate.js",
+      "component": "/Users/professor/projects/rudra.dev/src/templates/BlogTemplate.js",
       "componentChunkName": "component---src-templates-blog-template-js",
       "context": {},
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/professor/dev/blog/src/templates/BlogTemplate.js",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/templates/BlogTemplate.js",
       "id": "SitePage /blog/maintaining-multiple-github-accounts",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cfef1a8a110f75a7e85e55b15a6dfc85",
+        "contentDigest": "81ba21297abf1677dd402ced7eb9d0d5",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -1589,18 +1589,18 @@
       "jsonName": "blog-configuring-npm-behind-a-proxy-0c2",
       "internalComponentName": "ComponentBlogConfiguringNpmBehindAProxy",
       "path": "/blog/configuring-npm-behind-a-proxy",
-      "component": "/Users/professor/dev/blog/src/templates/BlogTemplate.js",
+      "component": "/Users/professor/projects/rudra.dev/src/templates/BlogTemplate.js",
       "componentChunkName": "component---src-templates-blog-template-js",
       "context": {},
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/professor/dev/blog/src/templates/BlogTemplate.js",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/templates/BlogTemplate.js",
       "id": "SitePage /blog/configuring-npm-behind-a-proxy",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d90ddb32011d5879e2b42739610759ef",
+        "contentDigest": "caac7f8af784d228b8760d2377f277a2",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -1609,18 +1609,18 @@
       "jsonName": "blog-css-and-js-are-not-bytecode-506",
       "internalComponentName": "ComponentBlogCssAndJsAreNotBytecode",
       "path": "/blog/css-and-js-are-not-bytecode",
-      "component": "/Users/professor/dev/blog/src/templates/BlogTemplate.js",
+      "component": "/Users/professor/projects/rudra.dev/src/templates/BlogTemplate.js",
       "componentChunkName": "component---src-templates-blog-template-js",
       "context": {},
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/professor/dev/blog/src/templates/BlogTemplate.js",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/templates/BlogTemplate.js",
       "id": "SitePage /blog/css-and-js-are-not-bytecode",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5dbfb62c8d4a5d3f09d41e252d155882",
+        "contentDigest": "f80d7c1a0fd8cf34c608309ad3678366",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -1629,19 +1629,19 @@
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/professor/dev/blog/src/pages/404.js",
+      "component": "/Users/professor/projects/rudra.dev/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "pluginCreator___NODE": "ea736e02-3a95-5d4b-b81f-3d450700b462",
-      "pluginCreatorId": "ea736e02-3a95-5d4b-b81f-3d450700b462",
-      "componentPath": "/Users/professor/dev/blog/src/pages/404.js",
+      "pluginCreator___NODE": "18ed23de-6e2a-5dab-9704-3055ab161000",
+      "pluginCreatorId": "18ed23de-6e2a-5dab-9704-3055ab161000",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b41a11d11825effceb9ffb4e7a6c9418",
-        "description": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+        "contentDigest": "c11113a5707cb3a4cad5f0fb8aaefa19",
+        "description": "18ed23de-6e2a-5dab-9704-3055ab161000",
         "owner": "internal-data-bridge"
       }
     },
@@ -1649,19 +1649,19 @@
       "jsonName": "about-f34",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Users/professor/dev/blog/src/pages/about.js",
+      "component": "/Users/professor/projects/rudra.dev/src/pages/about.js",
       "componentChunkName": "component---src-pages-about-js",
       "context": {},
-      "pluginCreator___NODE": "ea736e02-3a95-5d4b-b81f-3d450700b462",
-      "pluginCreatorId": "ea736e02-3a95-5d4b-b81f-3d450700b462",
-      "componentPath": "/Users/professor/dev/blog/src/pages/about.js",
+      "pluginCreator___NODE": "18ed23de-6e2a-5dab-9704-3055ab161000",
+      "pluginCreatorId": "18ed23de-6e2a-5dab-9704-3055ab161000",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/pages/about.js",
       "id": "SitePage /about/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9e7ad74af0fe452139ccaf9c45c2ba76",
-        "description": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+        "contentDigest": "4559ba36280fb9b2d99902c7f0ce998a",
+        "description": "18ed23de-6e2a-5dab-9704-3055ab161000",
         "owner": "internal-data-bridge"
       }
     },
@@ -1669,19 +1669,19 @@
       "jsonName": "blog-f7a",
       "internalComponentName": "ComponentBlog",
       "path": "/blog/",
-      "component": "/Users/professor/dev/blog/src/pages/blog.js",
+      "component": "/Users/professor/projects/rudra.dev/src/pages/blog.js",
       "componentChunkName": "component---src-pages-blog-js",
       "context": {},
-      "pluginCreator___NODE": "ea736e02-3a95-5d4b-b81f-3d450700b462",
-      "pluginCreatorId": "ea736e02-3a95-5d4b-b81f-3d450700b462",
-      "componentPath": "/Users/professor/dev/blog/src/pages/blog.js",
+      "pluginCreator___NODE": "18ed23de-6e2a-5dab-9704-3055ab161000",
+      "pluginCreatorId": "18ed23de-6e2a-5dab-9704-3055ab161000",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/pages/blog.js",
       "id": "SitePage /blog/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aa1d84ec3090f48ec0440653295ccf8c",
-        "description": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+        "contentDigest": "cc29c442c88c65630b2ec1e1247655eb",
+        "description": "18ed23de-6e2a-5dab-9704-3055ab161000",
         "owner": "internal-data-bridge"
       }
     },
@@ -1689,19 +1689,19 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/professor/dev/blog/src/pages/index.js",
+      "component": "/Users/professor/projects/rudra.dev/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "pluginCreator___NODE": "ea736e02-3a95-5d4b-b81f-3d450700b462",
-      "pluginCreatorId": "ea736e02-3a95-5d4b-b81f-3d450700b462",
-      "componentPath": "/Users/professor/dev/blog/src/pages/index.js",
+      "pluginCreator___NODE": "18ed23de-6e2a-5dab-9704-3055ab161000",
+      "pluginCreatorId": "18ed23de-6e2a-5dab-9704-3055ab161000",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/pages/index.js",
       "id": "SitePage /",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a7ce6ca5063d85e37a270d37b0c774b7",
-        "description": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+        "contentDigest": "f4bf4da3ae09afd235da65eae451cced",
+        "description": "18ed23de-6e2a-5dab-9704-3055ab161000",
         "owner": "internal-data-bridge"
       }
     },
@@ -1709,19 +1709,19 @@
       "jsonName": "projects-9e9",
       "internalComponentName": "ComponentProjects",
       "path": "/projects/",
-      "component": "/Users/professor/dev/blog/src/pages/projects.js",
+      "component": "/Users/professor/projects/rudra.dev/src/pages/projects.js",
       "componentChunkName": "component---src-pages-projects-js",
       "context": {},
-      "pluginCreator___NODE": "ea736e02-3a95-5d4b-b81f-3d450700b462",
-      "pluginCreatorId": "ea736e02-3a95-5d4b-b81f-3d450700b462",
-      "componentPath": "/Users/professor/dev/blog/src/pages/projects.js",
+      "pluginCreator___NODE": "18ed23de-6e2a-5dab-9704-3055ab161000",
+      "pluginCreatorId": "18ed23de-6e2a-5dab-9704-3055ab161000",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/pages/projects.js",
       "id": "SitePage /projects/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ee8fb3759772a9d72e9d7922856f1fc4",
-        "description": "ea736e02-3a95-5d4b-b81f-3d450700b462",
+        "contentDigest": "e56df56de56ddf0fc81388b05c82220a",
+        "description": "18ed23de-6e2a-5dab-9704-3055ab161000",
         "owner": "internal-data-bridge"
       }
     },
@@ -1729,18 +1729,18 @@
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/professor/dev/blog/src/pages/404.js",
+      "component": "/Users/professor/projects/rudra.dev/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/professor/dev/blog/src/pages/404.js",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a71b91bd0e1e07dc9b46c5152baf4ca4",
+        "contentDigest": "546cd804c00f0696bb855febb9bd4f35",
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
@@ -1755,13 +1755,16 @@
       "Site": [
         "sq--src-components-layout-layout-js"
       ],
-      "62440d15-e9da-5eb4-b0be-aaa2209e6eb7": [
+      "62440d15-e9da-5eb4-b0be-aaa2209e6eb7": [],
+      "8f3ee4f9-4e0e-5ad0-ae4f-be7f0ebad427": [],
+      "1aa586ea-defc-564d-894b-88f340b006e6": [],
+      "108ca056-69c6-5846-9ead-b20690d7ab72": [
         "/blog/maintaining-multiple-github-accounts"
       ],
-      "8f3ee4f9-4e0e-5ad0-ae4f-be7f0ebad427": [
+      "d3aa479f-ab0c-5190-9a0e-f61105505314": [
         "/blog/configuring-npm-behind-a-proxy"
       ],
-      "1aa586ea-defc-564d-894b-88f340b006e6": [
+      "100cabe8-ed3a-5519-9867-090fa47a3bf7": [
         "/blog/css-and-js-are-not-bytecode"
       ]
     },
@@ -1775,10 +1778,10 @@
     }
   },
   "jsonDataPaths": {
-    "index": "908/path---index-6a9-cQSTWUXfUFVc80lEMNpkMGHP9E",
+    "index": "255/path---index-6a9-kA8VkbQvFJH00dY5lT4Lr9vQbY",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "blog-pilot-9a5": "650/path---blog-pilot-9-a-5-ead-NZuapzHg3X9TaN1iIixfv1W23E",
-    "blog-f7a": "348/path---blog-f-7-a-05d-cQSTWUXfUFVc80lEMNpkMGHP9E",
+    "blog-f7a": "221/path---blog-f-7-a-05d-kA8VkbQvFJH00dY5lT4Lr9vQbY",
     "blog-summary-2cf": "26/path---blog-summary-2-cf-632-YgV6PMucCfm5UqFLltIiArHr58",
     "blog-pilot-6bf": "22/path---blog-pilot-6-bf-4c6-YgV6PMucCfm5UqFLltIiArHr58",
     "projects-9e9": "545/path---projects-9-e-9-957-NZuapzHg3X9TaN1iIixfv1W23E",
@@ -1794,38 +1797,38 @@
     "blog-maintaining-multiple-github-accounts-98c": "761/path---blog-maintaining-multiple-github-accounts-98-c-532-OvTjZiPhmdMMzA29UgK8JPdmI"
   },
   "components": {
-    "/Users/professor/dev/blog/src/templates/BlogTemplate.js": {
-      "query": "query usersProfessorDevBlogSrcTemplatesBlogTemplateJs1579142440(\n  $path: String!\n) {\n  markdownRemark(frontmatter: {path: {eq: $path}}) {\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      path\n      title\n    }\n  }\n}\n",
-      "componentPath": "/Users/professor/dev/blog/src/templates/BlogTemplate.js"
+    "/Users/professor/projects/rudra.dev/src/templates/BlogTemplate.js": {
+      "query": "query usersProfessorProjectsRudraDevSrcTemplatesBlogTemplateJs1579142440(\n  $path: String!\n) {\n  markdownRemark(frontmatter: {path: {eq: $path}}) {\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      path\n      title\n    }\n  }\n}\n",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/templates/BlogTemplate.js"
     },
-    "/Users/professor/dev/blog/src/pages/404.js": {
+    "/Users/professor/projects/rudra.dev/src/pages/404.js": {
       "query": "",
-      "componentPath": "/Users/professor/dev/blog/src/pages/404.js"
+      "componentPath": "/Users/professor/projects/rudra.dev/src/pages/404.js"
     },
-    "/Users/professor/dev/blog/src/pages/about.js": {
+    "/Users/professor/projects/rudra.dev/src/pages/about.js": {
       "query": "",
-      "componentPath": "/Users/professor/dev/blog/src/pages/about.js"
+      "componentPath": "/Users/professor/projects/rudra.dev/src/pages/about.js"
     },
-    "/Users/professor/dev/blog/src/pages/blog.js": {
-      "query": "query usersProfessorDevBlogSrcPagesBlogJs4227892632 {\n  allMarkdownRemark(filter: {frontmatter: {publish: {eq: true}}}, sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          path\n          publish\n        }\n        id\n      }\n    }\n  }\n}\n",
-      "componentPath": "/Users/professor/dev/blog/src/pages/blog.js"
+    "/Users/professor/projects/rudra.dev/src/pages/blog.js": {
+      "query": "query usersProfessorProjectsRudraDevSrcPagesBlogJs4227892632 {\n  allMarkdownRemark(filter: {frontmatter: {publish: {eq: true}}}, sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          path\n          publish\n        }\n        id\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/pages/blog.js"
     },
-    "/Users/professor/dev/blog/src/pages/index.js": {
-      "query": "query usersProfessorDevBlogSrcPagesIndexJs4227892632 {\n  allMarkdownRemark(filter: {frontmatter: {publish: {eq: true}}}, sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          path\n          publish\n        }\n        id\n      }\n    }\n  }\n}\n",
-      "componentPath": "/Users/professor/dev/blog/src/pages/index.js"
+    "/Users/professor/projects/rudra.dev/src/pages/index.js": {
+      "query": "query usersProfessorProjectsRudraDevSrcPagesIndexJs4227892632 {\n  allMarkdownRemark(filter: {frontmatter: {publish: {eq: true}}}, sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          path\n          publish\n        }\n        id\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/pages/index.js"
     },
-    "/Users/professor/dev/blog/src/pages/projects.js": {
+    "/Users/professor/projects/rudra.dev/src/pages/projects.js": {
       "query": "",
-      "componentPath": "/Users/professor/dev/blog/src/pages/projects.js"
+      "componentPath": "/Users/professor/projects/rudra.dev/src/pages/projects.js"
     }
   },
   "staticQueryComponents": {
     "sq--src-components-layout-layout-js": {
-      "name": "usersProfessorDevBlogSrcComponentsLayoutLayoutJs3978990474",
-      "componentPath": "/Users/professor/dev/blog/src/components/layout/Layout.js",
+      "name": "usersProfessorProjectsRudraDevSrcComponentsLayoutLayoutJs3978990474",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/components/layout/Layout.js",
       "id": "sq--src-components-layout-layout-js",
       "jsonName": "sq--src-components-layout-layout-js",
-      "query": "query usersProfessorDevBlogSrcComponentsLayoutLayoutJs3978990474 {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
+      "query": "query usersProfessorProjectsRudraDevSrcComponentsLayoutLayoutJs3978990474 {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
       "hash": 3978990474
     }
   }

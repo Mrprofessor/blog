@@ -1,4 +1,4 @@
 module.exports = [{
-      plugin: require('/Users/professor/dev/blog/gatsby-browser.js'),
+      plugin: require('/Users/professor/projects/rudra.dev/gatsby-browser.js'),
       options: {"plugins":[]},
     }]
