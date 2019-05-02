@@ -48,5 +48,10 @@
         "componentChunkName": "component---src-pages-projects-js",
         "jsonName": "projects-9e9",
         "path": "/projects/"
+    },
+    {
+        "componentChunkName": "component---src-pages-resume-js",
+        "jsonName": "resume-e4f",
+        "path": "/resume/"
     }
 ]

@@ -116,6 +116,10 @@ nav {
   pointer-events: none;
 }
 
+.slim-description {
+  margin-bottom: calc(#{$global-font-size} * 2);
+}
+
 @media only screen and (max-width: 600px) {
   .layout {
     .title-wrapper {

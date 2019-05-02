@@ -11,6 +11,7 @@ exports.components = {
   "component---src-pages-about-js": hot(preferDefault(require("/Users/professor/projects/rudra.dev/src/pages/about.js"))),
   "component---src-pages-blog-js": hot(preferDefault(require("/Users/professor/projects/rudra.dev/src/pages/blog.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/professor/projects/rudra.dev/src/pages/index.js"))),
-  "component---src-pages-projects-js": hot(preferDefault(require("/Users/professor/projects/rudra.dev/src/pages/projects.js")))
+  "component---src-pages-projects-js": hot(preferDefault(require("/Users/professor/projects/rudra.dev/src/pages/projects.js"))),
+  "component---src-pages-resume-js": hot(preferDefault(require("/Users/professor/projects/rudra.dev/src/pages/resume.js")))
 }
 

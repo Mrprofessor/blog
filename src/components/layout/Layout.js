@@ -3,17 +3,7 @@ import Nav from "../nav/Nav";
 import { StaticQuery, graphql } from "gatsby";
 import { Link } from "gatsby";
 
-//export const siteQuery = graphql`
-//query {
-//site {
-//siteMetadata {
-//title
-//description
-//}
-//}
-//}
-//`;
-
+// Need to use StaticQuery while quering in side a non-page component.
 const Layout = props => (
   <StaticQuery
     query={graphql`

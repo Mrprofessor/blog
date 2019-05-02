@@ -1,7 +1,8 @@
 import React from "react";
 import { graphql } from "gatsby";
-import BlogList from "./../components/blogList/Bloglist";
 import Layout from "./../components/layout/Layout";
+import BlogList from "./../components/blogList/Bloglist";
+import SlimDescription from "./../components/slimDescription/SlimDescription";
 
 export const query = graphql`
   query {
@@ -27,6 +28,7 @@ export const query = graphql`
 const Blog = ({ data }) => {
   return (
     <Layout>
+      <SlimDescription />
       <div>
         {data.allMarkdownRemark.edges && (
           <BlogList list={data.allMarkdownRemark.edges} />

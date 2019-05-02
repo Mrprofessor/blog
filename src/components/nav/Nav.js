@@ -28,3 +28,14 @@ const Nav = () => {
 };
 
 export default Nav;
+
+//<a
+//href="https://github.com/mrprofessor/resume/blob/master/rudra_narayan_resume.pdf"
+//target="_blank"
+//>
+///resume
+//</a>
+
+//<Link to="/resume/" activeClassName="active-link">
+///resume
+//</Link>
