@@ -1,22 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/professor/projects/rudra.dev/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/professor/projects/rudra.dev/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "acad42777ff5c581b947859d2efa0475",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -924,16 +915,14 @@
         "description": "Personal journal by Rudra Narayan.",
         "siteUrl": "https://rudra.dev"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-02T14:43:31.334Z",
+      "buildTime": "2019-05-03T12:43:58.070Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "3d8cb48d2344bd60de36ec1e0da0be7a",
+        "contentDigest": "2df58435b335b736bd594e50968e1789",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -943,7 +932,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "8b40d0195c4be3e971b3892256e9e61e",
+        "contentDigest": "76717f1f4a72b833a6c1b6c916b93076",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -954,9 +943,9 @@
       "extension": "",
       "size": 352,
       "prettySize": "352 B",
-      "modifiedTime": "2019-05-02T12:33:09.500Z",
-      "accessTime": "2019-05-02T14:43:37.006Z",
-      "changeTime": "2019-05-02T12:33:09.500Z",
+      "modifiedTime": "2019-05-02T17:23:21.055Z",
+      "accessTime": "2019-05-03T12:43:59.837Z",
+      "changeTime": "2019-05-02T17:23:21.055Z",
       "birthTime": "2019-05-01T15:49:27.662Z",
       "root": "/",
       "dir": "/Users/professor/projects/rudra.dev/src",
@@ -973,13 +962,13 @@
       "blksize": 4096,
       "ino": 4866883,
       "blocks": 0,
-      "atimeMs": 1556808217006.1885,
-      "mtimeMs": 1556800389500.2166,
-      "ctimeMs": 1556800389500.2166,
+      "atimeMs": 1556887439836.903,
+      "mtimeMs": 1556817801055.3137,
+      "ctimeMs": 1556817801055.3137,
       "birthtimeMs": 1556725767662.3032,
-      "atime": "2019-05-02T14:43:37.006Z",
-      "mtime": "2019-05-02T12:33:09.500Z",
-      "ctime": "2019-05-02T12:33:09.500Z",
+      "atime": "2019-05-03T12:43:59.837Z",
+      "mtime": "2019-05-02T17:23:21.055Z",
+      "ctime": "2019-05-02T17:23:21.055Z",
       "birthtime": "2019-05-01T15:49:27.662Z"
     },
     "d362cd98-6741-5886-941f-53a32f086027": {
@@ -987,7 +976,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "e19707e402dfae7ad46c9796d555c3bb",
+        "contentDigest": "d8a66a7e3581cf179e3c872f79167644",
         "type": "Directory",
         "description": "Directory \"src/pages/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -996,11 +985,11 @@
       "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog",
       "relativePath": "blog",
       "extension": "",
-      "size": 160,
-      "prettySize": "160 B",
-      "modifiedTime": "2019-05-01T15:49:27.663Z",
-      "accessTime": "2019-05-02T14:43:37.009Z",
-      "changeTime": "2019-05-01T15:49:27.663Z",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2019-05-02T16:50:42.694Z",
+      "accessTime": "2019-05-03T12:43:59.839Z",
+      "changeTime": "2019-05-02T16:50:42.694Z",
       "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
       "dir": "/Users/professor/projects/rudra.dev/src/pages",
@@ -1010,20 +999,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 5,
+      "nlink": 6,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 4866887,
       "blocks": 0,
-      "atimeMs": 1556808217008.762,
-      "mtimeMs": 1556725767663.426,
-      "ctimeMs": 1556725767663.426,
+      "atimeMs": 1556887439839.0703,
+      "mtimeMs": 1556815842693.5728,
+      "ctimeMs": 1556815842693.5728,
       "birthtimeMs": 1556725767662.8103,
-      "atime": "2019-05-02T14:43:37.009Z",
-      "mtime": "2019-05-01T15:49:27.663Z",
-      "ctime": "2019-05-01T15:49:27.663Z",
+      "atime": "2019-05-03T12:43:59.839Z",
+      "mtime": "2019-05-02T16:50:42.694Z",
+      "ctime": "2019-05-02T16:50:42.694Z",
       "birthtime": "2019-05-01T15:49:27.663Z"
     },
     "1fb7a080-d3fc-5cc1-a122-b3ad21baf77e": {
@@ -1031,7 +1020,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "2bfdc8966e835107dd7577c5858e7893",
+        "contentDigest": "0ad91351fcc7830250f80186b0776962",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/configuring-npm-behind-a-proxy\"",
         "owner": "gatsby-source-filesystem"
@@ -1043,7 +1032,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-05-01T15:49:27.663Z",
-      "accessTime": "2019-05-02T14:43:37.010Z",
+      "accessTime": "2019-05-03T12:43:59.840Z",
       "changeTime": "2019-05-01T15:49:27.663Z",
       "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
@@ -1061,11 +1050,11 @@
       "blksize": 4096,
       "ino": 4866888,
       "blocks": 0,
-      "atimeMs": 1556808217009.5356,
+      "atimeMs": 1556887439840.413,
       "mtimeMs": 1556725767662.9521,
       "ctimeMs": 1556725767662.9521,
       "birthtimeMs": 1556725767662.8704,
-      "atime": "2019-05-02T14:43:37.010Z",
+      "atime": "2019-05-03T12:43:59.840Z",
       "mtime": "2019-05-01T15:49:27.663Z",
       "ctime": "2019-05-01T15:49:27.663Z",
       "birthtime": "2019-05-01T15:49:27.663Z"
@@ -1075,7 +1064,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b8c34e6afa5b2488869017720affd97e",
+        "contentDigest": "2ec1dfb67af4e3eeacb7a2bebf41dd2b",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/css-and-js-arent-bytecode\"",
         "owner": "gatsby-source-filesystem"
@@ -1087,7 +1076,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-05-01T15:49:27.663Z",
-      "accessTime": "2019-05-02T14:43:37.010Z",
+      "accessTime": "2019-05-03T12:43:59.840Z",
       "changeTime": "2019-05-01T15:49:27.663Z",
       "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
@@ -1105,11 +1094,11 @@
       "blksize": 4096,
       "ino": 4866890,
       "blocks": 0,
-      "atimeMs": 1556808217009.5674,
+      "atimeMs": 1556887439840.46,
       "mtimeMs": 1556725767663.244,
       "ctimeMs": 1556725767663.244,
       "birthtimeMs": 1556725767663.168,
-      "atime": "2019-05-02T14:43:37.010Z",
+      "atime": "2019-05-03T12:43:59.840Z",
       "mtime": "2019-05-01T15:49:27.663Z",
       "ctime": "2019-05-01T15:49:27.663Z",
       "birthtime": "2019-05-01T15:49:27.663Z"
@@ -1119,7 +1108,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "8efd5f0c7f54b09b9349741e825c3431",
+        "contentDigest": "4fd1a20f4b88139916b1b5f1118b8cc0",
         "type": "Directory",
         "description": "Directory \"src/pages/blog/maintaining-multiple-github-accounts\"",
         "owner": "gatsby-source-filesystem"
@@ -1131,7 +1120,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-05-01T15:49:27.663Z",
-      "accessTime": "2019-05-02T14:43:37.010Z",
+      "accessTime": "2019-05-03T12:43:59.840Z",
       "changeTime": "2019-05-01T15:49:27.663Z",
       "birthTime": "2019-05-01T15:49:27.663Z",
       "root": "/",
@@ -1149,11 +1138,11 @@
       "blksize": 4096,
       "ino": 4866892,
       "blocks": 0,
-      "atimeMs": 1556808217009.553,
+      "atimeMs": 1556887439840.37,
       "mtimeMs": 1556725767663.4915,
       "ctimeMs": 1556725767663.4915,
       "birthtimeMs": 1556725767663.407,
-      "atime": "2019-05-02T14:43:37.010Z",
+      "atime": "2019-05-03T12:43:59.840Z",
       "mtime": "2019-05-01T15:49:27.663Z",
       "ctime": "2019-05-01T15:49:27.663Z",
       "birthtime": "2019-05-01T15:49:27.663Z"
@@ -1674,6 +1663,137 @@
       "rawMarkdownBody": "\nThe earliest computers were often programmed without the help of a programming language, by writing programs in absolute machine language. The programs, in decimal or binary form (mostly binary),were read in from punched cards or magnetic tape or toggled in on switches on the front panel of the computer. I guess they started creating programming languages in order to make it human readable. Then they developed  [First Gen](https://en.wikipedia.org/wiki/First-generation_programming_language), [Assembly languages](https://en.wikipedia.org/wiki/First-generation_programming_language)(_Ah..my first project_) and created something called [ high-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language).\n\nBut we didn't stop there, did we ? We had C,we got Python, a more readable yet slow language.People wrote languages like Basic, Scratch, Ruby to make things more simple and people loved it.Okay...We are there now. Everything was going alright..perfect..superb in the IT Programming industry until when some guys got really serious about JavaScript.I guess that's the reason I am writing this blog now.\n\nI was in college when I learned web developement. At that time Frontend developers are not actually called developers but designers. I often took my time off from those grumpy sorting algorithms and writing C and used to geek off with these top three.**HTML**, **CSS** and **JavaScript**.Well practically less JavaScript and more **jQuery**. They were so addictive for a curious guy like me who used to draw his imaginations on a 15.6 inch screen.Nobody really cared about JavaScript back then...everyone was so focused on backend like php,asp,django and hipster rails. \n\nThe space was completely occupied by JQuery with more readable and easily writable syntax.Ajax implementation was easy, people don't have to remember those `getElementById('blah..blah') `  kinda functions.Coming to CSS, writing CSS was absolutely fun until smaller devices came. People needed better looking websites on their phone rather than squeezed down version of websites.Hence designers started writing media queries(_It took me a whole year to understand `@media queries`_) and grids to make sites responsive.\n\n#### Is there any twist in this story..coz I'm getting bored !\n\nThen a guy in [Twitter](https://twitter.com) developed a front-end framework called Bootstrap and the whole world just started drooling over it. It was awesome to use..developers don't had to waste a day to design grids or write media queries.But the problem started when people considered this anything more than a framework. Videos got published, books got written to learn Bootstrap. Now a newbie has to learn HTML,CSS,and Bootstrap instead of just the former two.\n> So Instead of learning how these grids and navbar works,they just started using it.\n\nSame thing also happened to JavaScript.People almost forgot that they can really write an web app by just using pure HTML, CSS and Javascript(_Now they are calling it Vanilla JavaScript_).There was JQuery for quite sometime till angular came.People started using JavaScript in backend,thanks to *node.js*. Then came *Vue.js*, *Ember.js*, *Meteor.js*, *React.js* and more. And surprisingly some of them don't even use JavaScript, instead they use languages that transpiles in JavaScript.\n\nIt's completely understandable when a lazy programmer(_Well all are lazy_) creates one such language so that he and his company don't have to write lengthy JavaScript all the time, why others are jumping there ditching the core language?? In countries like India,China people are following the same pattern where connectivity is not at it's best yet.\n\n> See what happened to _Angular_..!! They rewrote the whole framework and created _Angular 2_. React JS is unstable like an active Volcano.\n\n### What's your point man..Can't you be just happy\n\nI am not completely against it. All that's happening is good, I surely have nothing against any X framework or Y library. Just teach the newbies the basic first. They need to know both the pro's and con's of any library or framework instead of the _\"This framework is so cool..!! coz that company backs it.\"_ trend.\n\n### Adios\n\nWriting the article sitting next to my manager.Gonna get bad appraisal this quarter.\nInspired from this [article](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f/  \"How it feels to learn JavaScript in 2016\" ).\n",
       "fileAbsolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/css-and-js-arent-bytecode/index.md"
     },
+    "502df976-fb4b-5f43-9e5b-51ccbffe7f9c": {
+      "id": "502df976-fb4b-5f43-9e5b-51ccbffe7f9c",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "bfa534a778da380396bbef8851984b7e",
+        "type": "Directory",
+        "description": "Directory \"src/pages/blog/setting-up-vim-for-react\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/setting-up-vim-for-react",
+      "relativePath": "blog/setting-up-vim-for-react",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-05-03T12:40:42.597Z",
+      "accessTime": "2019-05-03T12:43:59.840Z",
+      "changeTime": "2019-05-03T12:40:42.597Z",
+      "birthTime": "2019-05-02T16:50:42.693Z",
+      "root": "/",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages/blog",
+      "base": "setting-up-vim-for-react",
+      "ext": "",
+      "name": "setting-up-vim-for-react",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4977443,
+      "blocks": 0,
+      "atimeMs": 1556887439840.4006,
+      "mtimeMs": 1556887242597.2825,
+      "ctimeMs": 1556887242597.2825,
+      "birthtimeMs": 1556815842693.1924,
+      "atime": "2019-05-03T12:43:59.840Z",
+      "mtime": "2019-05-03T12:40:42.597Z",
+      "ctime": "2019-05-03T12:40:42.597Z",
+      "birthtime": "2019-05-02T16:50:42.693Z"
+    },
+    "be6d0aaa-3bc1-5ac7-9332-ee79bd8034d2": {
+      "id": "be6d0aaa-3bc1-5ac7-9332-ee79bd8034d2",
+      "children": [
+        "c786cea5-39d0-5bf6-8667-1205dfc79daf"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "bd9a3df88771ea5e779f94f611ca80c3",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/setting-up-vim-for-react/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/setting-up-vim-for-react/index.md",
+      "relativePath": "blog/setting-up-vim-for-react/index.md",
+      "extension": "md",
+      "size": 3409,
+      "prettySize": "3.41 kB",
+      "modifiedTime": "2019-05-03T12:40:42.597Z",
+      "accessTime": "2019-05-03T12:40:42.597Z",
+      "changeTime": "2019-05-03T12:40:42.597Z",
+      "birthTime": "2019-05-03T12:40:42.597Z",
+      "root": "/",
+      "dir": "/Users/professor/projects/rudra.dev/src/pages/blog/setting-up-vim-for-react",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "blog/setting-up-vim-for-react",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4985893,
+      "blocks": 8,
+      "atimeMs": 1556887242596.8167,
+      "mtimeMs": 1556887242596.9333,
+      "ctimeMs": 1556887242597.0715,
+      "birthtimeMs": 1556887242596.8167,
+      "atime": "2019-05-03T12:40:42.597Z",
+      "mtime": "2019-05-03T12:40:42.597Z",
+      "ctime": "2019-05-03T12:40:42.597Z",
+      "birthtime": "2019-05-03T12:40:42.597Z"
+    },
+    "c786cea5-39d0-5bf6-8667-1205dfc79daf": {
+      "id": "c786cea5-39d0-5bf6-8667-1205dfc79daf",
+      "children": [],
+      "parent": "be6d0aaa-3bc1-5ac7-9332-ee79bd8034d2",
+      "internal": {
+        "content": "\nIt's been 8 months since I have been using (neo)vim as my primary text editor.\nInitially it was incredibly tough to adopt and use it in work. Well that would\nbe another story to tell.\n\nBack then I was working mostly in backend using [CoffeeScript](https://coffeescript.org/)\n(I know 🙈). VS Code had a little support for CoffeeScript so I didn't had any \nproblems using vim full time.\n\nBut things changed drastically when I moved into UI development this year. I had\nto spend hours reading blogs, threads on reddit to create at least a workable\nsetup for a hassle-less React enviornment. Here I am sharing my vim setup for \nJS/React development.\n\n> Note: I am using [Vundle](https://github.com/VundleVim/Vundle.vim) for plugin\n> management.\n\n### Syntax Highlighting\n\nOut of the box vim/nvim supports syntax highlighting for major programming\nlanguages.\n\n``` bash\nls /usr/share/vim/vim80/syntax/\n```\n\nBut It is yet to add `jsx` to its inventory. Also there are some javascript \nspecific plugins that makes syntax highlighting much better.\n\n[vim-jsx](https://github.com/mxw/vim-jsx) is by far the best jsx plugin for vim.\n[vim-javascript](https://github.com/pangloss/vim-javascript) provides better \nsyntax highlighting and code folding support compared to the default one.\n\n\n``` vim\nPlugin 'mxw/vim-jsx'\nPlugin 'pangloss/vim-javascript'\n```\n### Linters and Formatters\n\nWell everyone has a love hate relationship with linters. Nobody likes those \nannoying red lines on the editor the moment they add a newline.\n\nBut with vim You are in luck. [ALE](https://github.com/w0rp/ale) is a nice \nplugin that asynchronously checks for syntatical errors in the code. It supports\nmnay language specific linters and formatters. ALE also lets people configure\nthe signs for errors and warnings.\n\n``` vim\nPlugin 'w0rp/ale'\n```\n\nFor JS/React development to add `eslint` as a linter and `prettier` I added\nthis to my vimrc\n\n``` vim\nlet g:ale_linters = {\n  \\ 'javascript': ['eslint'],\n  \\}\n\nlet g:ale_fixers = {\n  \\ 'javascript': ['prettier', 'eslint']\n  \\ }\n```\n\nI also mapped `leader+d` as my ale fixer and configured to format each time I\nsave the file.\n\n``` vim\nlet g:ale_fix_on_save = 1\nnmap <leader>d <Plug>(ale_fix)\n```\n\n### Autocompletion\n\nAuto completion in vim is not as good as any modern IDE but [Deoplete](https://github.com/Shougo/deoplete.nvim)\nis worth taking a look.\n\nCheck the [repo](https://github.com/Shougo/deoplete.nvim#install) for \ninstallation guides.\n\n### Commenting\n\nThough this is not specific to any particular language I would like to discuss\nan excellent plugin which is pretty good at commenting and uncommenting code.\n[NerdCommenter](https://github.com/scrooloose/nerdcommenter) definitely going\nto save you a few additional key-presses a day and being a vimmer is all about \nthat.\n\n``` vim\nPlugin 'scrooloose/nerdcommenter'\n```\n\n### conclusion\n\nWith vim it's hard to find an universal config that suits everyone. It's always\nsolving one problem at a time that led me here. This is definitely not a full\nfledge solution to this but it seems to work pretty well for me. So if you have \nany suggestion feel free to ping me on [Twitter](https://twitter.com/ThisIsRudra).\n\nMy full vim setup can be found [here](https://github.com/mrprofessor/dotfiles/blob/master/.vimrc).\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "d638d9ad8d6ff73359788b8d1a363417",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Setting up vim for React development",
+        "date": "2019-05-03",
+        "path": "/blog/setting-up-vim-for-react",
+        "publish": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nIt's been 8 months since I have been using (neo)vim as my primary text editor.\nInitially it was incredibly tough to adopt and use it in work. Well that would\nbe another story to tell.\n\nBack then I was working mostly in backend using [CoffeeScript](https://coffeescript.org/)\n(I know 🙈). VS Code had a little support for CoffeeScript so I didn't had any \nproblems using vim full time.\n\nBut things changed drastically when I moved into UI development this year. I had\nto spend hours reading blogs, threads on reddit to create at least a workable\nsetup for a hassle-less React enviornment. Here I am sharing my vim setup for \nJS/React development.\n\n> Note: I am using [Vundle](https://github.com/VundleVim/Vundle.vim) for plugin\n> management.\n\n### Syntax Highlighting\n\nOut of the box vim/nvim supports syntax highlighting for major programming\nlanguages.\n\n``` bash\nls /usr/share/vim/vim80/syntax/\n```\n\nBut It is yet to add `jsx` to its inventory. Also there are some javascript \nspecific plugins that makes syntax highlighting much better.\n\n[vim-jsx](https://github.com/mxw/vim-jsx) is by far the best jsx plugin for vim.\n[vim-javascript](https://github.com/pangloss/vim-javascript) provides better \nsyntax highlighting and code folding support compared to the default one.\n\n\n``` vim\nPlugin 'mxw/vim-jsx'\nPlugin 'pangloss/vim-javascript'\n```\n### Linters and Formatters\n\nWell everyone has a love hate relationship with linters. Nobody likes those \nannoying red lines on the editor the moment they add a newline.\n\nBut with vim You are in luck. [ALE](https://github.com/w0rp/ale) is a nice \nplugin that asynchronously checks for syntatical errors in the code. It supports\nmnay language specific linters and formatters. ALE also lets people configure\nthe signs for errors and warnings.\n\n``` vim\nPlugin 'w0rp/ale'\n```\n\nFor JS/React development to add `eslint` as a linter and `prettier` I added\nthis to my vimrc\n\n``` vim\nlet g:ale_linters = {\n  \\ 'javascript': ['eslint'],\n  \\}\n\nlet g:ale_fixers = {\n  \\ 'javascript': ['prettier', 'eslint']\n  \\ }\n```\n\nI also mapped `leader+d` as my ale fixer and configured to format each time I\nsave the file.\n\n``` vim\nlet g:ale_fix_on_save = 1\nnmap <leader>d <Plug>(ale_fix)\n```\n\n### Autocompletion\n\nAuto completion in vim is not as good as any modern IDE but [Deoplete](https://github.com/Shougo/deoplete.nvim)\nis worth taking a look.\n\nCheck the [repo](https://github.com/Shougo/deoplete.nvim#install) for \ninstallation guides.\n\n### Commenting\n\nThough this is not specific to any particular language I would like to discuss\nan excellent plugin which is pretty good at commenting and uncommenting code.\n[NerdCommenter](https://github.com/scrooloose/nerdcommenter) definitely going\nto save you a few additional key-presses a day and being a vimmer is all about \nthat.\n\n``` vim\nPlugin 'scrooloose/nerdcommenter'\n```\n\n### conclusion\n\nWith vim it's hard to find an universal config that suits everyone. It's always\nsolving one problem at a time that led me here. This is definitely not a full\nfledge solution to this but it seems to work pretty well for me. So if you have \nany suggestion feel free to ping me on [Twitter](https://twitter.com/ThisIsRudra).\n\nMy full vim setup can be found [here](https://github.com/mrprofessor/dotfiles/blob/master/.vimrc).\n",
+      "fileAbsolutePath": "/Users/professor/projects/rudra.dev/src/pages/blog/setting-up-vim-for-react/index.md"
+    },
+    "SitePage /blog/setting-up-vim-for-react": {
+      "jsonName": "blog-setting-up-vim-for-react-eac",
+      "internalComponentName": "ComponentBlogSettingUpVimForReact",
+      "path": "/blog/setting-up-vim-for-react",
+      "component": "/Users/professor/projects/rudra.dev/src/templates/BlogTemplate.js",
+      "componentChunkName": "component---src-templates-blog-template-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/professor/projects/rudra.dev/src/templates/BlogTemplate.js",
+      "id": "SitePage /blog/setting-up-vim-for-react",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3aff10a8eb45d58363711f222dadf125",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /blog/maintaining-multiple-github-accounts": {
       "jsonName": "blog-maintaining-multiple-github-accounts-98c",
       "internalComponentName": "ComponentBlogMaintainingMultipleGithubAccounts",
@@ -1892,6 +2012,14 @@
       ],
       "100cabe8-ed3a-5519-9867-090fa47a3bf7": [
         "/blog/css-and-js-are-not-bytecode"
+      ],
+      "c786cea5-39d0-5bf6-8667-1205dfc79daf": [
+        "/blog/setting-up-vim-for-react"
+      ],
+      "06db7af9-5038-5f76-b2cc-742cd2b538a1": [],
+      "0bbd5a16-847d-5df3-8136-d0ff8465d94a": [],
+      "27091f98-19d1-59e7-812e-54bdab81ec9d": [
+        "/blog/setting-up-vim-for-react"
       ]
     },
     "connections": {
@@ -1904,10 +2032,10 @@
     }
   },
   "jsonDataPaths": {
-    "index": "255/path---index-6a9-kA8VkbQvFJH00dY5lT4Lr9vQbY",
+    "index": "597/path---index-6a9-10bYXpKfMDby1H0mafMmn714t7Q",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "blog-pilot-9a5": "650/path---blog-pilot-9-a-5-ead-NZuapzHg3X9TaN1iIixfv1W23E",
-    "blog-f7a": "221/path---blog-f-7-a-05d-kA8VkbQvFJH00dY5lT4Lr9vQbY",
+    "blog-f7a": "512/path---blog-f-7-a-05d-10bYXpKfMDby1H0mafMmn714t7Q",
     "blog-summary-2cf": "26/path---blog-summary-2-cf-632-YgV6PMucCfm5UqFLltIiArHr58",
     "blog-pilot-6bf": "22/path---blog-pilot-6-bf-4c6-YgV6PMucCfm5UqFLltIiArHr58",
     "projects-9e9": "545/path---projects-9-e-9-957-NZuapzHg3X9TaN1iIixfv1W23E",
@@ -1921,16 +2049,13 @@
     "blog-css-and-js-are-not-bytecode-506": "745/path---blog-css-and-js-are-not-bytecode-506-4eb-ucvvHqyHl1Q0lrxnpNgNnAlw08",
     "blog-configuring-npm-behind-a-proxy-0c2": "250/path---blog-configuring-npm-behind-a-proxy-0-c-2-83e-ZMUzk8aBT2c72E79Z5OkGtVJJI",
     "blog-maintaining-multiple-github-accounts-98c": "761/path---blog-maintaining-multiple-github-accounts-98-c-532-OvTjZiPhmdMMzA29UgK8JPdmI",
-    "resume-e4f": "794/path---resume-e-4-f-cdf-NZuapzHg3X9TaN1iIixfv1W23E"
+    "resume-e4f": "794/path---resume-e-4-f-cdf-NZuapzHg3X9TaN1iIixfv1W23E",
+    "blog-setting-up-vim-for-react-eac": "955/path---blog-setting-up-vim-for-react-eac-83a-W3tb4MdVAxalnUdyK5fhH7mA3zI"
   },
   "components": {
     "/Users/professor/projects/rudra.dev/src/templates/BlogTemplate.js": {
       "query": "query usersProfessorProjectsRudraDevSrcTemplatesBlogTemplateJs1579142440(\n  $path: String!\n) {\n  markdownRemark(frontmatter: {path: {eq: $path}}) {\n    html\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      path\n      title\n    }\n  }\n}\n",
       "componentPath": "/Users/professor/projects/rudra.dev/src/templates/BlogTemplate.js"
-    },
-    "/Users/professor/projects/rudra.dev/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Users/professor/projects/rudra.dev/.cache/dev-404-page.js"
     },
     "/Users/professor/projects/rudra.dev/src/pages/404.js": {
       "query": "",
