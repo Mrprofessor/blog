@@ -5,12 +5,12 @@ import Layout from "./../components/layout/Layout";
 const Projects = () => {
   return (
     <Layout>
-      <div>
+      <div className="blog-post-content">
         <h2>about</h2>
         <p>
-          I am an individual(debatable) from planet Earth with humongous
-          curiosity in technology and practically zero talent.I love to code as
-          long as I know how to solve the problem and beyond that I run to those
+          I am an individual from planet Earth with humongous curiosity in
+          technology and practically zero talent.I love to code as long as I
+          know how to solve the problem and beyond that I run to those
           StackOverflow guys.Yeah I am a software developer (yeah.. that means I
           started my carreer editing excel sheets most of the time at work) and
           my buddies call me <kbd>prof</kbd>.
@@ -26,8 +26,9 @@ const Projects = () => {
           this kick-ass startup named{" "}
           <kbd>
             <a target="blank" href="https://turbot.com">
-              Turbot.
+              Turbot
             </a>
+            .
           </kbd>{" "}
           Gotta find Oracle ASAP..huh!
         </p>
@@ -63,8 +64,9 @@ const Projects = () => {
           , and proudly hosted on{" "}
           <code>
             <a target="blank" href="https://github.com/">
-              Github.
+              Github
             </a>
+            .
           </code>
         </p>
         <p>Tried to be funny.Trust me I am not!</p>

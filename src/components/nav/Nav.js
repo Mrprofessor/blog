@@ -7,11 +7,14 @@ const Nav = () => {
       <ul>
         <li>
           {/* <Link to="/projects/" activeClassName="active-link"> */}
-          <Link className="disabled-link">/projects</Link>
+          {/* <Link className="disabled-link">projects</Link> */}
+          <Link to="/projects/" activeClassName="active-link">
+            projects
+          </Link>
         </li>
         <li>
           <Link to="/about/" activeClassName="active-link">
-            /about
+            about
           </Link>
         </li>
         <li>
@@ -19,7 +22,7 @@ const Nav = () => {
             href="https://github.com/mrprofessor/resume/blob/master/rudra_narayan_resume.pdf"
             target="_blank"
           >
-            /resume
+            resume
           </a>
         </li>
       </ul>

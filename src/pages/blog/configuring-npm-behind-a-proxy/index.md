@@ -9,7 +9,7 @@ For people who work in a company and squeez out some of their time to learn node
 
 You can locate your proxy settings from your browser's settings panel.
 
-## Using Proxy with NPM
+### Using Proxy with NPM
 
 Once you have obtained the proxy settings (server URL, port, username and password); you need to configure your npm configurations as follows.
 
