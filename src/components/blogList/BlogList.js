@@ -26,15 +26,3 @@ const BlogList = ({ list }) => {
 };
 
 export default BlogList;
-
-//<ul>
-//{list.map(blog => {
-//return (
-//<li key={blog.node.id}>
-//<Link to={blog.node.frontmatter.path}>
-//{blog.node.frontmatter.title}
-//</Link>
-//</li>
-//);
-//})}
-//</ul>

@@ -2,7 +2,7 @@ $global-font-size: 16px;
 $title-font-size: 1.875rem;
 $content-title-font-size: 1.5rem;
 $nav-font-size: 1rem;
-$primary-color: #424242;
+$primary-color: #333;
 $background-color: #fefefe;
 $border-color: #e6e6e6;
 $post-title-color: #551a8b;
@@ -26,10 +26,12 @@ html {
 
 body {
   //font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-family: "Overpass Mono",monospace;
+  //font-family: "Overpass Mono",monospace;
   //font-family: Overpass,"Overpass Mono",monospace;
   //font-family: Roboto, Helvetica, Arial, sans-serif;
-  color: $primary-color;
+  line-height: 1.6em;
+  //color: $primary-color;
+  color: #333;
   background: $background-color;
 }
 
@@ -69,6 +71,7 @@ nav {
     text-align: left;
     display: block;
     font-size: $title-font-size;
+    font-family: "Overpass Mono",monospace;
     margin-block-start: 0.83em;
     margin-block-end: 0.83em;
     margin-inline-start: 0px;

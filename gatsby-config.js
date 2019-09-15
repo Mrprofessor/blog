@@ -21,6 +21,9 @@ module.exports = {
       options: {
         plugins: [`gatsby-remark-prismjs`]
       }
+    },
+    {
+      resolve: `gatsby-plugin-styled-components`
     }
   ]
 };
