@@ -14,7 +14,6 @@ const GlobalStyle = createGlobalStyle`
   body {
     margin: 0;
     font-family: 'Overpass Mono', monospace;
-    font-size: 18px;
   }
 `;
 

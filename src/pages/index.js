@@ -27,13 +27,3 @@ export const query = graphql`
 export default ({ data }) => {
   return <Blog data={data} />;
 };
-
-//<Layout>
-//<div>
-//<div>
-//{data.allMarkdownRemark.edges && (
-//<BlogList list={data.allMarkdownRemark.edges} />
-//)}
-//</div>
-//</div>
-//</Layout>
