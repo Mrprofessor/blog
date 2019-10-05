@@ -1,9 +1,9 @@
 import React from "react";
 import { graphql } from "gatsby";
-import Layout from "./../components/layout/Layout";
-import CustomCard from "./../shared/customCard/CustomCard";
-import ProjectBoard from "./../shared/projectBoard/ProjectBoard";
-import CustomButton from "./../shared/customButton/CustomButton";
+import Layout from "../components/layout/Layout";
+import CustomCard from "../shared/customCard/CustomCard";
+import ProjectBoard from "../shared/projectBoard/ProjectBoard";
+import CustomButton from "../shared/customButton/CustomButton";
 
 const Projects = () => {
   return (
