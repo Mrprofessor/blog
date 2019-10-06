@@ -1,20 +1,13 @@
 $global-font-size: 16px;
 $title-font-size: 1.875rem;
-$content-title-font-size: 1.275rem;
+$content-title-font-size: 1.5rem;
 $layout-max-width: 48rem;
 $nav-font-size: 1rem;
 $primary-color: #333;
 $background-color: #fefefe;
-
-// Dark mode
-//$background-color: black;
-//$primary-color: #5c5c5c;
-
 $border-color: #e6e6e6;
-$post-title-color: $primary-color;
+$post-title-color: #333;
 $post-link-color: #f93a3a;
-$horizontal-layout-padding: 1.3125rem;
-$vertical-layout-padding: 2.625rem;
 
 @mixin flexify {
   display: flex;
@@ -72,50 +65,24 @@ nav {
 
 .layout {
   .title-wrapper {
-    @include flex-column;
-    margin-bottom: 0.5rem;
+    @include flexify;
   }
   .title {
     color: $primary-color;
     text-align: left;
     display: block;
     font-size: $title-font-size;
+    font-family: "Overpass Mono",monospace;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
     font-weight: bold;
-    margin: 0;
   }
   max-width: $layout-max-width;
   margin-left: auto;
   margin-right: auto;
-  padding: $vertical-layout-padding $horizontal-layout-padding;
-}
-
-
-.blog-list {
-  .list-item {
-    display: flex;
-    //justify-content: unset;
-    flex-direction: column-reverse;
-    align-items: baseline;
-    padding: 0.5rem 0.5rem 0.5rem 0;
-  }
-  .post-title {
-    a {
-      text-decoration: none;
-      color: $post-title-color;
-      font-weight: 600;
-      border-bottom: none;
-      //transition: border-bottom .3s;
-    }
-    a:hover {
-      //border-bottom: 1px solid $post-link-color;
-      color: $post-link-color;
-    }
-  }
-
-  .date-label {
-    font-size: 80%;
-    margin-right: 1rem;
-  }
+  padding: 2.625rem 1.3125rem;
 }
 
 .content {
@@ -136,21 +103,31 @@ nav {
   }
   img {
     width:100%;
+
   }
 }
 
+.blog-list {
+  .list-item {
+    @include flexify;
+    margin-bottom: 0.5rem;
+    .post-title {
+      a {
+        text-decoration: none;
+        color: $post-title-color;
+        font-weight: 600;
+        border-bottom: none;
+        transition: border-bottom .3s;
+      }
+      a:hover {
+        border-bottom: 1px solid $post-link-color;
+      }
+    }
+  }
+}
 
 .gatsby-highlight { 
   font-size: 80%;
-  margin-left: calc(-#{$horizontal-layout-padding});
-  margin-right: calc(-#{$horizontal-layout-padding});
-
-  pre[class*=language-] {
-    border-radius: 5px;
-    overflow: auto;
-    padding: $horizontal-layout-padding;
-    margin: 0;
-  }
 }
 
 .active-link {
@@ -171,11 +148,11 @@ nav {
 .project-board {
   margin-top: calc(#{$global-font-size} * 2);
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
   grid-gap: 20px;
   max-width: $layout-max-width;
-}  
+}
 
 .card {
   min-height: 100%;
@@ -218,7 +195,7 @@ nav {
   color: $post-link-color;
   background-color: transparent;
   cursor: pointer;
-  //transition: border .3s;
+  transition: border .3s;
   transition: color .3s;
 }
 
@@ -236,38 +213,45 @@ nav {
   border-bottom: 1px solid;
 }
 
-@media only screen and (min-width: 600px) {
+//@media only screen and (min-width: 600px) {
+//}
+
+@media only screen and (max-width: 600px) {
   .layout {
     .title-wrapper {
-      @include flexify;
-      flex-direction: row;
+      @include flex-column;
     }
     .title {
-      margin-block-start: 0.83em;
-      margin-block-end: 0.83em;
-      margin-inline-start: 0px;
-      margin-inline-end: 0px;
+      margin: 0;
     }
-  }
-  
-  .blog-list {
-    .list-item {
-      @include flexify;
-      flex-direction: unset;
-      padding: 0;
-      margin-bottom: 0.5rem;
-    }
-    .date-label {
-      font-size: 100%;
-      margin-right: 0;
-    }
-  }
-  .project-board {
-    grid-template-columns: 1fr 1fr;
   }
 
-  .gatsby-highlight { 
-    margin-right: 0;
-    margin-left: 0;
+  .title-wrapper {
+    margin-bottom: 0.5rem;
   }
+
+  .blog-list {
+    .list-item {
+      justify-content: unset;
+      flex-direction: column-reverse;
+      align-items: baseline;
+      padding: 0.5rem;
+    }
+
+    .post-title {}
+
+    .date-label {
+      font-size: 80%;
+      margin-right: 1rem;
+    }
+  }
+
+  .gatsby-highlight {
+    margin-right: -1.8125rem;
+    margin-left: -1.8125rem;
+  }
+
+  .project-board {
+    grid-template-columns: 1fr;
+  }  
 }
