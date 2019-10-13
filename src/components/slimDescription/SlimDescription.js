@@ -11,8 +11,8 @@ const SlimDescription = () => {
   return (
     <div className="slim-description">
       <p>
-        This place is all about my thoughts and obsessions. Some of these posts
-        got promoted to{" "}
+        This place is all about my thoughts, obsessions and mostly rants. Some
+        of these posts got promoted to{" "}
         <a
           href="https://dev.to/mrprofessor"
           target="_blank"

@@ -1,5 +1,5 @@
 ---
-title: Setting up vim for React development
+title: Setting up (Neo)vim for React development
 date: "2019-05-03"
 path: "/blog/setting-up-vim-for-react"
 publish: true
