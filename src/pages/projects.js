@@ -26,11 +26,12 @@ const Projects = () => {
           }
         />
         <CustomCard />
-        <CustomCard />
-        <CustomCard />
       </ProjectBoard>
     </Layout>
   );
 };
 
 export default Projects;
+
+//<CustomCard />
+//<CustomCard />
