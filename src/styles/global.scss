@@ -28,6 +28,16 @@ $vertical-layout-padding: 2.625rem;
   align-items: center;
 }
 
+@mixin full-width-mobile {
+  margin-left: calc(-#{$horizontal-layout-padding});
+  margin-right: calc(-#{$horizontal-layout-padding});
+}
+
+@mixin full-width-web {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 html {
   font-size: $global-font-size;
 }
@@ -36,6 +46,10 @@ body {
   line-height: 1.6em;
   color: $primary-color;
   background: $background-color;
+}
+
+p, sub {
+  letter-spacing: 0.05rem;
 }
 
 a {
@@ -89,6 +103,9 @@ nav {
   padding: $vertical-layout-padding $horizontal-layout-padding;
 }
 
+.post-image {
+  @include full-width-mobile
+}
 
 .blog-list {
   .list-item {
@@ -142,8 +159,7 @@ nav {
 
 .gatsby-highlight { 
   font-size: 80%;
-  margin-left: calc(-#{$horizontal-layout-padding});
-  margin-right: calc(-#{$horizontal-layout-padding});
+  @include full-width-mobile
 
   pre[class*=language-] {
     border-radius: 5px;
@@ -267,7 +283,10 @@ nav {
   }
 
   .gatsby-highlight { 
-    margin-right: 0;
-    margin-left: 0;
+    @include full-width-web;
+  }
+  
+  .post-image {
+    @include full-width-web;
   }
 }

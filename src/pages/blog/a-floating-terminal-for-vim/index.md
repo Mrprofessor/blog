@@ -50,11 +50,15 @@ let g:floaterm_winblend = 0
 Time for some action then! Let's quickly run a python script without bothering
 to leave the window.
 
-![img](./py_demo.gif)
+<div class="post-image">
+  <img src="./py_demo.gif" />
+</div>
 
 The following example shows how I ran gatsby while writing this blog post.
 
-![img](./gatsby_dev.gif)
+<div class="post-image">
+  <img src="./gatsby_dev.gif" />
+</div>
 
 Yeah of course I can still use the in built terminal of neovim in a different
 pane or window, but this plugin really makes it easy.
