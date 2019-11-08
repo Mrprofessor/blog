@@ -48,8 +48,12 @@ body {
   background: $background-color;
 }
 
-p, sub {
+.date-label, p, sub, nav {
   letter-spacing: 0.05rem;
+}
+
+.post-title, .title-wrapper, .title {
+  letter-spacing: 0.075rem;
 }
 
 a {
@@ -119,7 +123,7 @@ nav {
     a {
       text-decoration: none;
       color: $post-title-color;
-      font-weight: 600;
+      //font-weight: 600;
       border-bottom: none;
       //transition: border-bottom .3s;
     }
@@ -182,6 +186,7 @@ nav {
 
 .slim-description {
   margin-bottom: calc(#{$global-font-size} * 2);
+  color: #666;
 }
 
 .project-board {
