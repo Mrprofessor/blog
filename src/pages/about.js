@@ -38,17 +38,17 @@ const Projects = () => {
         </p>
         <p>
           You can find me on{" "}
-          <code>
+          <kbd>
             <a target="blank" href="https://twitter.com/ThisIsRudra">
               Twitter
             </a>
-          </code>
+          </kbd>
           , on{" "}
-          <code>
+          <kbd>
             <a target="blank" href="https://github.com/mrprofessor">
               GitHub
             </a>
-          </code>{" "}
+          </kbd>{" "}
           or at my cubicle.
         </p>
 
@@ -56,18 +56,18 @@ const Projects = () => {
         <p>All goes to me.</p>
         <p>
           Kidding...This site was built with the amazing{" "}
-          <code>
+          <kbd>
             <a target="blank" href="https://reactjs.org">
               react
             </a>
-          </code>
+          </kbd>
           , and proudly hosted on{" "}
-          <code>
+          <kbd>
             <a target="blank" href="https://github.com/">
               Github
             </a>
             .
-          </code>
+          </kbd>
         </p>
         <p>Tried to be funny.Trust me I am not!</p>
       </div>

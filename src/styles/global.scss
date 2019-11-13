@@ -48,11 +48,15 @@ body {
   background: $background-color;
 }
 
-.date-label, p, sub, nav {
+.post-title, .date-label {
+  letter-spacing: 0.025rem;
+}
+
+p, sub, nav{
   letter-spacing: 0.05rem;
 }
 
-.post-title, .title-wrapper, .title {
+.title-wrapper, .title {
   letter-spacing: 0.075rem;
 }
 
@@ -98,7 +102,7 @@ nav {
     text-align: left;
     display: block;
     font-size: $title-font-size;
-    font-weight: bold;
+    //font-weight: bold;
     margin: 0;
   }
   max-width: $layout-max-width;
@@ -170,6 +174,10 @@ nav {
     overflow: auto;
     padding: $horizontal-layout-padding;
     margin: 0;
+
+    .token.comment {
+      font-style: italic;
+    }
   }
 }
 
