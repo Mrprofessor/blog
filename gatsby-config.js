@@ -27,6 +27,13 @@ module.exports = {
             options: {
               maxWidth: 1200
             }
+          },
+          {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "nofollow"
+            }
           }
         ]
       }

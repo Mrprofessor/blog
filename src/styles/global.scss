@@ -3,19 +3,28 @@ $title-font-size: 1.875rem;
 $content-title-font-size: 1.275rem;
 $layout-max-width: 48rem;
 $nav-font-size: 1rem;
+
 $primary-color: #333;
+$subscript-color: #666;
 $background-color: #fefefe;
 $blockquote-background-color: #f9f9f9;
 
 // Dark mode
-//$background-color: black;
-//$primary-color: #5c5c5c;
+$dark-mode-background-color: #353535;
+$dark-mode-primary-color: #dddddd;
+$dark-mode-blockquote-background-color: #2A2A2A;
+
+// Matrix mode
+//$dark-mode-background-color: black;
+//$dark-mode-primary-color: limegreen;
+//$dark-mode-blockquote-background-color: #2A2A2A;
 
 $border-color: #e6e6e6;
 $post-title-color: $primary-color;
 $post-link-color: #f93a3a;
 $horizontal-layout-padding: 1.3125rem;
 $vertical-layout-padding: 2.625rem;
+
 
 @mixin flexify {
   display: flex;
@@ -49,18 +58,22 @@ body {
   background: $background-color;
 }
 
+.post-title, .date-label {
+  letter-spacing: 0.025rem;
+}
+
 // Style blockquotes
 // https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/
 blockquote {
   background: $blockquote-background-color;
-  border-left: 5px solid $post-link-color;
+  border-left: 5px solid $primary-color;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
 }
 
 blockquote:before {
-  color: $post-link-color;
+  color: $primary-color;
   content: open-quote;
   font-size: 4em;
   line-height: 0.1em;
@@ -70,10 +83,6 @@ blockquote:before {
 
 blockquote p {
   display: inline;
-}
-
-.post-title, .date-label {
-  letter-spacing: 0.025rem;
 }
 
 p, sub, nav{
@@ -99,10 +108,10 @@ nav {
       display: inline;
       list-style-type: none;
       a {
+        color: $primary-color;
         display: inline-block;
         padding-top: 0.5rem;
         padding-bottom: 0.5rem;
-        color: #444;
         border-bottom: 1px solid $background-color;
       }
       a:hover {
@@ -169,7 +178,6 @@ nav {
 
 .content {
   .title {
-    color: $primary-color;
     font-size: $content-title-font-size;
   }
 }
@@ -218,7 +226,7 @@ nav {
 
 .slim-description {
   margin-bottom: calc(#{$global-font-size} * 2);
-  color: #666;
+  color: $subscript-color;
 }
 
 .project-board {
@@ -235,7 +243,6 @@ nav {
   position: relative;
   display: flex;
   flex-direction: column;
-  color: #444;
   text-decoration: none;
   $border-width: 3px;
   border-radius: $border-width;
@@ -249,10 +256,10 @@ nav {
 .card h4 {
   font-size: 20px;
   margin: 0;
-  color: #333;
 }
 
 .card p { 
+  color: $subscript-color;
   line-height: 1.4;
 }
 
@@ -288,8 +295,55 @@ nav {
 .brand-icon:hover {
   border-bottom: 1px solid;
 }
+  
 
 @media only screen and (min-width: 600px) {
+
+  // Dark mode
+  /*
+  @media screen and (prefers-color-scheme: dark) {
+    body {
+      color: $dark-mode-primary-color;
+      background: $dark-mode-background-color;
+    }
+    blockquote {
+      background: $dark-mode-blockquote-background-color;
+    }
+    nav {
+      ul {
+        li {
+          a {
+            color: $dark-mode-primary-color;
+            border-bottom: 1px solid $dark-mode-background-color;
+          }
+        }
+      }
+    }
+
+    .layout {
+      .title {
+        color: $dark-mode-primary-color;
+      }
+    }
+
+    .blog-list {
+      .post-title {
+        a {
+          color: $dark-mode-primary-color;
+        }
+      }
+    }
+
+    .custom-button {
+      color: $post-link-color;
+      border: 1px solid $subscript-color;
+    }
+    .custom-button:hover {
+      color: $dark-mode-primary-color;
+    }
+  }
+  */
+
   .layout {
     .title-wrapper {
       @include flexify;
@@ -302,7 +356,8 @@ nav {
       margin-inline-end: 0px;
     }
   }
-  
+
+
   .blog-list {
     .list-item {
       @include flexify;
@@ -327,3 +382,4 @@ nav {
     @include full-width-web;
   }
 }
+
