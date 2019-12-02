@@ -5,6 +5,7 @@ $layout-max-width: 48rem;
 $nav-font-size: 1rem;
 $primary-color: #333;
 $background-color: #fefefe;
+$blockquote-background-color: #f9f9f9;
 
 // Dark mode
 //$background-color: black;
@@ -46,6 +47,29 @@ body {
   line-height: 1.6em;
   color: $primary-color;
   background: $background-color;
+}
+
+// Style blockquotes
+// https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/
+blockquote {
+  background: $blockquote-background-color;
+  border-left: 5px solid $post-link-color;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before {
+  color: $post-link-color;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+  display: inline;
 }
 
 .post-title, .date-label {
