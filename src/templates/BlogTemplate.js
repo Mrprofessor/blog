@@ -1,6 +1,7 @@
 import React from "react";
 import { graphql } from "gatsby";
 import Layout from "./../components/layout/Layout";
+import withUtterances from "with-utterances";
 
 const BlogTemplate = ({ data }) => {
   const { markdownRemark } = data;
@@ -14,6 +15,9 @@ const BlogTemplate = ({ data }) => {
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
+      </div>
+      <div>
+        <withUtterances />
       </div>
     </Layout>
   );
@@ -32,4 +36,10 @@ export const pageQuery = graphql`
   }
 `;
 
-export default BlogTemplate;
+export default withUtterances(
+  BlogTemplate,
+  "mrprofessor/discussions",
+  "github-light",
+  "pathname"
+);
+//export default BlogTemplate;

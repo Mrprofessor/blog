@@ -45,7 +45,8 @@
     "typeface-overpass": "0.0.72",
     "typeface-overpass-mono": "0.0.71",
     "typeface-roboto": "0.0.54",
-    "typeface-roboto-mono": "0.0.54"
+    "typeface-roboto-mono": "0.0.54",
+    "with-utterances": "^1.5.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
