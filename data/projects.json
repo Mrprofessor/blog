@@ -1,0 +1,18 @@
+{
+  "name": "projects",
+
+  "projects": [
+    {
+      "name": "obliterate",
+      "description": "A command line tool written in rust to replace **rm**.",
+      "sourceLink": "https://github.com/mrprofessor/obliterate",
+      "demoLink": ""
+    },
+    {
+      "name": "rudra.dev",
+      "description": "Personal blog built using Gatsby and a lot of grit.",
+      "sourceLink": "https://github.com/mrprofessor/rudra.dev",
+      "demoLink": "https://rudra.dev/"
+    }
+  ]
+}

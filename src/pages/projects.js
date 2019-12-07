@@ -1,39 +1,37 @@
 import React from "react";
 import { graphql } from "gatsby";
+import Remarkable from "react-remarkable";
 import Layout from "../components/layout/Layout";
 import CustomCard from "../shared/customCard/CustomCard";
 import ProjectBoard from "../shared/projectBoard/ProjectBoard";
 import CustomButton from "../shared/customButton/CustomButton";
 import Meta from "../components/seo/Meta";
 
+import featuredProjects from "../../data/projects.json";
+
 const Projects = () => {
+  console.log(featuredProjects);
+  // TODO
+  // Fetch projects dynamically
   return (
     <Layout>
       <Meta />
-      <div>
-        <p>Under heavy Construction</p>
-      </div>
       <ProjectBoard>
-        <CustomCard
-          header="rudra.dev"
-          description={"A personal blog built using gatsby.js"}
-          footer={
-            <div class="custom-card-footer">
-              <CustomButton
-                text="source"
-                link="https://github.com/mrprofessor/rudra.dev"
-              />
-              <CustomButton text="demo" link="https://rudra.dev/" />
-            </div>
-          }
-        />
-        <CustomCard />
+        {featuredProjects["projects"].map(project => (
+          <CustomCard
+            header={project["name"]}
+            description={<Remarkable source={project["description"]} />}
+            footer={
+              <div class="custom-card-footer">
+                <CustomButton text="source" link={project["soureLink"]} />
+                <CustomButton text="demo" link={project["demoLink"]} />
+              </div>
+            }
+          />
+        ))}
       </ProjectBoard>
     </Layout>
   );
 };
 
 export default Projects;
-
-//<CustomCard />
-//<CustomCard />
