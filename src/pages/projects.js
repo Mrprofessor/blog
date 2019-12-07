@@ -23,7 +23,7 @@ const Projects = () => {
             description={<Remarkable source={project["description"]} />}
             footer={
               <div class="custom-card-footer">
-                <CustomButton text="source" link={project["soureLink"]} />
+                <CustomButton text="source" link={project["sourceLink"]} />
                 <CustomButton text="demo" link={project["demoLink"]} />
               </div>
             }

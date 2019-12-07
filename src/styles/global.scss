@@ -282,6 +282,10 @@ nav {
   transition: color .3s;
 }
 
+.custom-button-disabled {
+  cursor: no-drop;
+}
+
 .custom-button:hover {
   border: 1px solid $post-link-color;
   //background-color: $post-link-color;
