@@ -3,6 +3,7 @@ import { graphql } from "gatsby";
 import Layout from "../components/layout/Layout";
 import BlogList from "../components/blogList/Bloglist";
 import SlimDescription from "../components/slimDescription/SlimDescription";
+import Meta from "../components/seo/Meta";
 
 export const query = graphql`
   query {
@@ -28,6 +29,7 @@ export const query = graphql`
 const Blog = ({ data }) => {
   return (
     <Layout>
+      <Meta />
       <SlimDescription />
       <div>
         {data.allMarkdownRemark.edges && (

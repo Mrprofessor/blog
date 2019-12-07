@@ -1,10 +1,12 @@
 import React from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/layout/Layout";
+import Meta from "../components/seo/Meta";
 
 const Projects = () => {
   return (
     <Layout>
+      <Meta />
       <div className="blog-post-content">
         <h2>about</h2>
         <p>

@@ -4,10 +4,12 @@ import Layout from "../components/layout/Layout";
 import CustomCard from "../shared/customCard/CustomCard";
 import ProjectBoard from "../shared/projectBoard/ProjectBoard";
 import CustomButton from "../shared/customButton/CustomButton";
+import Meta from "../components/seo/Meta";
 
 const Projects = () => {
   return (
     <Layout>
+      <Meta />
       <div>
         <p>Under heavy Construction</p>
       </div>

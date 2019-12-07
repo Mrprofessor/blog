@@ -1,6 +1,7 @@
 import React from "react";
 import { graphql } from "gatsby";
 import Layout from "./../components/layout/Layout";
+import Meta from "./../components/seo/Meta";
 import withUtterances from "with-utterances";
 
 const BlogTemplate = ({ data }) => {
@@ -8,6 +9,7 @@ const BlogTemplate = ({ data }) => {
   const { frontmatter, html } = markdownRemark;
   return (
     <Layout>
+      <Meta isBlogPost={true} frontmatter={frontmatter} />
       <div className="content">
         <h2 className="title">{frontmatter.title}</h2>
         <sub>{frontmatter.date}</sub>
