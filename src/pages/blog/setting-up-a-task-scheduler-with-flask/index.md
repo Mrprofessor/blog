@@ -9,7 +9,7 @@ The first thing that comes to mind while considering a task scheduler is a cron 
 
 The biggest problem with this approach is when the application is scaled into multiple web servers. In that case instead of running one we could be running multiple cron jobs which might lead to race conditions. Also it's hard to debug if something goes wrong with the task.
 
-With Flask there are multiple ways to address thid problem and [Celery](http://www.celeryproject.org/) is one of the most popular ones. Celery addresses the above problems quite gracefully. It uses same timezones of [pytz](https://pypi.org/project/pytz/) which helps in calculating timezones and setting the scheduler timings accurately.
+With Flask there are multiple ways to address third problem and [Celery](http://www.celeryproject.org/) is one of the most popular ones. Celery addresses the above problems quite gracefully. It uses same timezones of [pytz](https://pypi.org/project/pytz/) which helps in calculating timezones and setting the scheduler timings accurately.
 
 Celery uses a backend message broker (redis or RabbitMQ) to save the state of the schedule which acts as a centralized database server for multiple celery workers running on different web servers.The message broker ensures that the task is run only once as per the schedule, hence eliminating the race condition.
 

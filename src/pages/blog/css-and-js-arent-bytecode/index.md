@@ -31,5 +31,4 @@ I am not completely against it. All that's happening is good, I surely have noth
 
 ### Adios
 
-Writing the article sitting next to my manager.Gonna get bad appraisal this quarter.
 Inspired from this [article](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f/  "How it feels to learn JavaScript in 2016" ).
