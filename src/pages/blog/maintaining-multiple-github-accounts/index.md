@@ -2,6 +2,7 @@
 title: Maintaining multiple GitHub accounts
 date: "2018-01-24"
 path: "/blog/maintaining-multiple-github-accounts"
+blog: true
 publish: true
 ---
 

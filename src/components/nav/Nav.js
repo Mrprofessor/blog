@@ -2,6 +2,8 @@ import React from "react";
 import { Link } from "gatsby";
 
 const Nav = () => {
+  // TODO
+  // Add a config for navs
   return (
     <nav>
       <ul>
@@ -26,12 +28,20 @@ const Nav = () => {
         */}
         <li>
           <a
-            href="https://github.com/mrprofessor/resume/blob/master/rudra_narayan_resume.pdf"
+            //href="https://github.com/mrprofessor/resume/blob/master/rudra_narayan_resume.pdf"
+            href="/rudra_narayan_resume.pdf"
             target="_blank"
           >
             resume
           </a>
         </li>
+        {/* 
+        <li>
+          <Link to="/logs/" activeClassName="active-link">
+            logs
+          </Link>
+        </li>
+        */}
       </ul>
     </nav>
   );

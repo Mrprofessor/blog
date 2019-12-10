@@ -2,6 +2,7 @@
 title: A floating terminal for (Neo)vim
 date: "2019-10-12"
 path: "/blog/a-floating-terminal-for-vim"
+blog: true
 publish: true
 ---
 

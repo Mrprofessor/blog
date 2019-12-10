@@ -8,7 +8,7 @@ import Meta from "../components/seo/Meta";
 export const query = graphql`
   query {
     allMarkdownRemark(
-      filter: { frontmatter: { publish: { eq: true } } }
+      filter: { frontmatter: { log: { ne: true }, publish: { eq: true } } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {
@@ -18,6 +18,7 @@ export const query = graphql`
             date
             path
             publish
+            blog
           }
           id
         }
@@ -30,7 +31,7 @@ const Blog = ({ data }) => {
   return (
     <Layout>
       <Meta />
-      <SlimDescription />
+      <SlimDescription isHome={true} />
       <div>
         {data.allMarkdownRemark.edges && (
           <BlogList list={data.allMarkdownRemark.edges} />

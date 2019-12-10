@@ -7,8 +7,8 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-const SlimDescription = () => {
-  return (
+const SlimDescription = ({ isHome, description = "" }) => {
+  return isHome ? (
     <div className="slim-description">
       <p>
         This place is all about my thoughts, obsessions and mostly rants. Some
@@ -46,6 +46,10 @@ const SlimDescription = () => {
         </a>
         if you are into that kinda stuff.
       </p>
+    </div>
+  ) : (
+    <div className="slim-description">
+      <p>{description}</p>
     </div>
   );
 };

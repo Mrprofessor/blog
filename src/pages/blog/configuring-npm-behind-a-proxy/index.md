@@ -2,6 +2,7 @@
 title: Configuring nodejs and npm behind a proxy
 date: "2017-05-19"
 path: "/blog/configuring-npm-behind-a-proxy"
+blog: true
 publish: true
 ---
 

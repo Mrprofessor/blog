@@ -2,6 +2,7 @@
 title: Setting up (Neo)vim for React development
 date: "2019-05-03"
 path: "/blog/setting-up-vim-for-react"
+blog: true
 publish: true
 ---
 

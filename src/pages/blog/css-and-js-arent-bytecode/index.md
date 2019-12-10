@@ -2,6 +2,7 @@
 title: CSS and JavaScript aren't byte code !!
 date: "2017-03-21"
 path: "/blog/css-and-js-are-not-bytecode"
+blog: true
 publish: true
 ---
 

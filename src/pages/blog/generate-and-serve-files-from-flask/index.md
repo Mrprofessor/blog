@@ -2,6 +2,7 @@
 title: Generate and serve files from flask
 date: "2019-10-05"
 path: "/blog/generate-and-serve-files-from-flask"
+blog: true
 publish: true
 ---
 

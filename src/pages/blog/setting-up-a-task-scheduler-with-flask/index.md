@@ -2,6 +2,7 @@
 title: Setting up a task scheduler in Flask
 date: "2019-11-30"
 path: "/blog/setting-up-a-task-scheduler-in-flask"
+blog: true
 publish: true
 ---
 
@@ -229,7 +230,7 @@ Enable and list all events
 ```bash
 celery -A app.celery control enable_events
 
-celery -A app.celery control events
+celery -A app.celery events
 ```
 
 This spins up a nice interactive terminal ui listing all the details of the scheduled tasks.
