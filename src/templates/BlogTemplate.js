@@ -44,4 +44,3 @@ export default withUtterances(
   "github-light",
   "pathname"
 );
-//export default BlogTemplate;

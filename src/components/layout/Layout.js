@@ -1,5 +1,6 @@
 import React from "react";
 import Nav from "../nav/Nav";
+import BottomNav from "../bottomNav/BottomNav";
 import { StaticQuery, graphql } from "gatsby";
 import { Link } from "gatsby";
 import { createGlobalStyle } from "styled-components";
@@ -59,6 +60,7 @@ const Layout = props => (
           <Nav />
         </div>
         {props.children}
+        {props.bottomNav && <BottomNav />}
       </div>
     )}
   />

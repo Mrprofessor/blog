@@ -28,11 +28,11 @@ export const query = graphql`
 
 const Log = ({ data }) => {
   return (
-    <Layout>
+    <Layout bottomNav={true}>
       <Meta />
       <SlimDescription
         isHome={false}
-        description={"Quite unimportant & blunt journal."}
+        description={"Unimportant, blunt and raw stuff."}
       />
       <div>
         {data.allMarkdownRemark.edges && (

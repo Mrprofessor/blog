@@ -7,16 +7,16 @@ const BlogList = ({ list }) => {
 
   return (
     <div className="blog-list">
-      {list.map(blog => {
+      {list.map(post => {
         return (
-          <article key={blog.node.id} className="list-item">
+          <article key={post.node.id} className="list-item">
             <div className="post-title">
-              <Link to={blog.node.frontmatter.path}>
-                {blog.node.frontmatter.title}
+              <Link to={post.node.frontmatter.path}>
+                {post.node.frontmatter.title}
               </Link>
             </div>
             <span className="date-label">
-              {computeDate(blog.node.frontmatter.date)}
+              {computeDate(post.node.frontmatter.date)}
             </span>
           </article>
         );

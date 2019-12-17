@@ -3,7 +3,9 @@ const path = require("path");
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
 
-  const blogPostTemplate = path.resolve(`src/templates/BlogTemplate.js`);
+  const blogTemplate = path.resolve(`src/templates/BlogTemplate.js`);
+  const logTemplate = path.resolve(`src/templates/logTemplate.js`);
+  const miscTemplate = path.resolve(`src/templates/MiscTemplate.js`);
 
   return graphql(`
     {
@@ -15,6 +17,8 @@ exports.createPages = ({ actions, graphql }) => {
           node {
             frontmatter {
               path
+              post
+              log
             }
           }
         }
@@ -26,10 +30,14 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      createPage({
+      let template = miscTemplate;
+      if (node.frontmatter.post) template = blogTemplate;
+      else if (node.frontmatter.log) template = logTemplate;
+
+      return createPage({
         path: node.frontmatter.path,
-        component: blogPostTemplate,
-        context: {} // additional data can be passed via context
+        component: template,
+        context: {}
       });
     });
   });

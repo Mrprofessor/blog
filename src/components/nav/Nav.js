@@ -8,8 +8,8 @@ const Nav = () => {
     <nav>
       <ul>
         <li>
-          <Link to="/blog/" activeClassName="active-link">
-            blog
+          <Link to="/posts/" activeClassName="active-link">
+            posts
           </Link>
         </li>
         <li>
