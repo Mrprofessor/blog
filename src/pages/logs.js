@@ -32,7 +32,7 @@ const Log = ({ data }) => {
       <Meta />
       <SlimDescription
         isHome={false}
-        description={"Unimportant, blunt and raw stuff."}
+        description={"Unimportant, blunt and raw."}
       />
       <div>
         {data.allMarkdownRemark.edges && (

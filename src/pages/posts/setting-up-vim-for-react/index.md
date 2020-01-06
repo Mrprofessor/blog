@@ -22,7 +22,7 @@ JS/React development.
 > Note: I am using [Vundle](https://github.com/VundleVim/Vundle.vim) for plugin
 > management.
 
-### Syntax Highlighting
+### __Syntax Highlighting__
 
 Out of the box vim/nvim supports syntax highlighting for major programming
 languages.
@@ -43,7 +43,7 @@ syntax highlighting and code folding support compared to the default one.
 Plugin 'mxw/vim-jsx'
 Plugin 'pangloss/vim-javascript'
 ```
-### Linters and Formatters
+### __Linters and Formatters__
 
 Well everyone has a love hate relationship with linters. Nobody likes those 
 annoying red lines on the editor the moment they add a newline.
@@ -78,7 +78,7 @@ let g:ale_fix_on_save = 1
 nmap <leader>d <Plug>(ale_fix)
 ```
 
-### Autocompletion
+### __Autocompletion__
 
 Auto completion in vim is not as good as any modern IDE but [Deoplete](https://github.com/Shougo/deoplete.nvim)
 is worth taking a look.
@@ -86,7 +86,7 @@ is worth taking a look.
 Check the [repo](https://github.com/Shougo/deoplete.nvim#install) for 
 installation guides.
 
-### Commenting
+### __Commenting__
 
 Though this is not specific to any particular language I would like to discuss
 an excellent plugin which is pretty good at commenting and uncommenting code.
@@ -98,7 +98,7 @@ that.
 Plugin 'scrooloose/nerdcommenter'
 ```
 
-### conclusion
+### __conclusion__
 
 With vim it's hard to find an universal config that suits everyone. It's always
 solving one problem at a time that led me here. This is definitely not a full

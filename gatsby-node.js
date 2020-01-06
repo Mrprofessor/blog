@@ -4,7 +4,7 @@ exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
 
   const blogTemplate = path.resolve(`src/templates/BlogTemplate.js`);
-  const logTemplate = path.resolve(`src/templates/logTemplate.js`);
+  const logTemplate = path.resolve(`src/templates/LogTemplate.js`);
   const miscTemplate = path.resolve(`src/templates/MiscTemplate.js`);
 
   return graphql(`

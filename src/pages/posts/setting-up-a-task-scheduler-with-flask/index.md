@@ -17,7 +17,7 @@ Celery uses a backend message broker (redis or RabbitMQ) to save the state of th
 Monitoring real time events is also supported by Celery. It includes a beautiful built-in terminal interface that shows all the current events.A nice standalone project [Flower](https://flower.readthedocs.io/en/latest/) provides a web based tool to administer Celery workers and tasks.It also supports asynchronous task execution which comes in handy for long running tasks.
 
 
-### Let's go hacking
+### __Let's go hacking__
 
 > Here we will be using a dockerized environment. Now the installation of redis and celery can be different from system to system and docker environments are pretty common now a days to do such kind of exercises without worrying so much about local dev infrastructure.
 

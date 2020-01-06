@@ -14,7 +14,7 @@ I was in college when I learned web developement. At that time Frontend develope
 
 The space was completely occupied by JQuery with more readable and easily writable syntax.Ajax implementation was easy, people don't have to remember those `getElementById('blah..blah') `  kinda functions.Coming to CSS, writing CSS was absolutely fun until smaller devices came. People needed better looking websites on their phone rather than squeezed down version of websites.Hence designers started writing media queries(_It took me a whole year to understand `@media queries`_) and grids to make sites responsive.
 
-### Is there any twist in this story..coz I'm getting bored !
+### __Is there any twist in this story..coz I'm getting bored !__
 
 Then a guy in [Twitter](https://twitter.com) developed a front-end framework called Bootstrap and the whole world just started drooling over it. It was awesome to use..developers don't had to waste a day to design grids or write media queries.But the problem started when people considered this anything more than a framework. Videos got published, books got written to learn Bootstrap. Now a newbie has to learn HTML,CSS,and Bootstrap instead of just the former two.
 
@@ -26,10 +26,10 @@ It's completely understandable when a lazy programmer(_Well all are lazy_) creat
 
 > See what happened to _Angular_..!! They rewrote the whole framework and created _Angular 2_. React JS is unstable like an active Volcano.
 
-### What's your point man..Can't you be just happy
+### __What's your point man..Can't you be just happy__
 
 I am not completely against it. All that's happening is good, I surely have nothing against any X framework or Y library. Just teach the newbies the basic first. They need to know both the pro's and con's of any library or framework instead of the _"This framework is so cool..!! coz that company backs it."_ trend.
 
-### Adios
+### __Adios__
 
 Inspired from this [article](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f/  "How it feels to learn JavaScript in 2016" ).

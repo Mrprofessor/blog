@@ -6,11 +6,13 @@ const BottomNav = () => {
     <div className="bottom-nav">
       <nav>
         <ul>
+          {/*
           <li>
             <Link to="/apolitical/" activeClassName="active-link">
               apolitical
             </Link>
           </li>
+          */}
           <li>
             <Link to="/about/" activeClassName="active-link">
               about
