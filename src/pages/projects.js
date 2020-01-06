@@ -19,10 +19,11 @@ const Projects = () => {
       <ProjectBoard>
         {featuredProjects["projects"].map(project => (
           <CustomCard
+            key={project["description"].length}
             header={project["name"]}
             description={<Remarkable source={project["description"]} />}
             footer={
-              <div class="custom-card-footer">
+              <div className="custom-card-footer">
                 <CustomButton text="source" link={project["sourceLink"]} />
                 <CustomButton text="demo" link={project["demoLink"]} />
               </div>
