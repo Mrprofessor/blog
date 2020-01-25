@@ -30,7 +30,7 @@ const SlimDescription = ({ isHome, description = "" }) => {
         </a>
         ,{" "}
         <a
-          href="https://twitter.com/ThisIsRudra"
+          href="https://twitter.com/weary_beard"
           target="_blank"
           className="brand-icon"
         >

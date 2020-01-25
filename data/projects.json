@@ -3,6 +3,12 @@
 
   "projects": [
     {
+      "name": "solitude",
+      "description": "A git based note taking application. 📚",
+      "sourceLink": "https://github.com/mrprofessor/solitude",
+      "demoLink": "https://mrprofessor.github.io/solitude/"
+    },
+    {
       "name": "obliterate",
       "description": "A command line tool written in rust to replace **rm**.",
       "sourceLink": "https://github.com/mrprofessor/obliterate",
