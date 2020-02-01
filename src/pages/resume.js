@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import ReactPdf from "@react-pdf/renderer";
 import useWindowSize from "../hooks/useWindowSize.js";
 
 const Resume = () => {
