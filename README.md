@@ -1,7 +1,2 @@
-# blog
-Personal tech blog
-
-* task 2
-* task 3
-
-## dfdfdfd
+# rudra.dev
+Personal blog built using Gatsby and grit.

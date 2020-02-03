@@ -217,7 +217,7 @@ Our very own timer
 > The application is only for demonstration purpose. The counter won't be accurate as the task processing time is not taken into account while calculating time.
 
 
-### Monitoring events
+### __Monitoring events__
 
 Celery has a rich support for monitoring various statistics for tasks, workers and events. We need to log into the container to enable and monitor events.
 
@@ -239,7 +239,7 @@ This spins up a nice interactive terminal ui listing all the details of the sche
   <img src="./events.png" />
 </div>
 
-### Conclusion
+### __Conclusion__
 
 In this post I have used Celery as an better alternative to crontabs even though the primary purpose of Celery is processing tasks queues. Both Celery worker and beat server can be run on different containers as running background processes on the web container is not regarded as best practice.
 

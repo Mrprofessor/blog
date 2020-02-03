@@ -1,5 +1,5 @@
 ---
-title: Generate and serve files from flask
+title: Generate and serve files from Flask
 date: "2019-10-05"
 path: "/post/generate-and-serve-files-from-flask"
 post: true

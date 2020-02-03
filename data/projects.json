@@ -9,6 +9,12 @@
       "demoLink": "https://mrprofessor.github.io/solitude/"
     },
     {
+      "name": "gitkeeper",
+      "description": "A tiny microservice for client side GitHub authentication.",
+      "sourceLink": "https://github.com/solitudenote/gitkeeper",
+      "demoLink": "https://solitudenote-gitkeeper.glitch.me/"
+    },
+    {
       "name": "obliterate",
       "description": "A command line tool written in rust to replace **rm**.",
       "sourceLink": "https://github.com/mrprofessor/obliterate",
