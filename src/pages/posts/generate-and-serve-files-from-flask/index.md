@@ -104,7 +104,7 @@ Here is the full source code with a working example.
 
 <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
   <iframe
-    src="https://glitch.com/embed/#!/embed/bubble-curio?path=server.py&previewSize=0"
+    src="https://glitch.com/embed/#!/embed/bubble-curio?path=server.py&previewSize=0&sidebarCollapsed=true"
     title="exclusive-sneezeweed on Glitch"
     style="height: 100%; width: 100%; border: 0;">
   </iframe>

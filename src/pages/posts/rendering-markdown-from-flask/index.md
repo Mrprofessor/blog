@@ -10,7 +10,9 @@ In this post I am going to plug about a cool trick(probably useless) that I disc
 
 I was building a tiny [microservice](https://github.com/solitudenote/gitkeeper) which would let the client side application securely authenticate with GitHub. After writing the only required API, I wanted to render the *README.md* file on the index page.
 
-The easiest option I came up with is 
+So I planned to convert markdown to html and serve the resultant string everytime we hit the index.
+
+### __Let's go hacking__
 
 *Required packages*
 ```bash
@@ -61,7 +63,7 @@ formatter = HtmlFormatter(style="emacs",full=True,cssclass="codehilite")
 css_string = formatter.get_style_defs()
 ```
 
-Now we need to append the css_string to the markdown converted HTML string.
+ow we need to append the css_string to the markdown converted HTML string.
 
 ```python
 md_css_string = "<style>" + css_string + "</style>"
@@ -85,7 +87,7 @@ Here is the full source code running on Glitch.
 
 <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
   <iframe
-    src="https://glitch.com/embed/#!/embed/silken-football?path=app.py&previewSize=0"
+    src="https://glitch.com/embed/#!/embed/silken-football?path=app.py&previewSize=0&sidebarCollapsed=true"
     title="silken-football on Glitch"
     style="height: 100%; width: 100%; border: 0;">
   </iframe>

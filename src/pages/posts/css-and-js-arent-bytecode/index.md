@@ -1,10 +1,12 @@
 ---
 title: CSS and JavaScript aren't byte code !!
-date: "2017-03-21"
+date: "2016-09-21"
 path: "/post/css-and-js-are-not-bytecode"
 post: true
 publish: true
 ---
+
+> Disclaimer: I was quite young when I wrote it. I just don't wanna delete it as it was my first ever blog.
 
 The earliest computers were often programmed without the help of a programming language, by writing programs in absolute machine language. The programs, in decimal or binary form (mostly binary),were read in from punched cards or magnetic tape or toggled in on switches on the front panel of the computer. I guess they started creating programming languages in order to make it human readable. Then they developed  [First Gen](https://en.wikipedia.org/wiki/First-generation_programming_language), [Assembly languages](https://en.wikipedia.org/wiki/First-generation_programming_language)(_Ah..my first project_) and created something called [ high-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language).
 
@@ -20,9 +22,9 @@ Then a guy in [Twitter](https://twitter.com) developed a front-end framework cal
 
 > So Instead of learning how these grids and navbar works,they just started using it.
 
-Same thing also happened to JavaScript.People almost forgot that they can really write an web app by just using pure HTML, CSS and Javascript(_Now they are calling it Vanilla JavaScript_).There was JQuery for quite sometime till angular came.People started using JavaScript in backend,thanks to *node.js*. Then came *Vue.js*, *Ember.js*, *Meteor.js*, *React.js* and more. And surprisingly some of them don't even use JavaScript, instead they use languages that transpiles in JavaScript.
+Same thing also happened to JavaScript.People almost forgot that they can really write an web app by just using pure HTML, CSS and Javascript(_Now they are calling it Vanilla JavaScript_).There was JQuery for quite sometime till angular came.People started using JavaScript in backend,thanks to *node.js*. Then came *Vue.js*, *Ember.js*, *Meteor.js*, *React.js* and more. And surprisingly some of them don't even use JavaScript, instead they use languages that transpiles to JavaScript.
 
-It's completely understandable when a lazy programmer(_Well all are lazy_) creates one such language so that he and his company don't have to write lengthy JavaScript all the time, why others are jumping there ditching the core language?? In countries like India,China people are following the same pattern where connectivity is not at it's best yet.
+<!-- It's completely understandable when a lazy programmer(_Well all are lazy_) creates one such language so that he and his company don't have to write lengthy JavaScript all the time, why others are jumping there ditching the core language?? In countries like India,China people are following the same pattern where connectivity is not at it's best yet. -->
 
 > See what happened to _Angular_..!! They rewrote the whole framework and created _Angular 2_. React JS is unstable like an active Volcano.
 
