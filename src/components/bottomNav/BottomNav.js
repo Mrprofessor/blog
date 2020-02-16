@@ -23,6 +23,11 @@ const BottomNav = () => {
               logs
             </Link>
           </li>
+          <li>
+            <Link to="/til/" activeClassName="active-link">
+              til
+            </Link>
+          </li>
         </ul>
       </nav>
     </div>
