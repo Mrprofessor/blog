@@ -6,13 +6,6 @@ const BottomNav = () => {
     <div className="bottom-nav">
       <nav>
         <ul>
-          {/*
-          <li>
-            <Link to="/apolitical/" activeClassName="active-link">
-              apolitical
-            </Link>
-          </li>
-          */}
           <li>
             <Link to="/about/" activeClassName="active-link">
               about
@@ -21,6 +14,11 @@ const BottomNav = () => {
           <li>
             <Link to="/logs/" activeClassName="active-link">
               logs
+            </Link>
+          </li>
+          <li>
+            <Link to="/you-are-being-tracked/" activeClassName="active-link">
+              privacy
             </Link>
           </li>
         </ul>

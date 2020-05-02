@@ -60,6 +60,19 @@ module.exports = {
         crossOrigin: `use-credentials`
       }
     },
+    {
+      resolve: "gatsby-plugin-ackee-tracker",
+      options: {
+        // Domain ID found when adding a domain in the admin panel.
+        domainId: "45af9210-721f-4c09-a69d-77e66fe7bc5d",
+        // URL to Server eg: "https://analytics.test.com".
+        server: "https://prof-ackee.herokuapp.com",
+        // Disabled analytic tracking when running locally
+        ignoreLocalhost: false,
+        // If enabled it will collect info on OS, BrowserInfo, Device  & ScreenSize
+        detailed: true
+      }
+    },
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-react-helmet`,
