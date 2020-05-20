@@ -100,6 +100,6 @@ Here we are storing the client id and client secret as environment variable and 
 
 ### __Conclusion__
 
-This kind of design is pretty common with most OAuth authentication processes. Here for hosting I have used [Glitch](https://glitch.com/) as it is free and easy to maintain. If you are expecting an high volume of requests, a more serious server would be a better choice. Here for hosting I have used Glitch as it is free and easy to maintain. If you are expecting an high volume of requests, a more serious server would be a better choice.
+This kind of design is pretty common with most OAuth authentication processes. Here for hosting I have used [Glitch](https://glitch.com/) as it is free and easy to maintain. If you are expecting an high volume of requests, a more serious server would be a better choice.
 
 The complete source code can be found [here](https://github.com/solitudenote/gitkeeper). Feel free to fork and play around. Adios.
