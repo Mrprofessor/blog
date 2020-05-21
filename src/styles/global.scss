@@ -230,7 +230,6 @@ nav {
 
 
 .gatsby-highlight { 
-  font-size: 80%;
   @include full-width-mobile
 
   pre[class*=language-] {
@@ -418,4 +417,3 @@ nav {
     @include full-width-web;
   }
 }
-
